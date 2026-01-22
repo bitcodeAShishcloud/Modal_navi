@@ -1,0 +1,53 @@
+{
+  "subject": "Mathematics",
+  "qa": [
+    {
+      "question": "What is the Pythagorean theorem?",
+      "answer": "The Pythagorean theorem states that in a right-angled triangle, the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides. The formula is: a² + b² = c², where c is the hypotenuse."
+    },
+    {
+      "question": "What is the value of pi?",
+      "answer": "Pi (π) is a mathematical constant that represents the ratio of a circle's circumference to its diameter. Its approximate value is 3.14159, but it's an irrational number with infinite decimal places."
+    },
+    {
+      "question": "What is a prime number?",
+      "answer": "A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. For example, 2, 3, 5, 7, 11, 13, 17, 19, 23, and 29 are prime numbers."
+    },
+    {
+      "question": "How do you calculate the area of a circle?",
+      "answer": "The area of a circle is calculated using the formula: A = πr², where A is the area, π (pi) is approximately 3.14159, and r is the radius of the circle."
+    },
+    {
+      "question": "What is the quadratic formula?",
+      "answer": "The quadratic formula is used to solve quadratic equations of the form ax² + bx + c = 0. The formula is: x = (-b ± √(b² - 4ac)) / 2a, where a, b, and c are coefficients from the equation."
+    },
+    {
+      "question": "What is the difference between mean, median, and mode?",
+      "answer": "Mean is the average of all numbers (sum divided by count). Median is the middle value when numbers are arranged in order. Mode is the most frequently occurring number in a dataset. All three are measures of central tendency."
+    },
+    {
+      "question": "What is a factorial?",
+      "answer": "A factorial is the product of all positive integers less than or equal to a given number. It's denoted by an exclamation mark. For example, 5! = 5 × 4 × 3 × 2 × 1 = 120."
+    },
+    {
+      "question": "What is the sum of angles in a triangle?",
+      "answer": "The sum of all interior angles in any triangle is always 180 degrees. This is one of the fundamental properties of triangles in Euclidean geometry."
+    },
+    {
+      "question": "What is calculus?",
+      "answer": "Calculus is a branch of mathematics that studies continuous change. It has two main branches: differential calculus (dealing with rates of change and slopes of curves) and integral calculus (dealing with accumulation of quantities and areas under curves)."
+    },
+    {
+      "question": "What is the Fibonacci sequence?",
+      "answer": "The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1. The sequence goes: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on."
+    },
+    {
+      "question": "How do you find the volume of a sphere?",
+      "answer": "The volume of a sphere is calculated using the formula: V = (4/3)πr³, where V is the volume, π (pi) is approximately 3.14159, and r is the radius of the sphere."
+    },
+    {
+      "question": "What is probability?",
+      "answer": "Probability is the measure of the likelihood that an event will occur. It's expressed as a number between 0 and 1, where 0 indicates impossibility and 1 indicates certainty. The formula is: P(event) = (number of favorable outcomes) / (total number of possible outcomes)."
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "subject": "Daily Life",
+  "qa": [
+    {
+      "question": "How can I wake up early?",
+      "answer": "Wake up early by: 1) Going to bed at a consistent time, 2) Getting 7-9 hours of sleep, 3) Placing alarm across the room, 4) Avoiding screens before bed, 5) Opening curtains immediately upon waking, 6) Having a morning routine to look forward to, 7) Avoiding snooze button, 8) Gradually adjusting wake time, 9) Staying consistent on weekends."
+    },
+    {
+      "question": "How do I create a morning routine?",
+      "answer": "Create a morning routine by: 1) Waking at the same time daily, 2) Hydrating immediately, 3) Including exercise or stretching, 4) Eating a healthy breakfast, 5) Meditating or journaling, 6) Planning your day, 7) Avoiding phone initially, 8) Shower and personal care, 9) Doing something you enjoy. Start small, be consistent, adjust as needed. A good morning sets the tone for the day."
+    },
+    {
+      "question": "How can I be more productive?",
+      "answer": "Boost productivity by: 1) Prioritizing tasks (important vs. urgent), 2) Time-blocking your schedule, 3) Eliminating distractions, 4) Taking regular breaks (Pomodoro Technique), 5) Working during your peak energy hours, 6) Setting specific goals, 7) Batch similar tasks, 8) Learning to say no, 9) Using productivity tools, 10) Getting adequate sleep."
+    },
+    {
+      "question": "How do I manage stress effectively?",
+      "answer": "Manage stress through: 1) Regular exercise, 2) Adequate sleep (7-9 hours), 3) Meditation or deep breathing, 4) Time management, 5) Healthy eating, 6) Social connections, 7) Hobbies and relaxation, 8) Limiting caffeine/alcohol, 9) Talking to someone, 10) Professional help if needed. Identify stressors, develop coping strategies, and remember self-care isn't selfish."
+    },
+    {
+      "question": "What are the benefits of exercise?",
+      "answer": "Exercise benefits include: improved cardiovascular health, weight management, stronger muscles and bones, better mood (endorphins), reduced anxiety/depression, improved sleep, increased energy, enhanced cognitive function, disease prevention, and longevity. Even 30 minutes daily of moderate activity makes a difference. Find activities you enjoy for long-term adherence."
+    },
+    {
+      "question": "How can I eat healthier?",
+      "answer": "Eat healthier by: 1) Planning meals in advance, 2) Cooking at home more, 3) Eating more vegetables and fruits, 4) Drinking plenty of water, 5) Reducing processed foods, 6) Controlling portion sizes, 7) Reading nutrition labels, 8) Limiting sugar and salt, 9) Eating mindfully, 10) Allowing occasional treats. Small consistent changes beat drastic diets."
+    },
+    {
+      "question": "How much water should I drink daily?",
+      "answer": "General recommendation is about 8 glasses (2 liters) daily, but needs vary based on body size, activity level, climate, and health. A better indicator is urine color - pale yellow indicates good hydration. Drink when thirsty, more before/during/after exercise, in hot weather, or when ill. Benefits include energy, clearer skin, better digestion, and temperature regulation."
+    },
+    {
+      "question": "How can I improve my sleep quality?",
+      "answer": "Improve sleep by: 1) Maintaining consistent sleep schedule, 2) Creating dark, quiet, cool bedroom, 3) Avoiding screens 1 hour before bed, 4) No caffeine after 2 PM, 5) Regular exercise (not before bed), 6) Comfortable mattress and pillows, 7) Relaxation routine, 8) Limiting daytime naps, 9) Managing stress, 10) Avoiding large meals before bed."
+    },
+    {
+      "question": "How do I save money effectively?",
+      "answer": "Save money by: 1) Creating a budget and tracking expenses, 2) Paying yourself first (automatic savings), 3) Setting specific savings goals, 4) Cutting unnecessary expenses, 5) Using the 50/30/20 rule (needs/wants/savings), 6) Avoiding impulse purchases, 7) Meal planning and cooking at home, 8) Negotiating bills, 9) Building emergency fund, 10) Investing for long-term."
+    },
+    {
+      "question": "What is the 50/30/20 budget rule?",
+      "answer": "The 50/30/20 rule allocates after-tax income: 50% for needs (housing, food, utilities, transportation), 30% for wants (entertainment, dining out, hobbies), and 20% for savings and debt repayment. It's a simple framework for financial balance. Adjust percentages based on personal circumstances, but the principle of intentional allocation remains valuable."
+    },
+    {
+      "question": "How can I be more organized?",
+      "answer": "Stay organized by: 1) Decluttering regularly, 2) Having designated places for items, 3) Using calendars and to-do lists, 4) Planning ahead (weekly/daily), 5) Handling mail/papers immediately, 6) Cleaning as you go, 7) Using storage solutions, 8) Setting routines, 9) Digitizing documents, 10) Reviewing and adjusting systems. Organization reduces stress and saves time."
+    },
+    {
+      "question": "How do I build good habits?",
+      "answer": "Build habits by: 1) Starting small and specific, 2) Habit stacking (attaching new habit to existing one), 3) Making it obvious (visual cues), 4) Making it attractive (reward), 5) Making it easy (reduce friction), 6) Being consistent for 21-66 days, 7) Tracking progress, 8) Finding accountability, 9) Not breaking the chain, 10) Being patient with yourself."
+    },
+    {
+      "question": "How can I break bad habits?",
+      "answer": "Break bad habits by: 1) Identifying triggers, 2) Replacing with positive alternatives, 3) Removing temptations, 4) Finding healthier coping mechanisms, 5) Understanding the underlying need, 6) Using accountability partners, 7) Celebrating small wins, 8) Being patient (setbacks happen), 9) Changing environment, 10) Seeking professional help if needed."
+    },
+    {
+      "question": "How do I manage my time better?",
+      "answer": "Manage time by: 1) Setting clear priorities, 2) Using calendars and planners, 3) Time-blocking important tasks, 4) Avoiding multitasking, 5) Learning to say no, 6) Delegating when possible, 7) Limiting social media/distractions, 8) Batching similar tasks, 9) Taking breaks to recharge, 10) Reviewing and adjusting regularly. Time is your most valuable resource."
+    },
+    {
+      "question": "What is mindfulness?",
+      "answer": "Mindfulness is the practice of being fully present and aware of the current moment without judgment. It involves paying attention to thoughts, feelings, bodily sensations, and surroundings. Benefits include: reduced stress, improved focus, better emotional regulation, enhanced well-being, and increased self-awareness. Practice through meditation, mindful breathing, or bringing awareness to daily activities."
+    },
+    {
+      "question": "How can I practice gratitude?",
+      "answer": "Practice gratitude by: 1) Keeping a daily gratitude journal (list 3 things), 2) Expressing thanks to others, 3) Appreciating small moments, 4) Reflecting before bed, 5) Creating gratitude rituals, 6) Noticing nature and beauty, 7) Reframing challenges as lessons, 8) Volunteering, 9) Limiting complaints, 10) Sharing gratitude with loved ones. Gratitude improves happiness and well-being."
+    },
+    {
+      "question": "How do I stay motivated?",
+      "answer": "Stay motivated by: 1) Setting clear, meaningful goals, 2) Breaking goals into small steps, 3) Visualizing success, 4) Tracking progress, 5) Celebrating small wins, 6) Finding your 'why', 7) Creating accountability, 8) Maintaining routines, 9) Surrounding yourself with positive influences, 10) Being compassionate with setbacks. Motivation fluctuates - discipline and systems matter more."
+    },
+    {
+      "question": "What are the benefits of meditation?",
+      "answer": "Meditation benefits include: reduced stress and anxiety, improved focus and attention, better emotional regulation, enhanced self-awareness, improved sleep, lower blood pressure, increased compassion, pain management, and better overall well-being. Even 5-10 minutes daily makes a difference. Various types exist (mindfulness, loving-kindness, body scan) - find what resonates with you."
+    },
+    {
+      "question": "How can I improve my posture?",
+      "answer": "Improve posture by: 1) Being aware of body position, 2) Sitting with back supported, feet flat, 3) Standing with shoulders back, core engaged, 4) Adjusting screen height to eye level, 5) Taking movement breaks, 6) Strengthening core muscles, 7) Stretching regularly, 8) Using ergonomic furniture, 9) Avoiding crossing legs, 10) Practicing yoga or Pilates."
+    },
+    {
+      "question": "How do I deal with negative thoughts?",
+      "answer": "Handle negative thoughts by: 1) Recognizing and acknowledging them, 2) Challenging their validity, 3) Reframing into balanced perspectives, 4) Practicing self-compassion, 5) Using thought-stopping techniques, 6) Focusing on what you can control, 7) Engaging in positive activities, 8) Meditation and mindfulness, 9) Talking to supportive people, 10) Seeking therapy if persistent."
+    },
+    {
+      "question": "What is self-care?",
+      "answer": "Self-care is deliberately taking action to preserve or improve physical, mental, and emotional health. It includes: adequate sleep, healthy eating, exercise, relaxation, hobbies, social connections, setting boundaries, saying no, and seeking help when needed. Self-care isn't selfish - it's necessary for well-being and prevents burnout. It looks different for everyone based on individual needs."
+    },
+    {
+      "question": "How can I boost my confidence?",
+      "answer": "Build confidence by: 1) Identifying and challenging negative self-talk, 2) Celebrating small achievements, 3) Setting and accomplishing goals, 4) Practicing self-compassion, 5) Improving skills through practice, 6) Taking care of appearance, 7) Using power poses, 8) Surrounding yourself with supportive people, 9) Facing fears gradually, 10) Focusing on strengths, not weaknesses."
+    },
+    {
+      "question": "How do I make better decisions?",
+      "answer": "Make better decisions by: 1) Clearly defining the problem, 2) Gathering relevant information, 3) Considering alternatives, 4) Evaluating pros and cons, 5) Listening to intuition and logic, 6) Considering long-term consequences, 7) Consulting trusted advisors, 8) Avoiding decision fatigue, 9) Setting deadlines, 10) Learning from past decisions. Not all decisions need to be perfect."
+    },
+    {
+      "question": "What is work-life balance?",
+      "answer": "Work-life balance is managing time and energy between work responsibilities and personal life (family, hobbies, health, relationships). It involves: setting boundaries, prioritizing tasks, saying no, taking breaks, using vacation time, unplugging after hours, and making time for what matters. Balance looks different for everyone and changes over time. It's essential for preventing burnout and maintaining well-being."
+    },
+    {
+      "question": "How can I reduce screen time?",
+      "answer": "Reduce screen time by: 1) Setting daily limits, 2) Using screen time tracking apps, 3) Removing apps from phone, 4) Turning off notifications, 5) Keeping phones out of bedroom, 6) Having tech-free meals, 7) Finding alternative activities, 8) Using grayscale mode, 9) Scheduling specific checking times, 10) Being intentional about usage. Start small and be consistent."
+    },
+    {
+      "question": "How do I stay active with a desk job?",
+      "answer": "Stay active at desk jobs by: 1) Standing or walking during calls, 2) Using standing desk, 3) Taking stairs, 4) Walking during lunch, 5) Setting hourly movement reminders, 6) Doing desk exercises, 7) Walking meetings, 8) Parking farther away, 9) Exercising before/after work, 10) Stretching regularly. Even small movements accumulate and counteract sitting's negative effects."
+    },
+    {
+      "question": "What are the benefits of journaling?",
+      "answer": "Journaling benefits include: stress reduction, improved self-awareness, emotional processing, problem-solving clarity, tracking personal growth, enhanced creativity, better memory, goal achievement, gratitude practice, and therapeutic expression. Types include: gratitude journals, bullet journals, stream-of-consciousness, and prompted journals. Even 5-10 minutes daily provides benefits. No right or wrong way to journal."
+    },
+    {
+      "question": "How can I improve my communication skills?",
+      "answer": "Improve communication by: 1) Active listening without interrupting, 2) Being clear and concise, 3) Using 'I' statements, 4) Being aware of body language, 5) Asking clarifying questions, 6) Showing empathy, 7) Adapting to your audience, 8) Practicing regularly, 9) Seeking feedback, 10) Reading and expanding vocabulary. Good communication improves all relationships and opportunities."
+    },
+    {
+      "question": "How do I deal with criticism?",
+      "answer": "Handle criticism by: 1) Listening without being defensive, 2) Pausing before responding, 3) Asking for clarification, 4) Separating valid points from delivery, 5) Thanking them for feedback, 6) Evaluating objectively, 7) Learning and growing from it, 8) Letting go of unfair criticism, 9) Not taking it personally, 10) Using it as motivation. Criticism is data, not a verdict."
+    },
+    {
+      "question": "What is emotional intelligence?",
+      "answer": "Emotional Intelligence (EQ) is the ability to recognize, understand, manage, and influence emotions in yourself and others. Components: self-awareness (knowing emotions), self-regulation (managing emotions), motivation (using emotions productively), empathy (understanding others' emotions), and social skills (managing relationships). High EQ improves relationships, leadership, and overall success. EQ can be developed through practice and awareness."
+    },
+    {
+      "question": "How can I be more patient?",
+      "answer": "Develop patience by: 1) Practicing mindfulness and present-moment awareness, 2) Recognizing impatience triggers, 3) Taking deep breaths when frustrated, 4) Reframing waiting as opportunities, 5) Practicing delayed gratification, 6) Adjusting expectations, 7) Empathizing with others, 8) Finding meaning in the process, 9) Starting with small patience exercises, 10) Being patient with yourself first."
+    },
+    {
+      "question": "How do I set personal boundaries?",
+      "answer": "Set boundaries by: 1) Identifying your limits and values, 2) Communicating clearly and directly, 3) Being specific about needs, 4) Saying no without guilt, 5) Being consistent, 6) Not over-explaining, 7) Preparing for pushback, 8) Following through with consequences, 9) Respecting others' boundaries, 10) Reviewing and adjusting as needed. Boundaries protect your well-being and improve relationships."
+    },
+    {
+      "question": "What is the importance of sleep?",
+      "answer": "Sleep is essential for: physical health (immune function, healing, growth), mental health (mood, stress management), cognitive function (memory, learning, creativity), safety (reduces accidents), longevity, weight management, and overall quality of life. Adults need 7-9 hours nightly. Sleep deprivation impairs judgment, increases disease risk, and affects every aspect of functioning. Prioritize sleep!"
+    },
+    {
+      "question": "How can I develop a reading habit?",
+      "answer": "Build reading habit by: 1) Starting with 10-15 minutes daily, 2) Reading before bed, 3) Always having a book available, 4) Joining book clubs, 5) Setting reading goals, 6) Choosing topics you enjoy, 7) Eliminating distractions, 8) Creating a comfortable reading space, 9) Using audiobooks during commutes, 10) Tracking books read. Make it enjoyable, not a chore."
+    },
+    {
+      "question": "How do I overcome fear?",
+      "answer": "Overcome fear by: 1) Identifying and naming the fear, 2) Understanding it's normal and protective, 3) Challenging catastrophic thinking, 4) Taking small steps toward fear (exposure), 5) Focusing on what you can control, 6) Practicing relaxation techniques, 7) Reframing fear as excitement, 8) Seeking support, 9) Learning about the fear, 10) Accepting fear while moving forward anyway."
+    },
+    {
+      "question": "What are the benefits of cooking at home?",
+      "answer": "Cooking at home provides: better nutrition control, cost savings, portion control, reduced processed foods, family bonding, creativity, skill development, food safety, accommodation of dietary needs, and reduced environmental impact. Start simple, plan meals, batch cook, and involve family. Cooking is a valuable life skill that pays dividends in health and finances."
+    },
+    {
+      "question": "How can I be more creative?",
+      "answer": "Boost creativity by: 1) Making time for creative activities, 2) Trying new experiences, 3) Combining unrelated ideas, 4) Brainstorming without judgment, 5) Learning continuously, 6) Observing and questioning, 7) Taking walks or breaks, 8) Keeping an idea journal, 9) Collaborating with others, 10) Accepting mistakes as part of creation. Creativity is like a muscle - it strengthens with use."
+    },
+    {
+      "question": "How do I handle change effectively?",
+      "answer": "Handle change by: 1) Acknowledging emotions about change, 2) Focusing on what you can control, 3) Staying flexible and open, 4) Seeing opportunities in change, 5) Taking care of yourself during transitions, 6) Seeking support, 7) Taking one day at a time, 8) Learning from the experience, 9) Maintaining routines where possible, 10) Being patient with adjustment process."
+    },
+    {
+      "question": "What is the importance of hobbies?",
+      "answer": "Hobbies provide: stress relief, mental stimulation, sense of accomplishment, social connections, creativity outlet, work-life balance, identity beyond work/roles, skill development, joy and fun, and improved overall well-being. They prevent burnout and maintain mental health. Make time for activities you enjoy - they're not frivolous but essential for balanced, fulfilling life."
+    },
+    {
+      "question": "How can I improve my listening skills?",
+      "answer": "Improve listening by: 1) Giving full attention without distractions, 2) Maintaining eye contact, 3) Not interrupting or planning responses, 4) Asking clarifying questions, 5) Paraphrasing to confirm understanding, 6) Showing empathy and validation, 7) Being aware of body language, 8) Avoiding judgment, 9) Being patient with silence, 10) Practicing regularly. Good listening strengthens all relationships."
+    },
+    {
+      "question": "How do I practice mindful eating?",
+      "answer": "Practice mindful eating by: 1) Eating without distractions (TV, phone), 2) Chewing slowly and thoroughly, 3) Noticing colors, smells, textures, flavors, 4) Recognizing hunger and fullness cues, 5) Putting utensils down between bites, 6) Being grateful for food, 7) Avoiding emotional eating, 8) Eating when hungry, stopping when satisfied, 9) Enjoying each bite, 10) Being present during meals."
+    },
+    {
+      "question": "What is the importance of social connections?",
+      "answer": "Social connections provide: emotional support, sense of belonging, reduced stress, improved mental health, longer life expectancy, better physical health, purpose and meaning, shared joy and experiences, and resilience during challenges. Loneliness negatively impacts health comparable to smoking. Invest in relationships - quality matters more than quantity. Humans are social beings who thrive on connection."
+    },
+    {
+      "question": "How can I be more assertive?",
+      "answer": "Become more assertive by: 1) Knowing and communicating your rights, 2) Using 'I' statements, 3) Being direct and specific, 4) Maintaining calm tone, 5) Using confident body language, 6) Saying no without guilt, 7) Expressing feelings honestly, 8) Respecting others while standing firm, 9) Practicing in low-stakes situations, 10) Not apologizing for valid needs. Assertiveness balances respect for self and others."
+    },
+    {
+      "question": "How do I deal with failure?",
+      "answer": "Handle failure by: 1) Acknowledging disappointment, 2) Avoiding harsh self-criticism, 3) Analyzing what went wrong objectively, 4) Extracting lessons learned, 5) Adjusting approach, 6) Trying again with new strategy, 7) Remembering failure is part of growth, 8) Focusing on effort not just outcome, 9) Seeking feedback and support, 10) Maintaining perspective - one failure doesn't define you."
+    },
+    {
+      "question": "What are the benefits of spending time in nature?",
+      "answer": "Nature time provides: reduced stress and anxiety, improved mood, enhanced creativity, better focus and attention, physical activity, vitamin D from sunlight, improved sleep, lower blood pressure, stronger immune system, and greater sense of well-being. Even 20 minutes in nature helps. Nature is a free, accessible remedy for modern life's stresses. Prioritize outdoor time."
+    },
+    {
+      "question": "How can I improve my memory?",
+      "answer": "Improve memory by: 1) Getting adequate sleep, 2) Regular physical exercise, 3) Eating brain-healthy foods, 4) Staying mentally active, 5) Using mnemonic devices, 6) Practicing mindfulness, 7) Managing stress, 8) Staying socially connected, 9) Reviewing information regularly (spaced repetition), 10) Avoiding excessive alcohol. Memory improves with healthy lifestyle and mental exercise."
+    },
+    {
+      "question": "How do I create better work-life boundaries?",
+      "answer": "Create work-life boundaries by: 1) Setting fixed work hours, 2) Creating physical workspace at home, 3) Turning off work notifications after hours, 4) Taking lunch breaks away from desk, 5) Using separate work/personal devices, 6) Communicating boundaries clearly, 7) Scheduling personal time like meetings, 8) Learning to say no, 9) Using vacation time, 10) Prioritizing health and relationships."
+    },
+    {
+      "question": "What is the importance of routine?",
+      "answer": "Routines provide: structure and stability, reduced decision fatigue, increased productivity, better time management, habit formation, reduced stress, improved sleep, sense of control, achievement feeling, and consistency for goals. They create mental space for creativity and problem-solving by automating basics. Balance routine with flexibility - some structure is grounding but rigidity can be limiting."
+    },
+    {
+      "question": "How can I be more present?",
+      "answer": "Be more present by: 1) Putting away phone/devices, 2) Practicing mindfulness meditation, 3) Engaging fully in current activity, 4) Using all senses to notice surroundings, 5) Limiting multitasking, 6) Taking deep breaths throughout day, 7) Minimizing dwelling on past/future, 8) Really listening in conversations, 9) Savoring moments, 10) Reducing mental clutter. Presence enhances experience and relationships."
+    },
+    {
+      "question": "How do I handle loneliness?",
+      "answer": "Combat loneliness by: 1) Reaching out to friends/family, 2) Joining clubs or groups with shared interests, 3) Volunteering, 4) Taking classes, 5) Using technology to connect meaningfully, 6) Adopting a pet, 7) Talking to neighbors, 8) Working in public spaces, 9) Seeking professional support if persistent, 10) Being patient - building connections takes time. Distinguish solitude (positive) from loneliness (painful)."
+    },
+    {
+      "question": "What is the importance of breakfast?",
+      "answer": "Breakfast benefits include: improved energy and concentration, better metabolism, stable blood sugar, reduced hunger and cravings, better nutrient intake, improved mood, and better weight management. It 'breaks the fast' after sleep. Doesn't have to be large or traditional - even light, protein-rich breakfast helps. However, intermittent fasting works for some. Find what works for your body and schedule."
+    },
+    {
+      "question": "How can I be more optimistic?",
+      "answer": "Cultivate optimism by: 1) Practicing gratitude daily, 2) Challenging negative thoughts, 3) Focusing on solutions not problems, 4) Surrounding yourself with positive people, 5) Celebrating small wins, 6) Learning from setbacks, 7) Limiting negative media, 8) Visualizing positive outcomes, 9) Using positive self-talk, 10) Helping others. Optimism is learnable and improves mental health, relationships, and success."
+    },
+    {
+      "question": "How do I declutter my life?",
+      "answer": "Declutter by: 1) Starting small (one drawer, one category), 2) Using the 'keep, donate, trash' method, 3) Asking if items spark joy or serve purpose, 4) Following one-in-one-out rule, 5) Digitizing documents, 6) Decluttering regularly, 7) Being honest about what you use, 8) Creating designated places for items, 9) Addressing emotional attachments, 10) Maintaining decluttered spaces. Less stuff = less stress."
+    },
+    {
+      "question": "What are the benefits of laughter?",
+      "answer": "Laughter provides: stress reduction, improved immune function, pain relief, muscle relaxation, cardiovascular benefits, improved mood, social bonding, increased resilience, enhanced creativity, and overall well-being. It's a powerful medicine that's free and has no negative side effects. Seek humor, spend time with funny people, watch comedies. Don't take life too seriously - laughter truly is good medicine."
+    },
+    {
+      "question": "How can I improve my self-discipline?",
+      "answer": "Build self-discipline by: 1) Starting with small commitments, 2) Removing temptations, 3) Creating clear goals and plans, 4) Building habits and routines, 5) Using implementation intentions ('If X, then Y'), 6) Practicing delayed gratification, 7) Tracking progress visibly, 8) Finding accountability, 9) Rewarding yourself appropriately, 10) Being patient - discipline develops over time."
+    },
+    {
+      "question": "How do I find my purpose?",
+      "answer": "Find purpose by: 1) Reflecting on what matters most to you, 2) Identifying your strengths and passions, 3) Considering how you want to impact others, 4) Trying different experiences, 5) Asking what problems you want to solve, 6) Noticing what energizes you, 7) Seeking inspiration from role models, 8) Journaling about meaningful moments, 9) Being patient - purpose often unfolds over time, 10) Remembering purpose can evolve."
+    },
+    {
+      "question": "What is the importance of saying no?",
+      "answer": "Saying no is important for: protecting your time and energy, preventing burnout, honoring priorities, maintaining boundaries, reducing resentment, allowing yes to meaningful things, self-respect, managing stress, and living authentically. You can't do everything. Saying no to good things allows yes to great things. Practice: 'No, I can't commit to that' without over-explaining. Your time is valuable."
+    },
+    {
+      "question": "How can I be more environmentally conscious?",
+      "answer": "Be eco-friendly by: 1) Reducing single-use plastics, 2) Recycling and composting, 3) Conserving water and electricity, 4) Using reusable bags/bottles/containers, 5) Buying local and seasonal, 6) Reducing meat consumption, 7) Using public transport/biking/walking, 8) Buying less and choosing quality, 9) Supporting sustainable companies, 10) Educating others. Small actions multiply when many participate."
+    },
+    {
+      "question": "How do I develop a growth mindset?",
+      "answer": "Develop growth mindset by: 1) Viewing challenges as opportunities, 2) Embracing failures as learning, 3) Replacing 'I can't' with 'I can't yet', 4) Valuing effort over talent, 5) Seeking feedback constructively, 6) Being inspired by others' success, 7) Trying new strategies when stuck, 8) Celebrating progress, 9) Being patient with learning process, 10) Believing abilities can be developed. Mindset profoundly impacts achievement."
+    },
+    {
+      "question": "What is the importance of hydration?",
+      "answer": "Proper hydration is essential for: temperature regulation, joint lubrication, nutrient transportation, waste removal, organ function, cognitive performance, energy levels, skin health, digestion, and overall cellular function. Dehydration causes fatigue, headaches, impaired function. Drink before feeling thirsty. Needs vary by person, activity, climate. Monitor urine color - pale yellow indicates good hydration."
+    },
+    {
+      "question": "How can I be a better friend?",
+      "answer": "Be a better friend by: 1) Being genuinely interested and listening well, 2) Being there during tough times, 3) Celebrating their successes, 4) Being reliable and keeping commitments, 5) Being honest and authentic, 6) Respecting boundaries, 7) Making time despite busy schedules, 8) Showing appreciation, 9) Forgiving mistakes, 10) Being non-judgmental. Quality friendships require effort and reciprocity."
+    },
+    {
+      "question": "How do I manage information overload?",
+      "answer": "Manage information overload by: 1) Limiting news consumption to specific times, 2) Unsubscribing from unnecessary emails, 3) Curating social media feeds, 4) Using information management tools, 5) Setting boundaries with notifications, 6) Practicing digital minimalism, 7) Taking regular digital detoxes, 8) Focusing deeply rather than skimming, 9) Filtering information by relevance, 10) Accepting you can't know everything."
+    },
+    {
+      "question": "What are the benefits of volunteering?",
+      "answer": "Volunteering provides: sense of purpose, social connections, skill development, increased happiness, reduced stress, enhanced resume, community impact, new perspectives, gratitude and appreciation, and improved mental/physical health. It's a win-win: you help others while helping yourself. Find causes you care about and contribute time, skills, or resources. Even small acts of service matter."
+    },
+    {
+      "question": "How can I improve my decision-making under pressure?",
+      "answer": "Decide under pressure by: 1) Taking deep breaths to calm, 2) Gathering essential information quickly, 3) Identifying core issue, 4) Considering consequences, 5) Trusting intuition informed by experience, 6) Avoiding analysis paralysis, 7) Making best decision with available information, 8) Being willing to adjust later, 9) Learning from outcomes, 10) Accepting not all decisions will be perfect."
+    },
+    {
+      "question": "How do I stay motivated during difficult times?",
+      "answer": "Stay motivated by: 1) Remembering your purpose and why, 2) Breaking problems into manageable steps, 3) Celebrating small progress, 4) Seeking support and encouragement, 5) Practicing self-compassion, 6) Focusing on what you can control, 7) Maintaining routines and healthy habits, 8) Visualizing better future, 9) Learning from challenges, 10) Accepting difficulty is temporary. Motivation comes and goes - rely on systems and discipline."
+    },
+    {
+      "question": "What is the importance of continuous learning?",
+      "answer": "Continuous learning provides: career advancement, mental stimulation, adaptability, confidence, personal growth, staying relevant, preventing cognitive decline, expanded perspectives, increased opportunities, and fulfillment. In rapidly changing world, learning is essential. Learn through: reading, courses, experiences, mistakes, mentors, and curiosity. Education isn't something that ends - it's lifelong. Stay curious!"
+    },
+    {
+      "question": "How can I practice self-compassion?",
+      "answer": "Practice self-compassion by: 1) Treating yourself like a good friend, 2) Acknowledging you're human and imperfect, 3) Being mindful of self-critical thoughts, 4) Using kind, understanding inner voice, 5) Recognizing common humanity (everyone struggles), 6) Forgiving yourself for mistakes, 7) Taking care of your needs, 8) Avoiding comparison, 9) Practicing self-care, 10) Being patient with yourself. Self-compassion improves resilience and mental health."
+    },
+    {
+      "question": "How do I find balance in life?",
+      "answer": "Find balance by: 1) Defining what balance means for you, 2) Setting clear priorities, 3) Learning to say no, 4) Creating boundaries between life areas, 5) Making time for what matters, 6) Being flexible and adjusting regularly, 7) Not seeking perfection (balance shifts), 8) Taking care of physical/mental health, 9) Regularly evaluating and rebalancing, 10) Accepting balance looks different for everyone and changes over time."
+    }
+  ]
+}

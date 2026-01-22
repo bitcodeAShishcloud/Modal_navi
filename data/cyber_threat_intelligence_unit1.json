@@ -1,0 +1,515 @@
+{
+  "subject": "Cyber Threat Intelligence - Unit 1",
+  "qa": [
+    { "question": "What is Cyber Threat Intelligence?", "answer": "Cyber Threat Intelligence (CTI) is evidence-based knowledge about existing or emerging cyber threats that helps organizations protect their digital assets." },
+    { "question": "Define CTI.", "answer": "CTI is the collection, analysis, and dissemination of information about cyber threats." },
+    { "question": "CTI stands for?", "answer": "Cyber Threat Intelligence." },
+    { "question": "What is the main objective of CTI?", "answer": "To enable proactive defense and informed cybersecurity decision-making." },
+    { "question": "Is CTI proactive or reactive?", "answer": "CTI supports proactive security." },
+
+    { "question": "Why is Cyber Threat Intelligence important?", "answer": "CTI helps organizations identify threats early, understand attacker behavior, reduce risks, and improve response strategies." },
+    { "question": "What kind of decisions does CTI support?", "answer": "Operational, tactical, and strategic cybersecurity decisions." },
+    { "question": "Does CTI prevent all cyber attacks?", "answer": "No, but it significantly reduces risk and impact." },
+    { "question": "CTI focuses on which type of threats?", "answer": "Existing, emerging, and potential cyber threats." },
+    { "question": "CTI improves which security approach?", "answer": "Proactive security approach." },
+
+    { "question": "What are the types of Cyber Threat Intelligence?", "answer": "Strategic, Tactical, and Operational Threat Intelligence." },
+    { "question": "Which CTI type is used by executives?", "answer": "Strategic Threat Intelligence." },
+    { "question": "Which CTI type is used by SOC teams?", "answer": "Tactical Threat Intelligence." },
+    { "question": "Which CTI type focuses on attack campaigns?", "answer": "Operational Threat Intelligence." },
+    { "question": "Which CTI type focuses on long-term risk?", "answer": "Strategic Threat Intelligence." },
+
+    {
+      "question": "Explain Strategic Threat Intelligence.",
+      "answer": "Strategic Threat Intelligence provides a high-level view of the threat landscape, including trends, risks, and business impact. It is primarily used by executives and decision-makers to plan long-term cybersecurity strategies and investments."
+    },
+    {
+      "question": "Explain Tactical Threat Intelligence.",
+      "answer": "Tactical Threat Intelligence focuses on technical indicators such as IOCs, attack techniques, and TTPs. It supports SOC teams in detecting, preventing, and responding to cyber attacks."
+    },
+    {
+      "question": "Explain Operational Threat Intelligence.",
+      "answer": "Operational Threat Intelligence provides detailed insights into specific attacks, adversary campaigns, and attacker behavior, helping incident response teams understand how attacks are executed."
+    },
+
+    { "question": "What is the intelligence lifecycle?", "answer": "A structured process used to create actionable threat intelligence." },
+    { "question": "How many phases are in the intelligence lifecycle?", "answer": "Six phases." },
+    { "question": "Name the phases of intelligence lifecycle.", "answer": "Planning, Collection, Processing, Analysis, Dissemination, Feedback." },
+    { "question": "Which phase defines intelligence requirements?", "answer": "Planning and Direction." },
+    { "question": "Which phase gathers threat data?", "answer": "Collection phase." },
+
+    {
+      "question": "Explain the Planning phase of intelligence lifecycle.",
+      "answer": "The planning phase defines intelligence requirements, identifies critical assets, and determines what information is needed to protect the organization."
+    },
+    {
+      "question": "Explain the Collection phase of intelligence lifecycle.",
+      "answer": "The collection phase involves gathering raw threat data from multiple sources such as logs, OSINT, threat feeds, and internal systems."
+    },
+    {
+      "question": "Explain the Processing phase of intelligence lifecycle.",
+      "answer": "In the processing phase, collected raw data is filtered, cleaned, decrypted, normalized, and transformed into a usable format for analysis."
+    },
+    {
+      "question": "Explain the Analysis phase of intelligence lifecycle.",
+      "answer": "The analysis phase interprets processed data to identify patterns, threats, anomalies, and attacker behavior to produce actionable intelligence."
+    },
+    {
+      "question": "Explain the Dissemination phase of intelligence lifecycle.",
+      "answer": "Dissemination involves sharing analyzed intelligence with stakeholders such as SOC teams, executives, or law enforcement in a timely manner."
+    },
+    {
+      "question": "Explain the Feedback phase of intelligence lifecycle.",
+      "answer": "The feedback phase evaluates the effectiveness of intelligence and helps refine future intelligence requirements and processes."
+    },
+
+    { "question": "Who are key stakeholders in CTI?", "answer": "SOC teams, executives, and law enforcement agencies." },
+    { "question": "What is SOC?", "answer": "Security Operations Center." },
+    { "question": "What is the role of SOC?", "answer": "Monitoring, detecting, investigating, and responding to security incidents." },
+    { "question": "SOC teams mainly use which CTI?", "answer": "Tactical Threat Intelligence." },
+    { "question": "Executives mainly use which CTI?", "answer": "Strategic Threat Intelligence." },
+
+    {
+      "question": "Explain the role of SOC in Cyber Threat Intelligence.",
+      "answer": "SOC teams consume CTI to identify threats, investigate incidents, respond to attacks, and continuously improve detection and response capabilities."
+    },
+    {
+      "question": "Explain the role of executives in Cyber Threat Intelligence.",
+      "answer": "Executives use CTI to understand organizational risk, allocate security budgets, define policies, and make long-term cybersecurity decisions."
+    },
+    {
+      "question": "Explain the role of law enforcement in Cyber Threat Intelligence.",
+      "answer": "Law enforcement agencies use CTI to investigate cybercrimes, disrupt malicious infrastructure, apprehend threat actors, and share intelligence with organizations."
+    },
+
+    { "question": "What is OSINT?", "answer": "Open-Source Intelligence." },
+    { "question": "Give examples of OSINT.", "answer": "News websites, blogs, social media, public reports." },
+    { "question": "What is Dark Web Intelligence?", "answer": "Threat intelligence gathered from dark web sources." },
+    { "question": "What are ISACs?", "answer": "Information Sharing and Analysis Centers." },
+    { "question": "Purpose of ISACs?", "answer": "Sharing industry-specific threat intelligence." },
+
+    { "question": "What are TTPs?", "answer": "Tactics, Techniques, and Procedures used by attackers." },
+    { "question": "Why are TTPs important?", "answer": "They help understand attacker behavior." },
+    { "question": "What is proactive defense?", "answer": "Preventing attacks before they occur." },
+    { "question": "CTI shifts security from?", "answer": "Reactive to proactive." },
+    { "question": "CTI supports which cybersecurity function?", "answer": "Threat detection, response, and prevention." },
+
+    {
+      "question": "How does CTI support proactive cybersecurity?",
+      "answer": "CTI identifies attacker behavior and threats early, enabling organizations to strengthen defenses before attacks cause damage."
+    },
+
+    { "question": "CTI is useful for which industries?", "answer": "Finance, government, defense, IT, retail, and education." },
+    { "question": "CTI helps in incident response?", "answer": "Yes." },
+    { "question": "CTI improves risk management?", "answer": "Yes." },
+    { "question": "CTI helps understand attacker motivation?", "answer": "Yes." },
+    { "question": "CTI improves cybersecurity maturity?", "answer": "Yes." },
+
+    {
+      "question": "What are the benefits of Cyber Threat Intelligence?",
+      "answer": "Benefits include improved threat detection, faster incident response, better risk management, understanding attacker behavior, and enhanced overall cybersecurity posture."
+    },
+
+    { "question": "What does intelligence mean in cybersecurity?", "answer": "Intelligence means analyzed and meaningful information used for decision-making." },
+    { "question": "CTI focuses on which type of knowledge?", "answer": "Evidence-based threat knowledge." },
+    { "question": "CTI is mainly used to understand what?", "answer": "Threat actors and their behavior." },
+    { "question": "Is CTI technical or strategic?", "answer": "It can be both." },
+    { "question": "CTI supports which security approach?", "answer": "Risk-based security." },
+
+    { "question": "What is threat landscape?", "answer": "The overall view of existing and emerging cyber threats." },
+    { "question": "Why understanding threat landscape is important?", "answer": "It helps prioritize defenses and resources." },
+    { "question": "What is actionable intelligence?", "answer": "Intelligence that can be acted upon immediately." },
+    { "question": "Raw data vs intelligence?", "answer": "Raw data is unprocessed; intelligence is analyzed and meaningful." },
+    { "question": "CTI reduces which type of response?", "answer": "Delayed response." },
+
+    {
+      "question": "Explain Cyber Threat Intelligence in detail.",
+      "answer": "Cyber Threat Intelligence (CTI) is the systematic process of collecting, processing, analyzing, and disseminating information about cyber threats. It helps organizations understand adversaries, their motivations, tools, and techniques, enabling proactive defense, faster incident response, and informed decision-making."
+    },
+
+    { "question": "What is evidence-based intelligence?", "answer": "Intelligence supported by verified data." },
+    { "question": "CTI is useful before or after attacks?", "answer": "Both." },
+    { "question": "What is adversary?", "answer": "An attacker or threat actor." },
+    { "question": "Threat actor motivation can be?", "answer": "Financial, political, or ideological." },
+    { "question": "CTI helps identify what about attackers?", "answer": "Intent, capability, and opportunity." },
+
+    { "question": "What is tactical intelligence used for?", "answer": "Immediate threat detection." },
+    { "question": "Tactical intelligence focuses on?", "answer": "IOCs and TTPs." },
+    { "question": "Who consumes tactical intelligence?", "answer": "SOC analysts." },
+    { "question": "Is tactical intelligence short-term?", "answer": "Yes." },
+    { "question": "Tactical intelligence examples?", "answer": "IP addresses, file hashes." },
+
+    {
+      "question": "Describe Tactical Threat Intelligence.",
+      "answer": "Tactical threat intelligence provides low-level, technical details such as IP addresses, domains, file hashes, and malware signatures. It supports SOC teams in detecting, blocking, and responding to attacks in real time."
+    },
+
+    { "question": "Operational intelligence focuses on what?", "answer": "Specific attacks and campaigns." },
+    { "question": "Operational intelligence timeframe?", "answer": "Mid-term." },
+    { "question": "Who uses operational intelligence?", "answer": "Incident response teams." },
+    { "question": "Operational intelligence answers which question?", "answer": "How the attack happened." },
+    { "question": "Operational intelligence links to?", "answer": "Threat campaigns." },
+
+    {
+      "question": "Explain Operational Threat Intelligence.",
+      "answer": "Operational threat intelligence focuses on understanding specific cyber incidents, attacker campaigns, and methods. It helps organizations analyze attack chains, understand adversary capabilities, and respond effectively to ongoing or recent attacks."
+    },
+
+    { "question": "Strategic intelligence focuses on what?", "answer": "Long-term risks." },
+    { "question": "Strategic intelligence consumers?", "answer": "Executives and leadership." },
+    { "question": "Strategic intelligence supports?", "answer": "Policy and investment decisions." },
+    { "question": "Is strategic intelligence technical?", "answer": "No, it is high-level." },
+    { "question": "Strategic intelligence timeframe?", "answer": "Long-term." },
+
+    {
+      "question": "Explain Strategic Threat Intelligence.",
+      "answer": "Strategic threat intelligence provides a high-level overview of cyber risks, trends, and threat actors. It supports executives in making informed decisions about cybersecurity investments, policies, and long-term risk management."
+    },
+
+    { "question": "What is intelligence requirement?", "answer": "Defined information needs." },
+    { "question": "Which lifecycle phase sets requirements?", "answer": "Planning." },
+    { "question": "Why planning is important?", "answer": "It defines intelligence goals." },
+    { "question": "Planning phase focuses on what?", "answer": "Assets and risks." },
+    { "question": "Poor planning leads to?", "answer": "Irrelevant intelligence." },
+
+    {
+      "question": "Explain Planning and Direction phase.",
+      "answer": "Planning and Direction involves identifying intelligence requirements, defining assets to protect, and aligning intelligence activities with organizational goals."
+    },
+
+    { "question": "Collection phase gathers what?", "answer": "Raw threat data." },
+    { "question": "Collection sources include?", "answer": "Logs, feeds, OSINT." },
+    { "question": "Collection can be?", "answer": "Automated or manual." },
+    { "question": "Collection without planning results in?", "answer": "Noise." },
+    { "question": "Collection is followed by?", "answer": "Processing." },
+
+    {
+      "question": "Explain Collection phase of intelligence lifecycle.",
+      "answer": "The collection phase involves gathering raw threat data from multiple sources such as internal logs, threat feeds, OSINT, and external partners."
+    },
+
+    { "question": "Processing converts data into?", "answer": "Usable format." },
+    { "question": "Processing removes what?", "answer": "Duplicates and noise." },
+    { "question": "Processing includes?", "answer": "Normalization and enrichment." },
+    { "question": "Processing is technical?", "answer": "Yes." },
+    { "question": "Processing improves data quality?", "answer": "Yes." },
+
+    {
+      "question": "Explain Processing phase.",
+      "answer": "Processing refines collected data by cleaning, normalizing, enriching, and organizing it to make it suitable for analysis."
+    },
+
+    { "question": "Analysis phase identifies what?", "answer": "Threat patterns." },
+    { "question": "Analysis converts data into?", "answer": "Intelligence." },
+    { "question": "Analysis requires?", "answer": "Human expertise." },
+    { "question": "Analysis answers which question?", "answer": "What does this mean?" },
+    { "question": "Poor analysis leads to?", "answer": "Wrong decisions." },
+
+    {
+      "question": "Explain Analysis phase.",
+      "answer": "The analysis phase interprets processed data to identify threats, attacker behavior, risks, and potential impact on the organization."
+    },
+
+    { "question": "Dissemination means?", "answer": "Sharing intelligence." },
+    { "question": "Dissemination targets?", "answer": "Relevant stakeholders." },
+    { "question": "Wrong dissemination causes?", "answer": "Misuse of intelligence." },
+    { "question": "Dissemination formats?", "answer": "Reports, alerts." },
+    { "question": "Dissemination must be timely?", "answer": "Yes." },
+
+    {
+      "question": "Explain Dissemination phase.",
+      "answer": "Dissemination ensures analyzed intelligence is delivered to the right stakeholders in the right format at the right time."
+    },
+
+    { "question": "Feedback phase helps in?", "answer": "Improvement." },
+    { "question": "Feedback evaluates what?", "answer": "Effectiveness of intelligence." },
+    { "question": "Feedback closes what?", "answer": "Intelligence lifecycle." },
+    { "question": "Feedback ensures relevance?", "answer": "Yes." },
+    { "question": "Feedback is continuous?", "answer": "Yes." },
+
+    {
+      "question": "Explain Feedback phase.",
+      "answer": "Feedback evaluates how useful the intelligence was and identifies gaps to improve future intelligence cycles."
+    },
+
+    { "question": "SOC full form?", "answer": "Security Operations Center." },
+    { "question": "SOC primary role?", "answer": "Threat detection and response." },
+    { "question": "SOC works 24/7?", "answer": "Yes." },
+    { "question": "SOC uses CTI for?", "answer": "Alert prioritization." },
+    { "question": "SOC maturity improves with CTI?", "answer": "Yes." },
+
+    {
+      "question": "Explain SOC as a CTI stakeholder.",
+      "answer": "SOC teams consume CTI to detect threats, investigate alerts, respond to incidents, and continuously improve security operations."
+    },
+
+    { "question": "Executives use CTI for?", "answer": "Strategic decisions." },
+    { "question": "CTI helps executives manage?", "answer": "Cyber risk." },
+    { "question": "Executives prefer which CTI type?", "answer": "Strategic." },
+    { "question": "CTI supports budgeting?", "answer": "Yes." },
+    { "question": "CTI improves governance?", "answer": "Yes." },
+
+    {
+      "question": "Explain executives as CTI stakeholders.",
+      "answer": "Executives rely on strategic threat intelligence to understand cyber risks, guide investments, define policies, and align cybersecurity with business objectives."
+    },
+
+    { "question": "Law enforcement uses CTI for?", "answer": "Cybercrime investigation." },
+    { "question": "Law enforcement shares CTI?", "answer": "Yes." },
+    { "question": "CTI helps law enforcement to?", "answer": "Disrupt criminal networks." },
+    { "question": "Law enforcement targets?", "answer": "Threat actors." },
+    { "question": "Law enforcement acts as?", "answer": "Consumer and provider." },
+
+    {
+      "question": "Explain law enforcement role in CTI.",
+      "answer": "Law enforcement agencies use CTI to investigate cybercrimes, collect evidence, dismantle criminal infrastructure, and share intelligence with other stakeholders."
+    },
+    { "question": "What is a cyber threat?", "answer": "A potential malicious activity that can harm digital assets." },
+    { "question": "Threat intelligence is different from data how?", "answer": "Intelligence is analyzed and contextualized data." },
+    { "question": "CTI helps organizations do what faster?", "answer": "Detect and respond to threats." },
+    { "question": "CTI supports decision-making at which levels?", "answer": "Technical, operational, and strategic." },
+    { "question": "CTI mainly focuses on which domain?", "answer": "Cybersecurity." },
+
+    { "question": "What is threat actor profiling?", "answer": "Identifying attacker behavior, motives, and capabilities." },
+    { "question": "Why threat actor profiling is useful?", "answer": "It helps predict future attacks." },
+    { "question": "Threat actors can be?", "answer": "Individuals or groups." },
+    { "question": "Threat actors may be internal?", "answer": "Yes." },
+    { "question": "Threat actors may be external?", "answer": "Yes." },
+
+    {
+      "question": "Explain threat actor profiling.",
+      "answer": "Threat actor profiling is the process of analyzing attacker behavior, motivations, skills, and objectives. It helps security teams anticipate attack methods and strengthen defenses."
+    },
+
+    { "question": "What is cyber risk?", "answer": "The potential impact of a cyber threat." },
+    { "question": "CTI helps reduce what?", "answer": "Cyber risk." },
+    { "question": "Risk is calculated using?", "answer": "Threat, vulnerability, and impact." },
+    { "question": "CTI helps identify which part of risk?", "answer": "Threats." },
+    { "question": "Risk-based security focuses on?", "answer": "High-impact threats." },
+
+    { "question": "What is proactive security?", "answer": "Preventing attacks before damage occurs." },
+    { "question": "CTI enables proactive defense?", "answer": "Yes." },
+    { "question": "Reactive security responds when?", "answer": "After an attack." },
+    { "question": "CTI shifts security from?", "answer": "Reactive to proactive." },
+    { "question": "Why proactive defense is better?", "answer": "It reduces damage." },
+
+    {
+      "question": "Explain proactive defense using CTI.",
+      "answer": "CTI enables proactive defense by identifying attacker behavior early, allowing organizations to block, mitigate, or prepare defenses before attacks occur."
+    },
+
+    { "question": "What is intelligence gap?", "answer": "Missing or insufficient intelligence." },
+    { "question": "Which lifecycle phase identifies gaps?", "answer": "Feedback." },
+    { "question": "Why identifying gaps is important?", "answer": "To improve intelligence quality." },
+    { "question": "Feedback improves which cycle?", "answer": "Next intelligence cycle." },
+    { "question": "CTI lifecycle is continuous?", "answer": "Yes." },
+
+    { "question": "What are intelligence requirements?", "answer": "Specific information needs." },
+    { "question": "Who defines intelligence requirements?", "answer": "Stakeholders." },
+    { "question": "Requirements depend on?", "answer": "Business objectives." },
+    { "question": "Poor requirements lead to?", "answer": "Low-value intelligence." },
+    { "question": "Clear requirements improve?", "answer": "Analysis accuracy." },
+
+    {
+      "question": "Explain intelligence requirements in CTI.",
+      "answer": "Intelligence requirements define what information is needed, why it is needed, and how it will be used, ensuring CTI efforts align with organizational goals."
+    },
+
+    { "question": "What is OSINT?", "answer": "Publicly available intelligence." },
+    { "question": "OSINT sources include?", "answer": "News, blogs, forums." },
+    { "question": "OSINT is low cost?", "answer": "Yes." },
+    { "question": "OSINT reliability?", "answer": "Needs verification." },
+    { "question": "OSINT supports which CTI type?", "answer": "All types." },
+
+    { "question": "What is internal intelligence?", "answer": "Threat data from internal systems." },
+    { "question": "Examples of internal sources?", "answer": "Logs and alerts." },
+    { "question": "Internal intelligence advantage?", "answer": "Context-aware." },
+    { "question": "Internal intelligence limitation?", "answer": "Limited scope." },
+    { "question": "Internal data is sensitive?", "answer": "Yes." },
+
+    {
+      "question": "Explain internal sources of threat intelligence.",
+      "answer": "Internal sources include logs, alerts, and system data generated within an organization, providing context-specific threat insights."
+    },
+
+    { "question": "What is external intelligence?", "answer": "Threat data from outside sources." },
+    { "question": "External sources include?", "answer": "Vendors and agencies." },
+    { "question": "External intelligence advantage?", "answer": "Broader visibility." },
+    { "question": "External intelligence risk?", "answer": "Irrelevance." },
+    { "question": "Best CTI uses?", "answer": "Both internal and external data." },
+
+    { "question": "What is threat feed?", "answer": "Stream of threat indicators." },
+    { "question": "Threat feeds provide?", "answer": "IOCs." },
+    { "question": "Threat feeds are automated?", "answer": "Often yes." },
+    { "question": "Threat feeds support which CTI?", "answer": "Tactical." },
+    { "question": "Threat feeds need filtering?", "answer": "Yes." },
+
+    { "question": "What is intelligence noise?", "answer": "Irrelevant or excessive data." },
+    { "question": "Noise increases during which phase?", "answer": "Collection." },
+    { "question": "Noise is reduced during?", "answer": "Processing." },
+    { "question": "Too much noise causes?", "answer": "Alert fatigue." },
+    { "question": "CTI helps reduce noise?", "answer": "Yes." },
+
+    {
+      "question": "Explain alert fatigue and CTI.",
+      "answer": "Alert fatigue occurs when analysts face excessive alerts. CTI helps prioritize alerts by relevance and risk."
+    },
+
+    { "question": "What is context in CTI?", "answer": "Additional meaning around data." },
+    { "question": "Context improves what?", "answer": "Decision-making." },
+    { "question": "Context includes?", "answer": "Actor, intent, impact." },
+    { "question": "Context converts data into?", "answer": "Intelligence." },
+    { "question": "CTI without context is?", "answer": "Low value." },
+
+    { "question": "What is intelligence report?", "answer": "Documented CTI output." },
+    { "question": "Reports are shared during?", "answer": "Dissemination." },
+    { "question": "Reports must be audience-specific?", "answer": "Yes." },
+    { "question": "Executives prefer which reports?", "answer": "High-level summaries." },
+    { "question": "SOC prefers which reports?", "answer": "Technical details." },
+
+    {
+      "question": "Explain importance of audience-specific CTI reports.",
+      "answer": "Different stakeholders need different intelligence formats. Tailored reports ensure intelligence is understood and acted upon correctly."
+    },
+
+    { "question": "What is intelligence maturity?", "answer": "Effectiveness of CTI processes." },
+    { "question": "CTI maturity improves with?", "answer": "Experience and feedback." },
+    { "question": "Low CTI maturity results in?", "answer": "Reactive security." },
+    { "question": "High CTI maturity enables?", "answer": "Proactive defense." },
+    { "question": "CTI maturity is static?", "answer": "No." },
+
+    { "question": "CTI supports incident response?", "answer": "Yes." },
+    { "question": "CTI improves detection accuracy?", "answer": "Yes." },
+    { "question": "CTI reduces investigation time?", "answer": "Yes." },
+    { "question": "CTI improves collaboration?", "answer": "Yes." },
+    { "question": "CTI aligns security with business?", "answer": "Yes." },
+
+    {
+      "question": "Explain the overall importance of Cyber Threat Intelligence.",
+      "answer": "CTI helps organizations understand threats, prioritize risks, respond faster, reduce damage, and align cybersecurity strategies with business goals."
+    },
+    { "question": "CTI full form?", "answer": "Cyber Threat Intelligence." },
+    { "question": "CTI belongs to which field?", "answer": "Cybersecurity." },
+    { "question": "CTI is data or intelligence?", "answer": "Intelligence." },
+    { "question": "CTI is proactive or reactive?", "answer": "Proactive." },
+    { "question": "CTI helps prevent attacks?", "answer": "Yes." },
+
+    { "question": "Threat means?", "answer": "Potential harm." },
+    { "question": "Cyber threat means?", "answer": "Digital attack risk." },
+    { "question": "Threat actor means?", "answer": "Attacker." },
+    { "question": "Threat actor can be human?", "answer": "Yes." },
+    { "question": "Threat actor can be group?", "answer": "Yes." },
+
+    { "question": "CTI mainly studies what?", "answer": "Attackers." },
+    { "question": "CTI focuses on behavior?", "answer": "Yes." },
+    { "question": "CTI helps predict attacks?", "answer": "Yes." },
+    { "question": "CTI reduces risk?", "answer": "Yes." },
+    { "question": "CTI increases visibility?", "answer": "Yes." },
+
+    { "question": "What is threat landscape?", "answer": "Overall threat environment." },
+    { "question": "Threat landscape changes?", "answer": "Continuously." },
+    { "question": "CTI monitors threat landscape?", "answer": "Yes." },
+    { "question": "Threat intelligence is continuous?", "answer": "Yes." },
+    { "question": "CTI supports planning?", "answer": "Yes." },
+
+    { "question": "Types of CTI?", "answer": "Strategic, Tactical, Operational." },
+    { "question": "Strategic CTI audience?", "answer": "Executives." },
+    { "question": "Tactical CTI audience?", "answer": "SOC teams." },
+    { "question": "Operational CTI audience?", "answer": "Incident response teams." },
+    { "question": "Strategic CTI is technical?", "answer": "No." },
+
+    { "question": "Strategic CTI focuses on?", "answer": "Long-term risks." },
+    { "question": "Tactical CTI focuses on?", "answer": "IOCs." },
+    { "question": "Operational CTI focuses on?", "answer": "Attack campaigns." },
+    { "question": "Tactical CTI is short-term?", "answer": "Yes." },
+    { "question": "Strategic CTI is long-term?", "answer": "Yes." },
+
+    { "question": "IOC full form?", "answer": "Indicator of Compromise." },
+    { "question": "IOC example?", "answer": "Malicious IP." },
+    { "question": "IOCs are used in which CTI?", "answer": "Tactical." },
+    { "question": "TTP full form?", "answer": "Tactics, Techniques, Procedures." },
+    { "question": "TTPs describe what?", "answer": "Attacker behavior." },
+
+    { "question": "CTI lifecycle has how many phases?", "answer": "Six." },
+    { "question": "First phase of CTI lifecycle?", "answer": "Planning." },
+    { "question": "Last phase of CTI lifecycle?", "answer": "Feedback." },
+    { "question": "Collection phase collects?", "answer": "Raw data." },
+    { "question": "Processing phase converts data?", "answer": "Yes." },
+
+    { "question": "Analysis phase produces?", "answer": "Intelligence." },
+    { "question": "Dissemination phase means?", "answer": "Sharing intelligence." },
+    { "question": "Feedback phase improves?", "answer": "Future intelligence." },
+    { "question": "CTI lifecycle is linear?", "answer": "No." },
+    { "question": "CTI lifecycle is cyclic?", "answer": "Yes." },
+
+    { "question": "Planning phase defines?", "answer": "Intelligence requirements." },
+    { "question": "Poor planning leads to?", "answer": "Low-value CTI." },
+    { "question": "Collection sources include?", "answer": "Logs and feeds." },
+    { "question": "Processing removes?", "answer": "Noise." },
+    { "question": "Analysis needs human input?", "answer": "Yes." },
+
+    { "question": "Dissemination must be timely?", "answer": "Yes." },
+    { "question": "Feedback identifies?", "answer": "Gaps." },
+    { "question": "Feedback closes lifecycle?", "answer": "Yes." },
+    { "question": "CTI lifecycle improves security?", "answer": "Yes." },
+    { "question": "Lifecycle repeats?", "answer": "Continuously." },
+
+    { "question": "SOC full form?", "answer": "Security Operations Center." },
+    { "question": "SOC works 24/7?", "answer": "Yes." },
+    { "question": "SOC detects threats?", "answer": "Yes." },
+    { "question": "SOC responds to incidents?", "answer": "Yes." },
+    { "question": "SOC uses CTI?", "answer": "Yes." },
+
+    { "question": "SOC primary function?", "answer": "Threat monitoring." },
+    { "question": "SOC investigates alerts?", "answer": "Yes." },
+    { "question": "SOC mitigates threats?", "answer": "Yes." },
+    { "question": "SOC improves processes?", "answer": "Yes." },
+    { "question": "CTI helps SOC prioritize alerts?", "answer": "Yes." },
+
+    { "question": "Executives use CTI for?", "answer": "Decision-making." },
+    { "question": "Executives prefer which CTI?", "answer": "Strategic." },
+    { "question": "CTI supports budgeting?", "answer": "Yes." },
+    { "question": "CTI supports policy making?", "answer": "Yes." },
+    { "question": "CTI supports risk management?", "answer": "Yes." },
+
+    { "question": "Law enforcement uses CTI?", "answer": "Yes." },
+    { "question": "Law enforcement investigates?", "answer": "Cybercrime." },
+    { "question": "Law enforcement disrupts?", "answer": "Criminal networks." },
+    { "question": "Law enforcement shares intelligence?", "answer": "Yes." },
+    { "question": "Law enforcement is stakeholder?", "answer": "Yes." },
+
+    { "question": "OSINT full form?", "answer": "Open Source Intelligence." },
+    { "question": "OSINT is public?", "answer": "Yes." },
+    { "question": "OSINT is free?", "answer": "Mostly." },
+    { "question": "OSINT reliability?", "answer": "Needs verification." },
+    { "question": "OSINT supports CTI?", "answer": "Yes." },
+
+    { "question": "Internal intelligence comes from?", "answer": "Internal systems." },
+    { "question": "Internal logs useful?", "answer": "Yes." },
+    { "question": "External intelligence comes from?", "answer": "Outside sources." },
+    { "question": "Threat feeds provide?", "answer": "Indicators." },
+    { "question": "Threat feeds need filtering?", "answer": "Yes." },
+
+    { "question": "Noise means?", "answer": "Irrelevant data." },
+    { "question": "Too much noise causes?", "answer": "Alert fatigue." },
+    { "question": "CTI reduces noise?", "answer": "Yes." },
+    { "question": "Context adds?", "answer": "Meaning." },
+    { "question": "Context improves decisions?", "answer": "Yes." },
+
+    { "question": "CTI report is?", "answer": "Documented intelligence." },
+    { "question": "Reports must be audience-specific?", "answer": "Yes." },
+    { "question": "SOC prefers reports with?", "answer": "Technical detail." },
+    { "question": "Executives prefer reports with?", "answer": "High-level summary." },
+    { "question": "Dissemination uses reports?", "answer": "Yes." },
+
+    {
+      "question": "Why is Cyber Threat Intelligence important?",
+      "answer": "Cyber Threat Intelligence helps organizations understand attackers, reduce risks, respond faster to incidents, and move from reactive to proactive security."
+    },
+    {
+      "question": "Explain CTI in one sentence.",
+      "answer": "CTI is the process of turning threat data into actionable intelligence to improve cybersecurity decisions."
+    }
+
+  ]
+}

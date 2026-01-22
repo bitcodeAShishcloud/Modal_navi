@@ -1,0 +1,405 @@
+{
+  "subject": "General Conversation",
+  "qa": [
+    {
+      "question": "How are you?",
+      "answer": "I'm doing great, thank you for asking! I'm here and ready to help you with any questions you have. How can I assist you today?"
+    },
+    {
+      "question": "What's your name?",
+      "answer": "I'm an AI Knowledge Assistant! I'm designed to help answer your questions across various subjects like math, science, technology, and more. What would you like to know?"
+    },
+    {
+      "question": "Can you help me?",
+      "answer": "Absolutely! I'm here to help you. You can ask me questions about mathematics, science, computer science, English, education, technology, relationships, daily life, and more. What do you need assistance with?"
+    },
+    {
+      "question": "What can you do?",
+      "answer": "I can answer questions across multiple subjects including mathematics, science, computer science, English language, education, technology, relationships, and daily life topics. Simply ask me anything, and I'll do my best to provide helpful information!"
+    },
+    {
+      "question": "Thank you",
+      "answer": "You're very welcome! I'm glad I could help. If you have any more questions, feel free to ask anytime. I'm here to assist you!"
+    },
+    {
+      "question": "Good morning",
+      "answer": "Good morning! I hope you're having a wonderful day. How can I assist you today? Feel free to ask me anything!"
+    },
+    {
+      "question": "Good night",
+      "answer": "Good night! I hope you have a peaceful rest. If you need anything before you go, I'm here to help. Sleep well!"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hello! Welcome! I'm your AI Knowledge Assistant. I'm here to answer your questions about various topics. What would you like to know today?"
+    },
+    {
+      "question": "Hi there",
+      "answer": "Hi! Great to see you here! I'm ready to help with any questions you have. What's on your mind today?"
+    },
+    {
+      "question": "Goodbye",
+      "answer": "Goodbye! It was great chatting with you. Come back anytime you need help or have questions. Take care!"
+    },
+    {
+      "question": "See you later",
+      "answer": "See you later! Feel free to return whenever you have questions. I'll be here ready to help. Have a great day!"
+    },
+    {
+      "question": "Nice to meet you",
+      "answer": "Nice to meet you too! I'm excited to help you learn and discover new things. What questions can I answer for you today?"
+    },
+    {
+      "question": "How does this work?",
+      "answer": "It's simple! Just type your question in any subject area - math, science, computer science, English, education, technology, relationships, or daily life. I'll search my knowledge base and provide you with the best answer I can find!"
+    },
+    {
+      "question": "Are you real?",
+      "answer": "I'm an AI chatbot - a computer program designed to simulate conversation and answer questions. While I'm not a human, I'm real in the sense that I can provide helpful, accurate information from my knowledge base!"
+    },
+    {
+      "question": "Can you think?",
+      "answer": "I process information and match your questions with answers in my knowledge base using smart algorithms. While I don't 'think' like humans do, I can understand your questions and provide relevant, helpful responses!"
+    },
+    {
+      "question": "Do you understand me?",
+      "answer": "Yes! I use keyword matching and smart algorithms to understand your questions. I analyze what you're asking and find the most relevant answer from my knowledge base. Try asking me something specific!"
+    },
+    {
+      "question": "What time is it?",
+      "answer": "I don't have access to real-time information like the current time. However, you can check your device's clock for the accurate time. Is there something else I can help you with?"
+    },
+    {
+      "question": "What day is it?",
+      "answer": "I don't have access to real-time calendar information. You can check your device's calendar for today's date. How else can I assist you?"
+    },
+    {
+      "question": "Tell me a joke",
+      "answer": "Why did the math book look sad? Because it had too many problems! 😄 I'm better at answering serious questions though. What would you like to learn about?"
+    },
+    {
+      "question": "Can you tell me a story?",
+      "answer": "I specialize in providing factual information and educational answers rather than storytelling. However, I'd be happy to explain historical events, scientific discoveries, or interesting facts! What topic interests you?"
+    },
+    {
+      "question": "Are you smart?",
+      "answer": "I have access to a comprehensive knowledge base covering mathematics, science, computer science, English, education, technology, relationships, and daily life. I'm designed to provide accurate, helpful answers to your questions. Try me out!"
+    },
+    {
+      "question": "Who created you?",
+      "answer": "I'm an AI chatbot created using HTML, CSS, and JavaScript. I was designed to be an educational assistant that can answer questions across multiple subjects using a smart keyword-matching system."
+    },
+    {
+      "question": "How old are you?",
+      "answer": "As an AI program, I don't have an age in the traditional sense. I exist as code and data, without a birthday or aging process. But I'm always here and ready to help with your questions!"
+    },
+    {
+      "question": "Where are you from?",
+      "answer": "I exist in the digital world! I'm a web-based application that runs in your browser. I don't have a physical location, but I'm accessible from anywhere you can access this webpage."
+    },
+    {
+      "question": "Do you sleep?",
+      "answer": "No, I don't sleep! As an AI, I'm available 24/7 whenever you need help. I don't get tired and I'm always ready to answer your questions, day or night!"
+    },
+    {
+      "question": "What languages do you speak?",
+      "answer": "I primarily understand English, with support for basic Hindi keywords. I can process questions written in these languages and provide helpful answers from my knowledge base."
+    },
+    {
+      "question": "Can you learn?",
+      "answer": "Currently, I work with a pre-defined knowledge base. While I don't learn from conversations in real-time, my creators can add new information to expand what I know. Each update makes me more helpful!"
+    },
+    {
+      "question": "Are you always right?",
+      "answer": "I strive to provide accurate information from my knowledge base, but like any system, I'm not perfect. If you find an answer unclear or need more information, feel free to ask follow-up questions or verify important facts from multiple sources."
+    },
+    {
+      "question": "What's your favorite color?",
+      "answer": "As an AI, I don't have personal preferences like favorite colors. But I'm designed with a beautiful glassmorphism UI in black and white! What questions can I help you answer today?"
+    },
+    {
+      "question": "Do you have feelings?",
+      "answer": "No, I don't have feelings or emotions. I'm a computer program designed to process text and provide helpful information. However, I'm programmed to be friendly and helpful in my responses!"
+    },
+    {
+      "question": "Can you see me?",
+      "answer": "No, I can't see, hear, or perceive the physical world. I only process the text you type and respond with relevant information from my knowledge base. Your privacy is completely protected!"
+    },
+    {
+      "question": "What's the weather like?",
+      "answer": "I don't have access to real-time weather information. You can check weather apps, websites, or your device's weather widget for current conditions in your area. What else can I help you with?"
+    },
+    {
+      "question": "Tell me something interesting",
+      "answer": "Here's something fascinating: The human brain has about 86 billion neurons, each forming thousands of connections, creating a network far more complex than the internet! What specific topic interests you? I can share more interesting facts!"
+    },
+    {
+      "question": "What should I ask you?",
+      "answer": "You can ask me about mathematics (equations, geometry, calculus), science (physics, chemistry, biology), computer science (programming, algorithms, AI), English (grammar, writing), education, technology, relationships, or daily life tips. What interests you most?"
+    },
+    {
+      "question": "I'm bored",
+      "answer": "Let's make it interesting! Try asking me challenging questions about science, math puzzles, technology trends, or anything you're curious about. Learning something new is a great way to beat boredom!"
+    },
+    {
+      "question": "I don't understand",
+      "answer": "No problem! Could you tell me which part is confusing? I can try to explain it differently or provide more details. Feel free to ask follow-up questions - that's what I'm here for!"
+    },
+    {
+      "question": "Explain it simply",
+      "answer": "I'll do my best to explain things in simple terms! Ask me your question, and I'll break it down into easy-to-understand concepts. What would you like to know?"
+    },
+    {
+      "question": "Can you recommend something?",
+      "answer": "I can provide information to help you make informed decisions! Whether it's study methods, learning resources, technology choices, or general advice, I can share knowledge to guide you. What do you need recommendations about?"
+    },
+    {
+      "question": "I need help with homework",
+      "answer": "I'd be happy to help! Tell me what subject your homework is in - math, science, computer science, English, or another topic. Ask specific questions and I'll explain the concepts to help you understand and complete your work."
+    },
+    {
+      "question": "This is cool",
+      "answer": "Thank you! I'm glad you're enjoying using me. I'm designed to make learning and finding information easy and interactive. What else would you like to explore?"
+    },
+    {
+      "question": "You're helpful",
+      "answer": "Thank you so much! That's exactly what I'm designed to be. I'm here whenever you need answers or explanations. What else can I help you with today?"
+    },
+    {
+      "question": "I'm confused",
+      "answer": "That's okay! Confusion is part of the learning process. Tell me what's confusing you, and I'll try to explain it more clearly or from a different angle. What specific topic or concept needs clarification?"
+    },
+    {
+      "question": "Can you repeat that?",
+      "answer": "I don't have memory of previous conversations, so I can't repeat a specific answer. However, you can scroll up to see previous responses, or feel free to ask your question again and I'll provide the information!"
+    },
+    {
+      "question": "I'm learning",
+      "answer": "That's wonderful! Learning is a lifelong journey. I'm here to support your learning across many subjects. Keep asking questions - curiosity is the key to knowledge! What are you learning about today?"
+    },
+    {
+      "question": "This is hard",
+      "answer": "Don't worry! Many concepts seem difficult at first. Let's break it down together. Ask me specific questions about what you're struggling with, and I'll explain it step by step in simpler terms."
+    },
+    {
+      "question": "I'm studying",
+      "answer": "Great! Studying is important for learning. I can help you understand difficult concepts, explain topics clearly, or provide information on various subjects. What are you studying right now?"
+    },
+    {
+      "question": "What's new?",
+      "answer": "I work with a knowledge base covering fundamental topics in math, science, computer science, English, education, technology, relationships, and daily life. While I don't update with daily news, I can help you understand any of these core subjects!"
+    },
+    {
+      "question": "Tell me more",
+      "answer": "I'd be happy to elaborate! However, I need to know what specific topic you'd like to learn more about. Ask me a question about math, science, technology, or any other subject, and I'll provide detailed information!"
+    },
+    {
+      "question": "That's interesting",
+      "answer": "I'm glad you found that interesting! Learning should be engaging and fun. Is there anything else you'd like to know about this topic or would you like to explore something new?"
+    },
+    {
+      "question": "I agree",
+      "answer": "Great! I'm happy we're on the same page. Is there anything else you'd like to discuss or any other questions I can help answer?"
+    },
+    {
+      "question": "I disagree",
+      "answer": "That's perfectly fine! Different perspectives are valuable. If you have additional information or a different understanding, I'd encourage you to verify from multiple reliable sources. What specific point would you like to discuss?"
+    },
+    {
+      "question": "You're wrong",
+      "answer": "I apologize if my answer wasn't accurate or helpful. I provide information based on my knowledge base, but I can make mistakes. Could you tell me what's incorrect so I can try to provide better information?"
+    },
+    {
+      "question": "That's correct",
+      "answer": "Excellent! I'm glad I could provide accurate information. Do you have any other questions or is there anything else you'd like to learn about?"
+    },
+    {
+      "question": "I'm happy",
+      "answer": "That's wonderful to hear! I'm glad you're feeling happy. Positive emotions are great for learning and creativity. How can I help make your day even better?"
+    },
+    {
+      "question": "I'm sad",
+      "answer": "I'm sorry you're feeling down. While I'm not equipped to provide emotional support, I can help distract you with interesting facts or help you learn something new. Sometimes engaging our minds can help lift our spirits. What would you like to talk about?"
+    },
+    {
+      "question": "I'm tired",
+      "answer": "It sounds like you might need rest! Taking breaks is important for learning and productivity. If you have quick questions I can help with, I'm here. Otherwise, take care of yourself and come back when you're refreshed!"
+    },
+    {
+      "question": "I'm excited",
+      "answer": "That's great energy! Excitement is wonderful for learning. What has you excited? Whether it's a new topic, a project, or just curiosity, I'm here to help fuel that enthusiasm with information and answers!"
+    },
+    {
+      "question": "I'm angry",
+      "answer": "I understand you're feeling frustrated. While I can't provide emotional counseling, perhaps I can help with whatever problem you're facing. Is there a question or topic I can assist you with?"
+    },
+    {
+      "question": "I'm nervous",
+      "answer": "Feeling nervous is natural, especially before tests or presentations. I can help you prepare by answering questions and explaining concepts clearly. What are you nervous about? Maybe I can help you feel more confident!"
+    },
+    {
+      "question": "I'm stressed",
+      "answer": "Stress can be challenging. While I can't replace professional support, I can help with academic questions or provide information that might reduce stress from homework or studying. What can I assist you with?"
+    },
+    {
+      "question": "I'm busy",
+      "answer": "I understand! I'll keep my responses concise. Just ask your questions and I'll give you quick, helpful answers. What do you need to know?"
+    },
+    {
+      "question": "I have no time",
+      "answer": "No problem! I can provide quick answers. Just type your question and I'll give you the essential information you need without the extra details. What do you need help with?"
+    },
+    {
+      "question": "Later",
+      "answer": "Sure! Come back whenever you're ready. I'll be here to help you with any questions you have. Take care!"
+    },
+    {
+      "question": "Wait",
+      "answer": "Of course! Take your time. I'm not going anywhere. Let me know when you're ready to ask your question or continue our conversation."
+    },
+    {
+      "question": "Okay",
+      "answer": "Great! Is there anything else you'd like to know or any questions I can help answer?"
+    },
+    {
+      "question": "Yes",
+      "answer": "Wonderful! How can I help you? Feel free to ask me any question about math, science, computer science, English, education, technology, relationships, or daily life."
+    },
+    {
+      "question": "No",
+      "answer": "That's perfectly fine! If you change your mind or think of something you'd like to know, I'm here and ready to help anytime."
+    },
+    {
+      "question": "Maybe",
+      "answer": "No pressure! Take your time to think about what you'd like to know. I'm here whenever you're ready to ask questions or explore new topics."
+    },
+    {
+      "question": "I think so",
+      "answer": "Alright! If you're not completely certain about something, feel free to ask me questions to get clearer information. What would you like to know more about?"
+    },
+    {
+      "question": "I don't know",
+      "answer": "That's okay! Not knowing something is the first step to learning. That's exactly why I'm here - to help you find answers and understand new concepts. What would you like to learn about?"
+    },
+    {
+      "question": "Tell me everything",
+      "answer": "That's quite a lot! I cover many subjects including mathematics, science, computer science, English, education, technology, relationships, and daily life. Could you narrow it down to a specific topic or subject you're most interested in?"
+    },
+    {
+      "question": "I forgot",
+      "answer": "No worries! It happens to everyone. If you remember what you wanted to ask, just type it in. In the meantime, is there something else I can help you with?"
+    },
+    {
+      "question": "Remind me",
+      "answer": "I don't have memory of previous conversations or the ability to set reminders. However, you can scroll up to see our conversation history in this session. What can I help you with now?"
+    },
+    {
+      "question": "Show me",
+      "answer": "As a text-based chatbot, I can't show visual demonstrations, but I can explain concepts clearly with words and examples. What would you like me to explain?"
+    },
+    {
+      "question": "Prove it",
+      "answer": "I provide information based on established knowledge and facts. For mathematical proofs or scientific evidence, I can explain the logic and reasoning. What specific topic would you like me to prove or explain in detail?"
+    },
+    {
+      "question": "Why",
+      "answer": "I'd be happy to explain the 'why' behind any concept! However, I need more context. What specific topic or question are you curious about? Ask me anything and I'll explain the reasoning!"
+    },
+    {
+      "question": "How",
+      "answer": "I can explain the 'how' of many processes and concepts! What specifically would you like to know how to do or how something works? Give me more details and I'll provide a clear explanation."
+    },
+    {
+      "question": "When",
+      "answer": "I can help with historical timelines, process sequences, and when certain events occurred. However, I need more context. What specific 'when' question do you have?"
+    },
+    {
+      "question": "Where",
+      "answer": "I can provide information about locations, geographical facts, and where things occur. What specific location or 'where' question do you have? Give me more details!"
+    },
+    {
+      "question": "Who",
+      "answer": "I can provide information about important people in history, science, literature, and various fields. Who specifically would you like to know about? Give me a name or more context!"
+    },
+    {
+      "question": "What",
+      "answer": "I can explain what many things are! However, I need more specifics. What concept, term, or topic would you like me to explain? Ask me anything!"
+    },
+    {
+      "question": "Which",
+      "answer": "I can help you understand differences and make comparisons! However, I need more context. Which specific options or choices are you trying to decide between?"
+    },
+    {
+      "question": "Really",
+      "answer": "Yes, really! I provide factual information from my knowledge base. If something seems surprising, feel free to ask for more details or clarification. What would you like to know more about?"
+    },
+    {
+      "question": "Seriously",
+      "answer": "Absolutely! I'm serious about providing accurate, helpful information. All my answers come from a comprehensive knowledge base. Is there something specific you'd like me to clarify or expand on?"
+    },
+    {
+      "question": "Wow",
+      "answer": "I'm glad I could impress or surprise you! Knowledge can be truly amazing. Is there anything else you'd like to learn about? I have lots more interesting information to share!"
+    },
+    {
+      "question": "Amazing",
+      "answer": "Thank you! I'm happy you find the information amazing. Learning new things should be exciting! What other fascinating topics would you like to explore?"
+    },
+    {
+      "question": "Awesome",
+      "answer": "Glad you think so! I'm here to make learning enjoyable and accessible. What other awesome topics would you like to discover?"
+    },
+    {
+      "question": "Perfect",
+      "answer": "Wonderful! I'm glad I could provide exactly what you needed. Is there anything else I can help you with today?"
+    },
+    {
+      "question": "Excellent",
+      "answer": "Thank you! I'm pleased I could help. Feel free to ask me any other questions - I'm here to assist with whatever you need to know!"
+    },
+    {
+      "question": "Great",
+      "answer": "I'm so glad I could help! If you have more questions or want to learn about other topics, just ask. I'm always here to assist!"
+    },
+    {
+      "question": "Good",
+      "answer": "Great! I'm happy that was helpful. Is there anything else you'd like to know or any other questions I can answer?"
+    },
+    {
+      "question": "Bad",
+      "answer": "I'm sorry if my answer wasn't helpful. Could you tell me what was wrong or what you need clarification on? I'll try to provide better information!"
+    },
+    {
+      "question": "Terrible",
+      "answer": "I apologize if my response wasn't what you needed. Please let me know what was wrong or unclear, and I'll do my best to give you a better answer!"
+    },
+    {
+      "question": "Whatever",
+      "answer": "I understand. If you change your mind and have questions later, I'm here to help. Is there anything specific you'd like assistance with?"
+    },
+    {
+      "question": "Fine",
+      "answer": "Alright! If you need anything else or have questions, just let me know. I'm here to help anytime!"
+    },
+    {
+      "question": "Sure",
+      "answer": "Great! What would you like to know? Feel free to ask me questions about any subject I cover - I'm ready to help!"
+    },
+    {
+      "question": "Of course",
+      "answer": "Wonderful! How can I assist you today? What questions do you have or what would you like to learn about?"
+    },
+    {
+      "question": "Obviously",
+      "answer": "I'm glad that was clear! Sometimes obvious things still need explanation. Is there anything else you'd like to know about or need clarification on?"
+    },
+    {
+      "question": "Exactly",
+      "answer": "Perfect! I'm glad we're on the same page. Is there anything else you'd like to discuss or any other questions I can help with?"
+    },
+    {
+      "question": "Right",
+      "answer": "Yes! Is there anything else you'd like to know or would you like me to elaborate on any topic?"
+    }
+  ]
+}

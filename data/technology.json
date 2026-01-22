@@ -1,0 +1,209 @@
+{
+  "subject": "Technology",
+  "qa": [
+    {
+      "question": "What is artificial intelligence?",
+      "answer": "Artificial Intelligence (AI) is the simulation of human intelligence by machines. It involves learning (acquiring information and rules), reasoning (using rules to reach conclusions), and self-correction. AI types include narrow AI (specific tasks like Siri), general AI (human-level intelligence, still theoretical), and super AI (surpassing human intelligence). Applications include virtual assistants, autonomous vehicles, healthcare diagnostics, and more."
+    },
+    {
+      "question": "What is the difference between AI and machine learning?",
+      "answer": "AI is the broader concept of machines being able to perform tasks intelligently. Machine Learning (ML) is a subset of AI that enables systems to learn and improve from experience without explicit programming. Deep Learning is a subset of ML using neural networks. Think of it as: AI (umbrella) > Machine Learning (learning from data) > Deep Learning (neural networks)."
+    },
+    {
+      "question": "What is blockchain technology?",
+      "answer": "Blockchain is a distributed ledger technology that records transactions across multiple computers. Each 'block' contains data, a timestamp, and a cryptographic hash of the previous block, creating a chain. It's secure, transparent, and decentralized. Originally developed for Bitcoin, blockchain now has applications in finance, supply chain, healthcare, voting systems, and smart contracts."
+    },
+    {
+      "question": "What is 5G technology?",
+      "answer": "5G is the fifth generation of cellular network technology, offering faster speeds (up to 10 Gbps), lower latency (1ms), higher capacity, and better reliability than 4G. It enables IoT devices, autonomous vehicles, remote surgery, smart cities, and augmented reality applications. 5G uses higher frequency radio waves and requires more cell towers but delivers transformative connectivity."
+    },
+    {
+      "question": "What is the Internet of Things (IoT)?",
+      "answer": "IoT refers to the network of physical devices embedded with sensors, software, and connectivity, enabling them to collect and exchange data. Examples include smart home devices (thermostats, lights), wearables (fitness trackers), industrial sensors, and connected cars. IoT improves efficiency, automation, and data-driven decision making but raises privacy and security concerns."
+    },
+    {
+      "question": "What is cybersecurity?",
+      "answer": "Cybersecurity is the practice of protecting systems, networks, and data from digital attacks, damage, or unauthorized access. It includes: network security, application security, information security, operational security, disaster recovery, and user education. Key threats include malware, phishing, ransomware, and DDoS attacks. Everyone is responsible for cybersecurity through strong passwords, updates, and awareness."
+    },
+    {
+      "question": "What is virtual reality (VR)?",
+      "answer": "Virtual Reality creates immersive, computer-generated 3D environments that users can interact with using special equipment (headsets, controllers). VR completely replaces the real world with a simulated one. Applications include gaming, training simulations (pilots, surgeons), virtual tourism, education, therapy, and architectural visualization. VR technology is advancing rapidly with better graphics and more affordable hardware."
+    },
+    {
+      "question": "What is augmented reality (AR)?",
+      "answer": "Augmented Reality overlays digital information (images, text, graphics) onto the real world through devices like smartphones, tablets, or AR glasses. Unlike VR, AR enhances reality rather than replacing it. Examples include Pokémon GO, Snapchat filters, IKEA's furniture preview app, and navigation overlays. AR has applications in retail, education, maintenance, and entertainment."
+    },
+    {
+      "question": "What is quantum computing?",
+      "answer": "Quantum computing uses quantum mechanics principles (superposition and entanglement) to process information. While classical computers use bits (0 or 1), quantum computers use qubits that can be 0, 1, or both simultaneously. This enables solving complex problems exponentially faster than classical computers. Potential applications include cryptography, drug discovery, climate modeling, and optimization problems."
+    },
+    {
+      "question": "What is the difference between software and hardware?",
+      "answer": "Hardware is the physical components of a computer system you can touch: processor, memory, hard drive, keyboard, monitor. Software is the intangible programs and applications that run on hardware: operating systems, apps, games. Hardware is the machine; software tells the machine what to do. Both are essential - hardware without software is useless, and software needs hardware to run."
+    },
+    {
+      "question": "What is Big Data?",
+      "answer": "Big Data refers to extremely large, complex datasets that traditional data processing software can't handle. Characterized by the 3 Vs: Volume (massive amounts), Velocity (rapid generation), and Variety (different formats). Organizations use Big Data analytics to find patterns, trends, and insights for better decision-making. Applications include personalized marketing, fraud detection, healthcare predictions, and traffic optimization."
+    },
+    {
+      "question": "What is cryptocurrency?",
+      "answer": "Cryptocurrency is digital or virtual currency that uses cryptography for security and operates on decentralized networks based on blockchain technology. Bitcoin, Ethereum, and Litecoin are examples. Unlike traditional currency, crypto isn't controlled by governments or banks. Benefits include fast transactions, low fees, and privacy. Risks include volatility, security concerns, and regulatory uncertainty."
+    },
+    {
+      "question": "What is biometric authentication?",
+      "answer": "Biometric authentication verifies identity using unique biological characteristics: fingerprints, facial recognition, iris/retina scans, voice recognition, or palm prints. It's more secure than passwords because biometrics can't be easily stolen or forgotten. Used in smartphones, airports, banking, and security systems. Privacy concerns exist about storing biological data and potential misuse."
+    },
+    {
+      "question": "What is edge computing?",
+      "answer": "Edge computing processes data near where it's generated (the 'edge' of the network) rather than in centralized data centers. This reduces latency, saves bandwidth, and enables real-time processing. Essential for IoT devices, autonomous vehicles, and applications requiring instant responses. It complements cloud computing by handling time-sensitive tasks locally while less urgent data goes to the cloud."
+    },
+    {
+      "question": "What are smart cities?",
+      "answer": "Smart cities use IoT sensors, data analytics, and technology to improve urban services, efficiency, and quality of life. Features include: smart traffic management, intelligent lighting, waste management, energy grids, water systems, and public safety monitoring. Benefits include reduced costs, environmental sustainability, and better services. Challenges include privacy, security, infrastructure costs, and digital divide."
+    },
+    {
+      "question": "What is neural network?",
+      "answer": "A neural network is an AI system inspired by biological brain structure, consisting of interconnected nodes (neurons) organized in layers. Input layer receives data, hidden layers process it through weighted connections, and output layer produces results. Neural networks learn by adjusting weights based on training data. Used for image recognition, speech recognition, natural language processing, and pattern detection."
+    },
+    {
+      "question": "What is the difference between the internet and the web?",
+      "answer": "The Internet is the global network infrastructure of connected computers. The World Wide Web (WWW) is a service that runs on the Internet - it's the collection of websites and pages accessed through browsers using HTTP/HTTPS. Internet also includes email, file transfer, and other services. Analogy: Internet is the highway system; the Web is the trucks and cars using those highways."
+    },
+    {
+      "question": "What is ransomware?",
+      "answer": "Ransomware is malicious software that encrypts a victim's files or locks their device, demanding payment (usually cryptocurrency) for the decryption key. It spreads through phishing emails, malicious downloads, or security vulnerabilities. Prevention includes: regular backups, updated software, security awareness, email filtering, and network segmentation. Paying ransom doesn't guarantee file recovery and encourages attackers."
+    },
+    {
+      "question": "What is the difference between HTTP and HTTPS?",
+      "answer": "HTTP (HyperText Transfer Protocol) transfers data between browser and server but sends it as plain text, making it vulnerable to interception. HTTPS (HTTP Secure) adds SSL/TLS encryption, securing data transmission. HTTPS sites show a padlock icon and are essential for sensitive transactions. Search engines favor HTTPS sites. Always check for HTTPS when entering passwords or payment information."
+    },
+    {
+      "question": "What is automation?",
+      "answer": "Automation uses technology to perform tasks with minimal human intervention. Types include: industrial automation (manufacturing robots), business process automation (automated workflows), IT automation (system updates), and home automation (smart devices). Benefits include efficiency, consistency, cost reduction, and freeing humans for creative work. Challenges include job displacement concerns and initial investment costs."
+    },
+    {
+      "question": "What is digital transformation?",
+      "answer": "Digital transformation is the integration of digital technology into all business areas, fundamentally changing how organizations operate and deliver value. It involves: adopting cloud computing, using data analytics, automating processes, improving customer experience, and changing company culture. It's not just implementing technology but reimagining business models for the digital age. Essential for staying competitive."
+    },
+    {
+      "question": "What is two-factor authentication?",
+      "answer": "Two-Factor Authentication (2FA) adds a second verification step beyond passwords, typically combining something you know (password), something you have (phone/security key), or something you are (biometric). Common methods include SMS codes, authenticator apps, or hardware tokens. 2FA significantly reduces account compromise risk even if passwords are stolen. Enable it wherever available for sensitive accounts."
+    },
+    {
+      "question": "What is the difference between SSD and HDD?",
+      "answer": "HDD (Hard Disk Drive) uses spinning magnetic platters and mechanical read/write heads - slower, cheaper, higher capacity. SSD (Solid State Drive) uses flash memory with no moving parts - much faster, more expensive per GB, more durable, quieter, energy-efficient. SSDs dramatically improve boot times and application loading. For best performance, use SSD for operating system and frequently-used programs."
+    },
+    {
+      "question": "What is natural language processing?",
+      "answer": "Natural Language Processing (NLP) is an AI field focused on enabling computers to understand, interpret, and generate human language. Applications include: virtual assistants (Siri, Alexa), language translation, sentiment analysis, chatbots, text summarization, and speech recognition. NLP combines linguistics, computer science, and machine learning to bridge human-computer communication."
+    },
+    {
+      "question": "What is digital privacy?",
+      "answer": "Digital privacy is the right to control personal information collected, stored, and shared online. Concerns include: data breaches, surveillance, tracking cookies, social media data collection, and location tracking. Protect privacy by: using VPNs, reading privacy policies, limiting shared information, using privacy-focused tools, enabling privacy settings, and being aware of digital footprints. Privacy matters in the digital age."
+    },
+    {
+      "question": "What is DevOps?",
+      "answer": "DevOps combines software Development and IT Operations to shorten development cycles and provide continuous delivery with high quality. Key practices include: continuous integration/deployment, automation, collaboration, monitoring, and feedback loops. Benefits: faster deployment, improved collaboration, reduced failure rates, quicker recovery times. DevOps is a culture shift, not just tools, emphasizing communication between developers and operations."
+    },
+    {
+      "question": "What is the difference between IPv4 and IPv6?",
+      "answer": "IPv4 uses 32-bit addresses (e.g., 192.168.1.1), providing about 4.3 billion unique addresses - now exhausted due to internet growth. IPv6 uses 128-bit addresses, providing virtually unlimited addresses (340 undecillion). IPv6 offers better security, simpler routing, and improved performance. Transition is gradual as both protocols coexist. IPv6 adoption is necessary for continued internet growth."
+    },
+    {
+      "question": "What is serverless computing?",
+      "answer": "Serverless computing lets developers run code without managing servers. Cloud providers automatically handle infrastructure, scaling, and maintenance. You only pay for actual compute time used. Benefits include: reduced operational complexity, automatic scaling, cost efficiency, faster deployment. Despite the name, servers exist but are abstracted away. Popular services include AWS Lambda, Azure Functions, and Google Cloud Functions."
+    },
+    {
+      "question": "What is a firewall?",
+      "answer": "A firewall is a security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. It acts as a barrier between trusted internal networks and untrusted external networks (like the Internet). Firewalls can be hardware devices, software programs, or both. They block malicious traffic while allowing legitimate communication, protecting against unauthorized access and cyber attacks."
+    },
+    {
+      "question": "What is 3D printing?",
+      "answer": "3D printing (additive manufacturing) creates three-dimensional objects by layering material based on digital designs. Materials include plastic, metal, resin, and even biological materials. Applications span: prototyping, manufacturing, healthcare (prosthetics, organs), construction, fashion, and food. Benefits include customization, reduced waste, complex geometries, and on-demand production. Technology is becoming more accessible and affordable."
+    },
+    {
+      "question": "What is digital literacy?",
+      "answer": "Digital literacy is the ability to effectively and responsibly use digital technology, including: finding and evaluating online information, communicating digitally, creating content, understanding privacy/security, recognizing misinformation, using various digital tools, and practicing digital citizenship. In the modern world, digital literacy is as essential as reading and writing. It requires continuous learning as technology evolves."
+    },
+    {
+      "question": "What is phishing?",
+      "answer": "Phishing is a cyber attack using fraudulent communications (usually emails) that appear from legitimate sources to steal sensitive information like passwords, credit cards, or personal data. Warning signs include: urgent requests, suspicious links/attachments, spelling errors, mismatched URLs, requests for sensitive information. Protect yourself by: verifying sender identity, not clicking suspicious links, using email filters, and enabling 2FA."
+    },
+    {
+      "question": "What is open source software?",
+      "answer": "Open source software has publicly accessible source code that anyone can inspect, modify, and distribute. It's developed collaboratively by communities. Examples include Linux, Firefox, WordPress, and Android. Benefits: free, transparent, secure (many eyes review code), customizable, no vendor lock-in. Challenges: varying support quality, potentially steeper learning curve. Open source powers much of the modern internet and technology."
+    },
+    {
+      "question": "What is geolocation technology?",
+      "answer": "Geolocation identifies real-world geographic location of devices using GPS satellites, Wi-Fi positioning, cell tower triangulation, or IP addresses. Used for: navigation, location-based services, geotagging, emergency services, targeted advertising, and asset tracking. While useful, it raises privacy concerns. Most devices let users control location permissions per app. Be mindful of who has access to location data."
+    },
+    {
+      "question": "What is the difference between RAM and storage?",
+      "answer": "RAM (Random Access Memory) is temporary, volatile memory used while computer is running - faster but loses data when powered off. Storage (HDD/SSD) permanently stores data even when powered off - slower but persistent. Analogy: RAM is your desk (active workspace); storage is your filing cabinet (long-term storage). More RAM improves multitasking; more storage holds more files."
+    },
+    {
+      "question": "What is facial recognition technology?",
+      "answer": "Facial recognition uses AI to identify or verify people from digital images or video by analyzing facial features and comparing to stored data. Applications include: device unlocking, security systems, payments, social media tagging, and law enforcement. Concerns include: accuracy issues (especially with diverse demographics), privacy invasion, mass surveillance, data breaches, and potential misuse. Regulation varies by location."
+    },
+    {
+      "question": "What is a VPN?",
+      "answer": "A Virtual Private Network (VPN) creates an encrypted connection between your device and a VPN server, hiding your IP address and encrypting internet traffic. Benefits include: privacy from ISPs/governments, security on public Wi-Fi, accessing geo-restricted content, and avoiding censorship. Choose reputable VPN providers that don't log data. Free VPNs often compromise privacy or speed. VPNs don't guarantee complete anonymity."
+    },
+    {
+      "question": "What is wireless charging?",
+      "answer": "Wireless charging transfers energy from a charging pad to a device without cables using electromagnetic induction or resonance. The device must have a compatible receiver coil. Standards include Qi (most common). Benefits: convenience, reduced cable wear, water resistance. Drawbacks: slower than wired charging, generates heat, less energy efficient, requires precise positioning. Increasingly common in smartphones and wearables."
+    },
+    {
+      "question": "What is e-commerce?",
+      "answer": "E-commerce is buying and selling goods or services over the internet. Types include: B2C (business to consumer like Amazon), B2B (business to business), C2C (consumer to consumer like eBay), and C2B (consumer to business). E-commerce offers convenience, wider selection, price comparison, and 24/7 availability. Challenges include security concerns, lack of physical inspection, shipping costs, and potential for fraud."
+    },
+    {
+      "question": "What is digital marketing?",
+      "answer": "Digital marketing promotes products/services through online channels: search engines (SEO/SEM), social media, email, content marketing, display ads, influencer marketing, and affiliate marketing. Benefits include: targeted audience reach, measurable results, cost-effectiveness, real-time adjustments, and global reach. Successful digital marketing requires understanding analytics, content creation, and audience behavior. It's essential for modern business."
+    },
+    {
+      "question": "What is renewable energy technology?",
+      "answer": "Renewable energy technology harnesses naturally replenishing sources: solar (photovoltaic panels), wind (turbines), hydro (water flow), geothermal (Earth's heat), and biomass (organic materials). Benefits include: sustainability, reduced emissions, energy independence, and long-term cost savings. Challenges include: intermittency, storage needs, initial costs, and infrastructure requirements. Technology improvements are making renewables increasingly competitive with fossil fuels."
+    },
+    {
+      "question": "What is a podcast?",
+      "answer": "A podcast is digital audio content delivered as episodes through internet subscription. Users can download or stream episodes on various platforms (Apple Podcasts, Spotify, Google Podcasts). Topics range from news, education, entertainment, to niche interests. Podcasts offer on-demand, mobile learning and entertainment. They've democratized media creation, allowing anyone to broadcast globally with minimal equipment."
+    },
+    {
+      "question": "What is the difference between apps and web applications?",
+      "answer": "Apps (native apps) are installed on devices, built for specific platforms (iOS/Android), work offline, have faster performance, and access device features easily. Web apps run in browsers, work on any platform, don't need installation, update automatically, but require internet and have limited device access. Progressive Web Apps (PWAs) combine benefits of both, offering app-like experience through browsers."
+    },
+    {
+      "question": "What is deep learning?",
+      "answer": "Deep learning is a subset of machine learning using artificial neural networks with multiple layers (hence 'deep'). It excels at processing unstructured data like images, audio, and text. Deep learning powers: image recognition, speech recognition, language translation, autonomous driving, and recommendation systems. It requires massive data and computing power but achieves human-level or superhuman performance in specific tasks."
+    },
+    {
+      "question": "What is digital footprint?",
+      "answer": "Digital footprint is the trail of data you leave online through browsing, social media, online purchases, emails, and app usage. Active footprint: information you intentionally share. Passive footprint: data collected without your direct knowledge (cookies, tracking). Footprints affect reputation, employment, privacy, and security. Manage it by: adjusting privacy settings, thinking before posting, using private browsing, and regularly reviewing online presence."
+    },
+    {
+      "question": "What is streaming technology?",
+      "answer": "Streaming delivers audio/video content continuously over the internet without requiring complete download. Content is sent in compressed form and played immediately. Used by Netflix, Spotify, YouTube, and Twitch. Requirements include stable internet connection and sufficient bandwidth. Benefits: no storage needed, instant access, vast libraries. Has transformed entertainment consumption and challenged traditional media distribution models."
+    },
+    {
+      "question": "What is a smart home?",
+      "answer": "A smart home uses IoT devices and automation for remote control and monitoring of systems like lighting, heating, security, appliances, and entertainment. Controlled via smartphone apps or voice assistants (Alexa, Google Assistant). Benefits include: convenience, energy efficiency, security, and accessibility. Concerns include: privacy, security vulnerabilities, compatibility issues, and dependence on internet. Requires initial investment but offers long-term value."
+    },
+    {
+      "question": "What is wearable technology?",
+      "answer": "Wearable technology includes electronic devices worn on the body: smartwatches, fitness trackers, smart glasses, health monitors, and smart clothing. They collect data, provide notifications, track health metrics, and enable hands-free interaction. Benefits include health monitoring, convenience, and data insights. Privacy concerns arise from continuous data collection. The market is rapidly growing with improving battery life and capabilities."
+    },
+    {
+      "question": "What is digital authentication?",
+      "answer": "Digital authentication verifies user identity online through: passwords, biometrics (fingerprint, face), security tokens, SMS codes, authenticator apps, or hardware keys. Strong authentication uses multiple factors (2FA/MFA). Important for protecting accounts, preventing identity theft, and securing transactions. Use unique passwords, password managers, and enable 2FA wherever possible. Authentication strength directly impacts security."
+    },
+    {
+      "question": "What is mobile commerce (m-commerce)?",
+      "answer": "M-commerce is buying/selling through mobile devices (smartphones, tablets). Includes: mobile banking, mobile payments (Apple Pay, Google Pay), shopping apps, and mobile tickets. Growing rapidly due to smartphone ubiquity and convenience. Features include: location-based offers, mobile wallets, one-touch payment, and QR codes. Requires secure networks, responsive design, and optimized checkout processes."
+    },
+    {
+      "question": "What is assistive technology?",
+      "answer": "Assistive technology helps people with disabilities perform tasks, improve independence, and enhance quality of life. Examples include: screen readers, voice recognition, hearing aids, wheelchair technology, adaptive keyboards, text-to-speech, and mobility apps. Technology advancements are making digital world more accessible. Important for inclusion, enabling participation in education, employment, and social activities. Accessibility benefits everyone."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "subject": "English",
+  "qa": [
+    {
+      "question": "What is a noun?",
+      "answer": "A noun is a word that names a person, place, thing, or idea. Nouns can be common (general names like 'city', 'dog') or proper (specific names like 'Paris', 'Rover'). They can also be concrete (tangible objects like 'book', 'tree') or abstract (concepts like 'freedom', 'happiness'). Nouns are one of the main parts of speech in English grammar."
+    },
+    {
+      "question": "What is the difference between your and you're?",
+      "answer": "'Your' is a possessive adjective meaning 'belonging to you' (e.g., 'This is your book'). 'You're' is a contraction of 'you are' (e.g., 'You're doing great'). This is one of the most common spelling mistakes in English. A simple test: if you can replace it with 'you are', use 'you're'; otherwise, use 'your'."
+    },
+    {
+      "question": "What is a metaphor?",
+      "answer": "A metaphor is a figure of speech that directly compares two unlike things by stating that one thing is another, without using 'like' or 'as'. For example, 'Time is money' or 'Her smile is sunshine'. Metaphors create vivid imagery and help readers understand concepts by relating them to familiar ideas."
+    },
+    {
+      "question": "What is a verb?",
+      "answer": "A verb is a word that expresses an action, occurrence, or state of being. Action verbs show what someone or something does (e.g., 'run', 'write', 'jump'). Linking verbs connect the subject to additional information (e.g., 'is', 'seem', 'become'). Helping verbs assist main verbs (e.g., 'has', 'will', 'should'). Every complete sentence must have a verb."
+    },
+    {
+      "question": "What is the difference between affect and effect?",
+      "answer": "'Affect' is usually a verb meaning 'to influence' (e.g., 'The weather affects my mood'). 'Effect' is usually a noun meaning 'a result' (e.g., 'The effect was immediate'). A helpful tip: Affect is an Action (both start with A), Effect is an End result (both start with E). Though there are exceptions, this rule works in most cases."
+    },
+    {
+      "question": "What is a simile?",
+      "answer": "A simile is a figure of speech that compares two different things using the words 'like' or 'as'. Examples include 'as brave as a lion', 'runs like the wind', or 'life is like a box of chocolates'. Similes help create vivid descriptions and make writing more engaging by drawing clear comparisons."
+    },
+    {
+      "question": "What is an adjective?",
+      "answer": "An adjective is a word that describes or modifies a noun or pronoun. It provides information about qualities, quantities, or states of being. Examples include 'beautiful', 'three', 'happy', 'large', and 'blue'. Adjectives answer questions like 'What kind?', 'How many?', or 'Which one?' They make descriptions more specific and interesting."
+    },
+    {
+      "question": "What is alliteration?",
+      "answer": "Alliteration is a literary device where the same consonant sound is repeated at the beginning of closely connected words. Examples include 'Peter Piper picked a peck of pickled peppers' or 'big bad wolf'. It's commonly used in poetry, tongue twisters, and advertising to create rhythm and make phrases more memorable."
+    },
+    {
+      "question": "What is a pronoun?",
+      "answer": "A pronoun is a word that takes the place of a noun to avoid repetition. Common pronouns include personal pronouns (I, you, he, she, it, we, they), possessive pronouns (mine, yours, his, hers, ours, theirs), demonstrative pronouns (this, that, these, those), and interrogative pronouns (who, whom, whose, which, what)."
+    },
+    {
+      "question": "What is the active voice?",
+      "answer": "In active voice, the subject performs the action expressed by the verb (e.g., 'The cat chased the mouse'). It's generally clearer, more direct, and more engaging than passive voice. Active voice is preferred in most writing because it makes sentences stronger and easier to understand. The structure is: Subject + Verb + Object."
+    },
+    {
+      "question": "What is the passive voice?",
+      "answer": "In passive voice, the subject receives the action expressed by the verb (e.g., 'The mouse was chased by the cat'). The structure is: Object + be verb + past participle + by + Subject. While sometimes necessary or appropriate (especially in scientific writing), passive voice is often less direct and can make sentences wordy or unclear."
+    },
+    {
+      "question": "What is a compound sentence?",
+      "answer": "A compound sentence contains two or more independent clauses joined by a coordinating conjunction (for, and, nor, but, or, yet, so) or a semicolon. Example: 'I wanted to go to the park, but it was raining.' Each clause can stand alone as a complete sentence, making compound sentences useful for showing relationships between equal ideas."
+    },
+    {
+      "question": "What is personification?",
+      "answer": "Personification is a figure of speech that gives human qualities, emotions, or actions to non-human things, animals, or ideas. Examples include 'The wind whispered through the trees' or 'Time flies'. This literary device helps create vivid imagery and emotional connections, making abstract concepts more relatable and tangible."
+    }
+  ]
+}

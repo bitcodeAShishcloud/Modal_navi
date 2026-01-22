@@ -1,0 +1,53 @@
+{
+  "subject": "Science",
+  "qa": [
+    {
+      "question": "What is photosynthesis?",
+      "answer": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize nutrients from carbon dioxide and water. It generally involves the green pigment chlorophyll and generates oxygen as a byproduct. The basic equation is: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂."
+    },
+    {
+      "question": "What are the three states of matter?",
+      "answer": "The three basic states of matter are solid, liquid, and gas. In a solid, particles are tightly packed and vibrate in place. In a liquid, particles are close together but can move past each other. In a gas, particles are far apart and move freely. There are also other states like plasma and Bose-Einstein condensate."
+    },
+    {
+      "question": "What is gravity?",
+      "answer": "Gravity is a fundamental force of nature that attracts two bodies with mass toward each other. It's what keeps us on the ground and planets in orbit around the Sun. Isaac Newton first described it mathematically, and Albert Einstein later explained it as a curvature of spacetime in his theory of general relativity."
+    },
+    {
+      "question": "What is DNA?",
+      "answer": "DNA (Deoxyribonucleic Acid) is a molecule that carries genetic instructions for the development, functioning, growth, and reproduction of all known living organisms. It has a double helix structure made up of nucleotides, each containing a sugar, phosphate group, and one of four nitrogen bases: adenine (A), thymine (T), guanine (G), and cytosine (C)."
+    },
+    {
+      "question": "What is the speed of light?",
+      "answer": "The speed of light in a vacuum is approximately 299,792,458 meters per second (or about 186,282 miles per second). This is often rounded to 3 × 10⁸ m/s. It's denoted by the symbol 'c' and is a fundamental constant of nature."
+    },
+    {
+      "question": "What is the water cycle?",
+      "answer": "The water cycle (hydrological cycle) is the continuous movement of water on, above, and below the Earth's surface. It includes evaporation (water turning to vapor), condensation (vapor forming clouds), precipitation (rain, snow), collection (water returning to oceans/lakes), and the cycle repeats."
+    },
+    {
+      "question": "What is an atom?",
+      "answer": "An atom is the basic unit of matter and the smallest unit of an element that retains its chemical properties. It consists of a nucleus containing protons and neutrons, surrounded by electrons in orbital shells. Atoms are incredibly small, typically around 0.1 nanometers in diameter."
+    },
+    {
+      "question": "What is evolution?",
+      "answer": "Evolution is the process by which species of organisms change over time through variations in traits that are passed from one generation to the next. Natural selection, proposed by Charles Darwin, is the primary mechanism: organisms better adapted to their environment tend to survive and produce more offspring."
+    },
+    {
+      "question": "What causes seasons?",
+      "answer": "Seasons are caused by Earth's tilted axis (approximately 23.5 degrees) as it orbits the Sun. When the Northern Hemisphere tilts toward the Sun, it experiences summer while the Southern Hemisphere has winter, and vice versa. This tilt affects the angle and amount of sunlight received."
+    },
+    {
+      "question": "What is Newton's first law of motion?",
+      "answer": "Newton's first law of motion, also called the law of inertia, states that an object at rest stays at rest and an object in motion stays in motion with the same speed and direction unless acted upon by an external force. This means objects resist changes to their state of motion."
+    },
+    {
+      "question": "What is the pH scale?",
+      "answer": "The pH scale measures how acidic or basic a substance is, ranging from 0 to 14. A pH of 7 is neutral (like pure water), values below 7 are acidic (like lemon juice), and values above 7 are basic or alkaline (like baking soda). Each unit represents a tenfold difference in acidity."
+    },
+    {
+      "question": "What is electricity?",
+      "answer": "Electricity is the flow of electrical charge, typically carried by moving electrons in a conductor. It's a form of energy that powers countless devices in our daily lives. Electricity can be generated in various ways, including from fossil fuels, nuclear power, and renewable sources like solar and wind."
+    }
+  ]
+}
