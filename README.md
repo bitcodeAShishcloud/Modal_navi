@@ -320,7 +320,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Ashish Gupta 
 
 ---
 
@@ -348,3 +348,4 @@ If you found this project helpful, please give it a ⭐️!
 ---
 
 **Built with pure HTML, CSS, and JavaScript - proving you don't always need frameworks to build something amazing! 🚀**
+
