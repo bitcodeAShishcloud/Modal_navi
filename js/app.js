@@ -11,16 +11,17 @@
  * Format: subjectKey: "path/to/jsonfile.json"
  */
 const subjects = {
-    math: "data/math.json",
-    science: "data/science.json",
-    computer: "data/computer.json",
-    english: "data/english.json",
-    general_conversation: "data/general_conversation.json",
-    education: "data/education.json",
-    relationship: "data/relationship.json",
-    technology: "data/technology.json",
-    daily_life: "data/daily_life.json",
-    cyber_threat_intelligence_unit1: "data/cyber_threat_intelligence_unit1.json"
+    Math: "data/math.json",
+    Science: "data/science.json",
+    Computer: "data/computer.json",
+    English: "data/english.json",
+    General_conversation: "data/general_conversation.json",
+    Education: "data/education.json",
+    Relationship: "data/relationship.json",
+    Technology: "data/technology.json",
+    Daily_life: "data/daily_life.json",
+    Web_Tech_1:"data/Web_Technologies_1.json",
+    Cyber_threat_intelligence_unit1: "data/cyber_threat_intelligence_unit1.json"
 };
 
 // Global state
@@ -542,3 +543,4 @@ if (document.readyState === 'loading') {
 } else {
     init();
 }
+
