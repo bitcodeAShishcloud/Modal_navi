@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="AI-like chatbot that answers questions across multiple subjects">
-    <title>AI Knowledge Chatbot</title>
+    <meta name="description" content="Navi AI - Intelligent chatbot that answers questions across multiple subjects">
+    <title>Navi AI - Knowledge Assistant</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -16,9 +16,9 @@
             <div class="header-content">
                 <h1 class="title">
                     <span class="ai-icon">🤖</span>
-                    AI Knowledge Assistant
+                    Navi AI
                 </h1>
-                <p class="subtitle">Ask me anything across multiple subjects</p>
+                <p class="subtitle">Your Intelligent Knowledge Assistant by Ashish Gupta</p>
             </div>
         </header>
 
@@ -33,6 +33,25 @@
                     <!-- Options will be populated dynamically by JavaScript -->
                 </select>
             </div>
+            <div class="history-controls">
+                <button id="importBtn" class="export-btn" title="Import Chat History">
+                    <span class="btn-icon">📥</span>
+                    <span class="btn-text">Import</span>
+                </button>
+                <button id="exportTextBtn" class="export-btn" title="Export as Text">
+                    <span class="btn-icon">📄</span>
+                    <span class="btn-text">Export TXT</span>
+                </button>
+                <button id="exportPdfBtn" class="export-btn" title="Export as PDF">
+                    <span class="btn-icon">📕</span>
+                    <span class="btn-text">Export PDF</span>
+                </button>
+                <button id="clearHistoryBtn" class="export-btn clear-btn" title="Clear Chat History">
+                    <span class="btn-icon">🗑️</span>
+                    <span class="btn-text">Clear</span>
+                </button>
+            </div>
+            <input type="file" id="importFileInput" accept=".txt,.pdf" style="display: none;" />
         </div>
 
         <!-- Chat Area -->
@@ -40,10 +59,10 @@
             <div id="chatArea" class="chat-area">
                 <!-- Welcome Message -->
                 <div class="message ai-message">
-                    <div class="message-avatar ai-avatar">AI</div>
+                    <div class="message-avatar ai-avatar">🤖</div>
                     <div class="message-content">
                         <div class="message-bubble ai-bubble">
-                            <p>👋 Hello! I'm your AI Knowledge Assistant. Ask me questions about Math, Science, Computer Science, English, or any other subject. I'll do my best to help you!</p>
+                            <p>👋 Hello! I'm Navi AI, created by Ashish Gupta. Ask me questions about Math, Science, Computer Science, English, Education, Technology, Relationships, Daily Life, or any other subject. I'll do my best to help you!</p>
                         </div>
                     </div>
                 </div>
