@@ -1,0 +1,3019 @@
+{
+  "subject": "Navi AI Help & FAQ",
+  "version": "2.1",
+  "lastUpdated": "2026-01-23",
+  "description": "Comprehensive Q&A database about Navi AI features, usage, troubleshooting, and tips",
+  "categories": [
+    "Getting Started",
+    "Login & Authentication",
+    "Chat Features",
+    "Import & Export",
+    "Session Management",
+    "Data & Security",
+    "Troubleshooting",
+    "Advanced Features",
+    "Tips & Tricks"
+  ],
+  "qa": [
+    {
+      "id": 1,
+      "category": "Getting Started",
+      "question": "What is Navi AI?",
+      "answer": "Navi AI is an intelligent knowledge assistant chatbot created by Ashish Gupta. It helps answer questions across multiple subjects including Math, Science, Computer Science, English, Education, Technology, Relationships, and Daily Life."
+    },
+    {
+      "id": 2,
+      "category": "Getting Started",
+      "question": "How do I start using Navi AI?",
+      "answer": "To start using Navi AI, open the login/index.html file in your browser. You can either sign in with a username and email, or use the guest mode for quick access."
+    },
+    {
+      "id": 3,
+      "category": "Getting Started",
+      "question": "Do I need to create an account?",
+      "answer": "No account creation is required. You can use guest mode for immediate access, or provide a username and email for a personalized experience with data persistence."
+    },
+    {
+      "id": 4,
+      "category": "Getting Started",
+      "question": "What subjects can Navi AI help with?",
+      "answer": "Navi AI covers Math, Science, Computer Science, English, General Conversation, Education, Relationships, Technology, Daily Life, Web Technologies, and Cyber Threat Intelligence."
+    },
+    {
+      "id": 5,
+      "category": "Getting Started",
+      "question": "Is Navi AI free to use?",
+      "answer": "Yes, Navi AI is completely free to use. There are no subscription fees or hidden costs."
+    },
+    {
+      "id": 6,
+      "category": "Login & Authentication",
+      "question": "How do I login to Navi AI?",
+      "answer": "Open login/index.html, enter your username (minimum 3 characters) and email address, then click 'Sign In'. You can also use 'Continue as Guest' for quick access."
+    },
+    {
+      "id": 7,
+      "category": "Login & Authentication",
+      "question": "What is guest mode?",
+      "answer": "Guest mode allows you to use Navi AI without providing credentials. Your data is still saved locally, but you'll be identified as a guest user."
+    },
+    {
+      "id": 8,
+      "category": "Login & Authentication",
+      "question": "Will I be automatically logged in next time?",
+      "answer": "Yes, if you close the browser or get logged out due to inactivity, you'll be automatically logged in next time. However, if you manually logout, you'll need to login again."
+    },
+    {
+      "id": 9,
+      "category": "Login & Authentication",
+      "question": "How do I logout?",
+      "answer": "Click the 'Logout' link in the header next to your username. Confirm the logout dialog, and you'll be redirected to the login page."
+    },
+    {
+      "id": 10,
+      "category": "Login & Authentication",
+      "question": "What happens to my data when I logout?",
+      "answer": "Your chat history is automatically saved before logout. It remains encrypted in your browser's localStorage and will be available when you login again."
+    },
+    {
+      "id": 11,
+      "category": "Login & Authentication",
+      "question": "Can I use multiple accounts?",
+      "answer": "Yes, each username creates a separate account with isolated chat history. You can switch between accounts by logging out and logging in with different credentials."
+    },
+    {
+      "id": 12,
+      "category": "Login & Authentication",
+      "question": "What information is required to login?",
+      "answer": "You need to provide a username (minimum 3 characters) and a valid email address. No password is required as data is stored locally."
+    },
+    {
+      "id": 13,
+      "category": "Session Management",
+      "question": "What is the inactivity timeout?",
+      "answer": "Navi AI has a 2-minute inactivity timeout. If there's no activity for 2 minutes, you'll be automatically logged out for security."
+    },
+    {
+      "id": 14,
+      "category": "Session Management",
+      "question": "What counts as activity?",
+      "answer": "Activity includes mouse movements, mouse clicks, keyboard inputs, scrolling, and touch events. Any of these actions reset the 2-minute timer."
+    },
+    {
+      "id": 15,
+      "category": "Session Management",
+      "question": "Will I get a warning before being logged out?",
+      "answer": "Yes, you'll receive an alert notification: 'You have been logged out due to 2 minutes of inactivity' before being redirected to the login page."
+    },
+    {
+      "id": 16,
+      "category": "Session Management",
+      "question": "Can I disable the auto-logout feature?",
+      "answer": "The auto-logout feature is built-in for security and cannot be disabled. However, any activity resets the timer, so normal usage won't trigger it."
+    },
+    {
+      "id": 17,
+      "category": "Session Management",
+      "question": "What's the difference between manual and auto logout?",
+      "answer": "Manual logout (clicking Logout button) requires you to login again next time. Auto logout (2-min inactivity) allows automatic login on your next visit."
+    },
+    {
+      "id": 18,
+      "category": "Chat Features",
+      "question": "How do I ask a question?",
+      "answer": "Select a subject from the dropdown menu, type your question in the input box at the bottom, and press Enter or click the Send button."
+    },
+    {
+      "id": 19,
+      "category": "Chat Features",
+      "question": "Can I switch subjects during a conversation?",
+      "answer": "Yes, you can change the subject at any time using the dropdown menu. Your previous conversations in other subjects are preserved."
+    },
+    {
+      "id": 20,
+      "category": "Chat Features",
+      "question": "How does Navi AI find answers?",
+      "answer": "Navi AI searches through its knowledge base using advanced text matching algorithms to find the most relevant answers to your questions."
+    },
+    {
+      "id": 21,
+      "category": "Chat Features",
+      "question": "What if Navi AI can't find an answer?",
+      "answer": "If no matching answer is found, Navi AI will let you know and suggest rephrasing your question or trying a different subject area."
+    },
+    {
+      "id": 22,
+      "category": "Chat Features",
+      "question": "Are my conversations saved?",
+      "answer": "Yes, all your conversations are automatically saved to your browser's localStorage and are encrypted for security."
+    },
+    {
+      "id": 23,
+      "category": "Chat Features",
+      "question": "Can I see my chat history?",
+      "answer": "Yes, your complete chat history is displayed in the chat area and persists across sessions as long as you don't clear it."
+    },
+    {
+      "id": 24,
+      "category": "Chat Features",
+      "question": "How do I clear my chat history?",
+      "answer": "Click the '🗑️ Clear' button in the control panel. You'll be asked to confirm before all your chat history is permanently deleted."
+    },
+    {
+      "id": 25,
+      "category": "Chat Features",
+      "question": "Can I undo clearing my chat history?",
+      "answer": "No, once cleared, chat history cannot be recovered. Make sure to export your chats before clearing if you want to keep a backup."
+    },
+    {
+      "id": 26,
+      "category": "Import & Export",
+      "question": "How do I export my chat history?",
+      "answer": "Click either the '📄 Export TXT' button to download a text file, or the '📕 Export PDF' button to save as PDF through your browser's print dialog."
+    },
+    {
+      "id": 27,
+      "category": "Import & Export",
+      "question": "What format does the text export use?",
+      "answer": "Text exports are saved as .txt files with formatted conversations showing 'YOU:' for your messages and 'NAVI AI:' for responses, along with timestamps and user info."
+    },
+    {
+      "id": 28,
+      "category": "Import & Export",
+      "question": "How do I export as PDF?",
+      "answer": "Click the '📕 Export PDF' button, which opens your browser's print dialog. Select 'Save as PDF' as the destination and click Save."
+    },
+    {
+      "id": 29,
+      "category": "Import & Export",
+      "question": "Can I import previous conversations?",
+      "answer": "Yes, click the '📥 Import' button and select a .txt file (previously exported from Navi AI). The conversations will be imported and merged with your current history."
+    },
+    {
+      "id": 30,
+      "category": "Import & Export",
+      "question": "What file formats can I import?",
+      "answer": "You can import .txt files that were exported from Navi AI. PDF files are accepted but will show a message to use TXT format instead."
+    },
+    {
+      "id": 31,
+      "category": "Import & Export",
+      "question": "Will importing replace my current chats?",
+      "answer": "When you import, you'll be asked whether to merge with current history or replace it. You can choose based on your preference."
+    },
+    {
+      "id": 32,
+      "category": "Import & Export",
+      "question": "Can I import chats from another device?",
+      "answer": "Yes, export your chats as TXT on one device, transfer the file to another device, and import it there after logging in with the same credentials."
+    },
+    {
+      "id": 33,
+      "category": "Import & Export",
+      "question": "Does the export include user information?",
+      "answer": "Yes, exports include your username, email, and export timestamp in both TXT and PDF formats."
+    },
+    {
+      "id": 34,
+      "category": "Data & Security",
+      "question": "Is my data secure?",
+      "answer": "Yes, all user data and chat history are encrypted using XOR Cipher with Base64 encoding before being stored in your browser's localStorage."
+    },
+    {
+      "id": 35,
+      "category": "Data & Security",
+      "question": "Where is my data stored?",
+      "answer": "All data is stored locally in your browser's localStorage. Nothing is sent to any server - it's 100% client-side and private."
+    },
+    {
+      "id": 36,
+      "category": "Data & Security",
+      "question": "Can others see my conversations?",
+      "answer": "No, your conversations are encrypted and stored only on your device. No one else can access them unless they have physical access to your device."
+    },
+    {
+      "id": 37,
+      "category": "Data & Security",
+      "question": "Does Navi AI send data to any server?",
+      "answer": "No, Navi AI is completely client-side. No data is transmitted to any server. Everything stays on your device."
+    },
+    {
+      "id": 38,
+      "category": "Data & Security",
+      "question": "What encryption does Navi AI use?",
+      "answer": "Navi AI uses XOR Cipher combined with Base64 encoding for encrypting user data and chat history in localStorage."
+    },
+    {
+      "id": 39,
+      "category": "Data & Security",
+      "question": "Can I trust Navi AI with sensitive information?",
+      "answer": "While Navi AI encrypts data locally, it's best not to share highly sensitive personal information like passwords or financial details with any AI system."
+    },
+    {
+      "id": 40,
+      "category": "Data & Security",
+      "question": "What happens if I clear my browser data?",
+      "answer": "Clearing browser data will delete your localStorage, including all Navi AI user data and chat history. Always export important conversations first."
+    },
+    {
+      "id": 41,
+      "category": "Data & Security",
+      "question": "Is my data backed up automatically?",
+      "answer": "No, data is only stored locally. You should regularly export your chat history as backups using the Export TXT or Export PDF features."
+    },
+    {
+      "id": 42,
+      "category": "Troubleshooting",
+      "question": "Navi AI won't load. What should I do?",
+      "answer": "Make sure JavaScript is enabled in your browser, check your internet connection (for initial load), and try clearing your browser cache. Use a modern browser like Chrome, Firefox, or Edge."
+    },
+    {
+      "id": 43,
+      "category": "Troubleshooting",
+      "question": "I can't login. What's wrong?",
+      "answer": "Ensure you're entering a username with at least 3 characters and a valid email format. Check that localStorage is enabled in your browser settings."
+    },
+    {
+      "id": 44,
+      "category": "Troubleshooting",
+      "question": "My chat history disappeared. How do I recover it?",
+      "answer": "If you have an exported backup, use the Import feature. Otherwise, chat history may be lost if localStorage was cleared. Always keep regular backups."
+    },
+    {
+      "id": 45,
+      "category": "Troubleshooting",
+      "question": "Import button isn't working. What should I do?",
+      "answer": "Make sure you're selecting a .txt file that was exported from Navi AI. Check browser console (F12) for error messages and ensure file permissions are correct."
+    },
+    {
+      "id": 46,
+      "category": "Troubleshooting",
+      "question": "Export button doesn't download anything. Why?",
+      "answer": "Check if your browser is blocking downloads. Look for a notification bar or popup blocker. Allow downloads from the site in your browser settings."
+    },
+    {
+      "id": 47,
+      "category": "Troubleshooting",
+      "question": "I'm logged out too frequently. What's happening?",
+      "answer": "You're likely hitting the 2-minute inactivity timeout. Make sure to move your mouse or interact with the page to reset the timer."
+    },
+    {
+      "id": 48,
+      "category": "Troubleshooting",
+      "question": "Auto-login isn't working. How do I fix it?",
+      "answer": "If you manually logged out, you need to login again. Otherwise, check if localStorage is enabled and try running localStorage.removeItem('naviAI_manualLogout') in the console."
+    },
+    {
+      "id": 49,
+      "category": "Troubleshooting",
+      "question": "The interface looks broken. What should I do?",
+      "answer": "Try refreshing the page (Ctrl+F5 for hard refresh). Ensure all CSS files are loading properly. Check browser console for errors."
+    },
+    {
+      "id": 50,
+      "category": "Troubleshooting",
+      "question": "Navi AI is slow to respond. Why?",
+      "answer": "Large chat histories can slow down the interface. Try exporting and clearing your history. Also check if other browser tabs are using significant resources."
+    },
+    {
+      "id": 51,
+      "category": "Advanced Features",
+      "question": "Can I customize the subjects available?",
+      "answer": "Yes, you can add new subjects by editing the subjects object in js/app.js and creating corresponding JSON data files in the data/ folder."
+    },
+    {
+      "id": 52,
+      "category": "Advanced Features",
+      "question": "How do I add more Q&A pairs?",
+      "answer": "Edit the JSON files in the data/ folder. Each file contains a 'qa' array where you can add objects with 'question' and 'answer' properties."
+    },
+    {
+      "id": 53,
+      "category": "Advanced Features",
+      "question": "Can I change the inactivity timeout duration?",
+      "answer": "Yes, edit the INACTIVITY_TIMEOUT constant in js/app.js. The value is in milliseconds (currently 2 * 60 * 1000 = 2 minutes)."
+    },
+    {
+      "id": 54,
+      "category": "Advanced Features",
+      "question": "Can I customize the appearance?",
+      "answer": "Yes, edit css/style.css and login/styles.css to customize colors, fonts, spacing, and other visual elements."
+    },
+    {
+      "id": 55,
+      "category": "Advanced Features",
+      "question": "How do I view localStorage data?",
+      "answer": "Open browser DevTools (F12), go to Application/Storage tab, expand localStorage, and select your domain. You'll see all Navi AI keys."
+    },
+    {
+      "id": 56,
+      "category": "Tips & Tricks",
+      "question": "What's the fastest way to send a message?",
+      "answer": "After typing your question, simply press Enter instead of clicking the Send button."
+    },
+    {
+      "id": 57,
+      "category": "Tips & Tricks",
+      "question": "How can I avoid losing my chat history?",
+      "answer": "Regularly export your chat history using the Export TXT button. This creates backups you can import later if needed."
+    },
+    {
+      "id": 58,
+      "category": "Tips & Tricks",
+      "question": "Can I use keyboard shortcuts?",
+      "answer": "Yes, press Enter to send messages and Ctrl+P (when viewing PDF export) to save as PDF. Most standard browser shortcuts also work."
+    },
+    {
+      "id": 59,
+      "category": "Tips & Tricks",
+      "question": "How do I get better answers?",
+      "answer": "Be specific in your questions, select the right subject from the dropdown, and rephrase if the first answer isn't what you need."
+    },
+    {
+      "id": 60,
+      "category": "Tips & Tricks",
+      "question": "Can I copy text from chat messages?",
+      "answer": "Yes, simply select the text you want and use Ctrl+C (or right-click and Copy) to copy it to your clipboard."
+    },
+    {
+      "id": 61,
+      "category": "Getting Started",
+      "question": "What browsers are supported?",
+      "answer": "Navi AI works best on modern browsers: Chrome, Edge, Firefox, Safari, and Opera. Internet Explorer is not supported."
+    },
+    {
+      "id": 62,
+      "category": "Getting Started",
+      "question": "Do I need an internet connection?",
+      "answer": "After initial load, Navi AI works offline since all data is stored locally. However, initial access requires loading the files."
+    },
+    {
+      "id": 63,
+      "category": "Getting Started",
+      "question": "Can I use Navi AI on mobile devices?",
+      "answer": "Yes, Navi AI is responsive and works on mobile browsers. The interface adapts to smaller screens for better usability."
+    },
+    {
+      "id": 64,
+      "category": "Getting Started",
+      "question": "Is there a mobile app?",
+      "answer": "Currently, Navi AI is web-based only. You can access it through your mobile browser or add it to your home screen as a web app."
+    },
+    {
+      "id": 65,
+      "category": "Getting Started",
+      "question": "What's the difference between registered and guest users?",
+      "answer": "Both have the same features. Registered users have a personalized username displayed, while guests are labeled as 'Guest User'. Both have encrypted local storage."
+    },
+    {
+      "id": 66,
+      "category": "Login & Authentication",
+      "question": "Can I change my username after registration?",
+      "answer": "To change your username, logout and login with a new username. Note that this creates a new account with separate chat history."
+    },
+    {
+      "id": 67,
+      "category": "Login & Authentication",
+      "question": "Is my email address verified?",
+      "answer": "No email verification is performed since everything is local. The email is only used for identification and display purposes."
+    },
+    {
+      "id": 68,
+      "category": "Login & Authentication",
+      "question": "Can I recover my account if I forget my username?",
+      "answer": "Since there's no centralized database, you cannot recover a forgotten username. However, if you have exported chats, you can import them to a new account."
+    },
+    {
+      "id": 69,
+      "category": "Login & Authentication",
+      "question": "What characters are allowed in usernames?",
+      "answer": "Usernames must be at least 3 characters long and can contain letters, numbers, and most special characters."
+    },
+    {
+      "id": 70,
+      "category": "Login & Authentication",
+      "question": "Can two people use the same device?",
+      "answer": "Yes, multiple users can use the same device by logging in with different usernames. Each user's data is stored separately."
+    },
+    {
+      "id": 71,
+      "category": "Session Management",
+      "question": "How do I check my remaining session time?",
+      "answer": "There's no visible timer, but any activity (mouse movement, typing, scrolling) resets the 2-minute timeout automatically."
+    },
+    {
+      "id": 72,
+      "category": "Session Management",
+      "question": "What happens if my browser crashes?",
+      "answer": "Your chat history is saved after each message, so you won't lose data. When you restart and login, everything will be there."
+    },
+    {
+      "id": 73,
+      "category": "Session Management",
+      "question": "Can I have multiple tabs open?",
+      "answer": "Yes, but each tab has its own session timer. Activity in one tab doesn't reset the timer in another tab."
+    },
+    {
+      "id": 74,
+      "category": "Session Management",
+      "question": "Does the timer continue in background tabs?",
+      "answer": "Yes, the inactivity timer continues even when the Navi AI tab is in the background. Switch back and interact to reset it."
+    },
+    {
+      "id": 75,
+      "category": "Session Management",
+      "question": "How do I extend my session?",
+      "answer": "Simply move your mouse, type something, or scroll the page. Any activity resets the 2-minute timer back to zero."
+    },
+    {
+      "id": 76,
+      "category": "Chat Features",
+      "question": "Can I edit my sent messages?",
+      "answer": "No, once a message is sent, it cannot be edited. However, you can ask a new question or rephrase your query."
+    },
+    {
+      "id": 77,
+      "category": "Chat Features",
+      "question": "Can I delete individual messages?",
+      "answer": "No, you can only clear the entire chat history using the Clear button. Individual message deletion is not supported."
+    },
+    {
+      "id": 78,
+      "category": "Chat Features",
+      "question": "Is there a message length limit?",
+      "answer": "There's no hard limit, but very long messages may affect performance. Try to keep questions concise for best results."
+    },
+    {
+      "id": 79,
+      "category": "Chat Features",
+      "question": "Can I send multiple questions at once?",
+      "answer": "Yes, you can ask multiple questions in one message, but asking them separately usually gives more focused and accurate answers."
+    },
+    {
+      "id": 80,
+      "category": "Chat Features",
+      "question": "Does Navi AI remember previous questions in the conversation?",
+      "answer": "Navi AI displays all previous messages but searches each question independently. It doesn't maintain conversational context between questions."
+    },
+    {
+      "id": 81,
+      "category": "Chat Features",
+      "question": "Can I use voice input?",
+      "answer": "Not directly, but you can use your browser's voice typing feature (usually available when clicking in text fields) to input questions."
+    },
+    {
+      "id": 82,
+      "category": "Chat Features",
+      "question": "Are there any Easter eggs or hidden features?",
+      "answer": "Check the browser console (F12) for fun messages! The AI also has a bouncing logo animation on the login page."
+    },
+    {
+      "id": 83,
+      "category": "Chat Features",
+      "question": "How accurate are the answers?",
+      "answer": "Answer accuracy depends on the quality of the knowledge base. Navi AI matches your questions to pre-written answers, so accuracy is very high for covered topics."
+    },
+    {
+      "id": 84,
+      "category": "Chat Features",
+      "question": "Can Navi AI learn from my questions?",
+      "answer": "No, Navi AI uses a static knowledge base and doesn't learn from interactions. All answers come from pre-loaded JSON files."
+    },
+    {
+      "id": 85,
+      "category": "Chat Features",
+      "question": "What's the typing indicator for?",
+      "answer": "The typing indicator (animated dots) shows when Navi AI is processing your question and searching for an answer."
+    },
+    {
+      "id": 86,
+      "category": "Import & Export",
+      "question": "How often should I export my chats?",
+      "answer": "Export whenever you have important conversations you don't want to lose. Weekly exports are recommended for active users."
+    },
+    {
+      "id": 87,
+      "category": "Import & Export",
+      "question": "Can I export only specific conversations?",
+      "answer": "No, export includes all chat history. You would need to manually edit the exported text file if you want only specific parts."
+    },
+    {
+      "id": 88,
+      "category": "Import & Export",
+      "question": "What's the file size of exported chats?",
+      "answer": "File size depends on how many conversations you have. Typical exports range from a few KB to several MB for very long chat histories."
+    },
+    {
+      "id": 89,
+      "category": "Import & Export",
+      "question": "Can I share my exported chats with others?",
+      "answer": "Yes, exported text files can be shared. They're readable text containing your conversations with timestamps and user information."
+    },
+    {
+      "id": 90,
+      "category": "Import & Export",
+      "question": "How do I automate backups?",
+      "answer": "Backups are manual through the Export button. For automated backups, you'd need to write custom browser extension or script."
+    },
+    {
+      "id": 91,
+      "category": "Import & Export",
+      "question": "Can I import chats from other AI chatbots?",
+      "answer": "Only if they're formatted exactly like Navi AI exports (with 'YOU:' and 'NAVI AI:' prefixes). Otherwise, you'd need to reformat them first."
+    },
+    {
+      "id": 92,
+      "category": "Import & Export",
+      "question": "Does import preserve timestamps?",
+      "answer": "Imported messages get new timestamps based on import time. Original timestamps from the export are not preserved in the internal data structure."
+    },
+    {
+      "id": 93,
+      "category": "Import & Export",
+      "question": "Can I export in other formats like CSV or Excel?",
+      "answer": "Currently only TXT and PDF exports are supported. You can manually convert the TXT export to CSV or Excel if needed."
+    },
+    {
+      "id": 94,
+      "category": "Import & Export",
+      "question": "Will future versions be able to import current exports?",
+      "answer": "Yes, the export format is designed to be forward-compatible. Future versions should be able to import current TXT exports."
+    },
+    {
+      "id": 95,
+      "category": "Import & Export",
+      "question": "Can I print my chat history directly?",
+      "answer": "Yes, use the Export PDF button which opens the print dialog. You can then print directly or save as PDF."
+    },
+    {
+      "id": 96,
+      "category": "Data & Security",
+      "question": "What data does Navi AI collect?",
+      "answer": "Navi AI collects only what you provide: username, email, and your chat messages. Everything is stored locally, nothing is sent anywhere."
+    },
+    {
+      "id": 97,
+      "category": "Data & Security",
+      "question": "Are there any cookies used?",
+      "answer": "No cookies are used. All data storage is done through localStorage and sessionStorage."
+    },
+    {
+      "id": 98,
+      "category": "Data & Security",
+      "question": "Can I use Navi AI in incognito/private mode?",
+      "answer": "Yes, but your data won't persist after closing the incognito window since localStorage is cleared. Regular mode is recommended."
+    },
+    {
+      "id": 99,
+      "category": "Data & Security",
+      "question": "How secure is the encryption?",
+      "answer": "The XOR cipher provides basic obfuscation. It's suitable for local storage privacy but not for protecting against determined attackers with device access."
+    },
+    {
+      "id": 100,
+      "category": "Data & Security",
+      "question": "Can someone decrypt my chat history?",
+      "answer": "If someone has access to both your browser's localStorage and the encryption key in the code, they could decrypt your data. Physical device security is important."
+    },
+    {
+      "id": 101,
+      "category": "Data & Security",
+      "question": "Is my data GDPR compliant?",
+      "answer": "Since all data is stored locally on your device and not transmitted anywhere, GDPR doesn't directly apply. You have complete control over your data."
+    },
+    {
+      "id": 102,
+      "category": "Data & Security",
+      "question": "What happens to data when I uninstall my browser?",
+      "answer": "Uninstalling your browser typically doesn't delete data. However, manually clearing browser data will delete everything. Always export first."
+    },
+    {
+      "id": 103,
+      "category": "Data & Security",
+      "question": "Can I completely delete all my data?",
+      "answer": "Yes, clear your chat history using the Clear button, then run localStorage.clear() in the browser console to remove all Navi AI data."
+    },
+    {
+      "id": 104,
+      "category": "Data & Security",
+      "question": "Does Navi AI work with browser extensions?",
+      "answer": "Most browser extensions work fine with Navi AI. However, extensions that block localStorage or JavaScript may cause issues."
+    },
+    {
+      "id": 105,
+      "category": "Data & Security",
+      "question": "Is there any analytics or tracking?",
+      "answer": "No analytics, tracking, or telemetry of any kind. Navi AI is completely private and doesn't phone home."
+    },
+    {
+      "id": 106,
+      "category": "Troubleshooting",
+      "question": "Error: localStorage is not defined",
+      "answer": "Enable localStorage in your browser settings. In Firefox, check that dom.storage.enabled is true in about:config."
+    },
+    {
+      "id": 107,
+      "category": "Troubleshooting",
+      "question": "The chat area is empty after login",
+      "answer": "This is normal for new accounts or after clearing history. Start asking questions to populate the chat area."
+    },
+    {
+      "id": 108,
+      "category": "Troubleshooting",
+      "question": "Buttons are not clickable",
+      "answer": "Check if JavaScript is enabled. Try refreshing the page. If using an old browser, upgrade to a modern version."
+    },
+    {
+      "id": 109,
+      "category": "Troubleshooting",
+      "question": "Subject dropdown shows no options",
+      "answer": "Check if the data files are loading correctly. Open browser console (F12) and look for network errors or missing files."
+    },
+    {
+      "id": 110,
+      "category": "Troubleshooting",
+      "question": "Chat messages appear in wrong order",
+      "answer": "This shouldn't happen normally. Try exporting, clearing history, and reimporting. If persists, check browser console for errors."
+    },
+    {
+      "id": 111,
+      "category": "Troubleshooting",
+      "question": "Username not displaying in header",
+      "answer": "Refresh the page. If issue persists, try logging out and back in. Check browser console for JavaScript errors."
+    },
+    {
+      "id": 112,
+      "category": "Troubleshooting",
+      "question": "Glassmorphism effect not showing",
+      "answer": "Ensure your browser supports backdrop-filter CSS property. Update to latest browser version or try a different browser."
+    },
+    {
+      "id": 113,
+      "category": "Troubleshooting",
+      "question": "PDF export shows blank page",
+      "answer": "Try a different browser. Some browsers have better print-to-PDF support. Chrome and Edge usually work best."
+    },
+    {
+      "id": 114,
+      "category": "Troubleshooting",
+      "question": "Import shows 'No valid messages found'",
+      "answer": "Ensure you're importing a correctly formatted TXT file exported from Navi AI. Check that the file isn't empty or corrupted."
+    },
+    {
+      "id": 115,
+      "category": "Troubleshooting",
+      "question": "Page keeps redirecting to login",
+      "answer": "Your session may be expired or corrupted. Try clearing localStorage and logging in again fresh."
+    },
+    {
+      "id": 116,
+      "category": "Advanced Features",
+      "question": "How does the search algorithm work?",
+      "answer": "Navi AI uses fuzzy text matching to compare your question against all Q&A pairs in the selected subject, scoring each match and returning the best one."
+    },
+    {
+      "id": 117,
+      "category": "Advanced Features",
+      "question": "Can I modify the encryption key?",
+      "answer": "Yes, change the ENCRYPTION_KEY constant in both login/auth.js and js/app.js. Note: This will invalidate existing encrypted data."
+    },
+    {
+      "id": 118,
+      "category": "Advanced Features",
+      "question": "How do I add a new data source?",
+      "answer": "Create a new JSON file in the data/ folder with the required structure, then add an entry to the subjects object in js/app.js."
+    },
+    {
+      "id": 119,
+      "category": "Advanced Features",
+      "question": "Can I integrate Navi AI with other apps?",
+      "answer": "Yes, since it's web-based, you can embed it in an iframe or integrate the JavaScript code into other projects."
+    },
+    {
+      "id": 120,
+      "category": "Advanced Features",
+      "question": "Is there an API I can use?",
+      "answer": "No external API, but you can call the JavaScript functions directly if integrating Navi AI into other projects."
+    },
+    {
+      "id": 121,
+      "category": "Advanced Features",
+      "question": "How do I change the welcome message?",
+      "answer": "Edit the welcome message HTML in index.html, located in the chat-area div within the ai-message element."
+    },
+    {
+      "id": 122,
+      "category": "Advanced Features",
+      "question": "Can I add custom styling for specific subjects?",
+      "answer": "Yes, you can add CSS classes based on subject in the displayAIMessage function and style them in style.css."
+    },
+    {
+      "id": 123,
+      "category": "Advanced Features",
+      "question": "How do I debug issues?",
+      "answer": "Open browser DevTools (F12), check Console for errors, Network tab for loading issues, and Application tab for localStorage inspection."
+    },
+    {
+      "id": 124,
+      "category": "Advanced Features",
+      "question": "Can I host Navi AI on a web server?",
+      "answer": "Yes, upload all files to a web server. No server-side processing needed since everything runs in the browser."
+    },
+    {
+      "id": 125,
+      "category": "Advanced Features",
+      "question": "How do I contribute new Q&A content?",
+      "answer": "Edit the appropriate JSON file in the data/ folder, following the existing format with id, question, and answer properties."
+    },
+    {
+      "id": 126,
+      "category": "Tips & Tricks",
+      "question": "What's the best way to organize large chat histories?",
+      "answer": "Export regularly and label files by date or topic. Clear old conversations periodically while keeping exports as archives."
+    },
+    {
+      "id": 127,
+      "category": "Tips & Tricks",
+      "question": "How do I find a specific past conversation?",
+      "answer": "Use your browser's find feature (Ctrl+F) to search within the chat area. Or export as TXT and search the file."
+    },
+    {
+      "id": 128,
+      "category": "Tips & Tricks",
+      "question": "Can I customize keyboard shortcuts?",
+      "answer": "Not directly in Navi AI, but you can use browser extensions like Shortkeys to create custom shortcuts for actions."
+    },
+    {
+      "id": 129,
+      "category": "Tips & Tricks",
+      "question": "How do I make Navi AI my default search tool?",
+      "answer": "Add a browser bookmark, set it as a homepage, or create a desktop shortcut to login/index.html for quick access."
+    },
+    {
+      "id": 130,
+      "category": "Tips & Tricks",
+      "question": "What's the fastest way to switch between subjects?",
+      "answer": "Use Tab key to focus the subject dropdown, arrow keys to select, and Enter to confirm selection."
+    },
+    {
+      "id": 131,
+      "category": "Tips & Tricks",
+      "question": "How do I save time when asking similar questions?",
+      "answer": "Keep a text file with common question templates you can copy-paste and modify as needed."
+    },
+    {
+      "id": 132,
+      "category": "Tips & Tricks",
+      "question": "Can I use Navi AI for studying?",
+      "answer": "Absolutely! Use it for quick reference, concept clarification, and reviewing topics. Export study sessions for later review."
+    },
+    {
+      "id": 133,
+      "category": "Tips & Tricks",
+      "question": "How do I maximize answer quality?",
+      "answer": "Use clear, specific questions with proper subject selection. Rephrase if needed. Check spelling for better matching."
+    },
+    {
+      "id": 134,
+      "category": "Tips & Tricks",
+      "question": "What if I need to reference previous answers?",
+      "answer": "Scroll up in the chat area or export your history as TXT for a searchable reference document."
+    },
+    {
+      "id": 135,
+      "category": "Tips & Tricks",
+      "question": "How do I use Navi AI efficiently on slow devices?",
+      "answer": "Keep chat history shorter by regularly exporting and clearing. Close unnecessary browser tabs to free up memory."
+    },
+    {
+      "id": 136,
+      "category": "Getting Started",
+      "question": "Who created Navi AI?",
+      "answer": "Navi AI was created by Ashish Gupta in January 2026 as an intelligent knowledge assistant with advanced authentication and data management features."
+    },
+    {
+      "id": 137,
+      "category": "Getting Started",
+      "question": "What version of Navi AI is this?",
+      "answer": "This is Navi AI version 2.1, featuring login authentication, auto-logout, import/export, and encrypted local storage."
+    },
+    {
+      "id": 138,
+      "category": "Getting Started",
+      "question": "Where can I report bugs?",
+      "answer": "Check the browser console for errors, document the issue with steps to reproduce, and contact the developer through the project repository."
+    },
+    {
+      "id": 139,
+      "category": "Getting Started",
+      "question": "Is there a user manual?",
+      "answer": "Yes, check README.md in the main folder and login/README.md for comprehensive documentation on all features."
+    },
+    {
+      "id": 140,
+      "category": "Getting Started",
+      "question": "Can I suggest new features?",
+      "answer": "Yes! Feature suggestions are welcome. Document your idea clearly and share it with the developer or community."
+    },
+    {
+      "id": 141,
+      "category": "Login & Authentication",
+      "question": "Why do I need to provide an email?",
+      "answer": "Email is used for user identification and appears in exports. It's stored locally only and never sent anywhere."
+    },
+    {
+      "id": 142,
+      "category": "Login & Authentication",
+      "question": "Can I use a fake email address?",
+      "answer": "The email just needs valid format (user@domain.com). Since there's no verification, you can use any valid-formatted email."
+    },
+    {
+      "id": 143,
+      "category": "Login & Authentication",
+      "question": "What's the benefit of registering vs guest mode?",
+      "answer": "Both work identically. Registration gives you a personalized name display and identifiable exports. Guest mode is faster to start."
+    },
+    {
+      "id": 144,
+      "category": "Login & Authentication",
+      "question": "How long does my login last?",
+      "answer": "Your login persists until you manually logout or clear browser data. The 2-minute timeout only affects active sessions, not the login itself."
+    },
+    {
+      "id": 145,
+      "category": "Login & Authentication",
+      "question": "Can I be logged in on multiple devices?",
+      "answer": "Yes, each device stores data independently. Login on each device with the same username for consistency."
+    },
+    {
+      "id": 146,
+      "category": "Session Management",
+      "question": "What triggers the inactivity timer?",
+      "answer": "The timer starts when you login successfully and continues running until you're logged out or activity is detected."
+    },
+    {
+      "id": 147,
+      "category": "Session Management",
+      "question": "Can I pause the inactivity timer?",
+      "answer": "No pause feature exists, but any mouse, keyboard, or scroll activity automatically resets it to 2 minutes."
+    },
+    {
+      "id": 148,
+      "category": "Session Management",
+      "question": "Does typing in the input box reset the timer?",
+      "answer": "Yes, any keyboard input, including typing in the message box, resets the inactivity timer."
+    },
+    {
+      "id": 149,
+      "category": "Session Management",
+      "question": "What if I want to stay logged in longer?",
+      "answer": "Simply interact with the page every 2 minutes. Even a small mouse movement will keep your session active."
+    },
+    {
+      "id": 150,
+      "category": "Session Management",
+      "question": "Is the timer visible anywhere?",
+      "answer": "No visible countdown is shown. The timer runs silently in the background and alerts you only when time is up."
+    },
+    {
+      "id": 151,
+      "category": "Chat Features",
+      "question": "How many messages can I store?",
+      "answer": "There's no hard limit, but localStorage typically has a 5-10MB limit per domain. Very large histories may slow down performance."
+    },
+    {
+      "id": 152,
+      "category": "Chat Features",
+      "question": "Can Navi AI understand misspelled questions?",
+      "answer": "Yes, the fuzzy matching algorithm can handle minor typos and variations in spelling, making it forgiving of common mistakes."
+    },
+    {
+      "id": 153,
+      "category": "Chat Features",
+      "question": "Does capitalization matter in questions?",
+      "answer": "No, the search is case-insensitive. You can type in all lowercase, uppercase, or mixed case and get the same results."
+    },
+    {
+      "id": 154,
+      "category": "Chat Features",
+      "question": "Can I ask questions in different languages?",
+      "answer": "The knowledge base is in English, so questions in English work best. Other languages may not return accurate results."
+    },
+    {
+      "id": 155,
+      "category": "Chat Features",
+      "question": "What's the response time for answers?",
+      "answer": "Responses are nearly instant, typically under a second. Performance depends on device speed and chat history size."
+    },
+    {
+      "id": 156,
+      "category": "Import & Export",
+      "question": "Can I schedule automatic exports?",
+      "answer": "No built-in scheduling exists. You could use browser automation tools or write a custom script for automated exports."
+    },
+    {
+      "id": 157,
+      "category": "Import & Export",
+      "question": "What encoding does the export use?",
+      "answer": "Exports use UTF-8 encoding, which supports international characters and special symbols properly."
+    },
+    {
+      "id": 158,
+      "category": "Import & Export",
+      "question": "Can I merge multiple export files?",
+      "answer": "Yes, manually combine the text content of multiple TXT exports into one file, then import that combined file."
+    },
+    {
+      "id": 159,
+      "category": "Import & Export",
+      "question": "How do I import on a new device?",
+      "answer": "On the new device, login with your username, click Import, select your exported TXT file, and choose to replace or merge."
+    },
+    {
+      "id": 160,
+      "category": "Import & Export",
+      "question": "Why can't I import PDF files directly?",
+      "answer": "PDF parsing requires complex libraries. To keep Navi AI lightweight and dependency-free, only TXT import is fully supported."
+    },
+    {
+      "id": 161,
+      "category": "Data & Security",
+      "question": "Can malicious code access my localStorage?",
+      "answer": "JavaScript on the same domain can access localStorage. Only use Navi AI from trusted sources and avoid browser extensions that access all sites."
+    },
+    {
+      "id": 162,
+      "category": "Data & Security",
+      "question": "Is XOR encryption military-grade?",
+      "answer": "No, XOR is basic obfuscation for privacy against casual access. It's not cryptographically secure against determined attackers."
+    },
+    {
+      "id": 163,
+      "category": "Data & Security",
+      "question": "Should I encrypt my exports?",
+      "answer": "Exports are plain text. If sharing or storing in cloud, consider using file encryption tools like 7-Zip with password protection."
+    },
+    {
+      "id": 164,
+      "category": "Data & Security",
+      "question": "What if someone accesses my computer?",
+      "answer": "If someone has physical or remote access to your computer, they can potentially read your decrypted data. Use OS-level security."
+    },
+    {
+      "id": 165,
+      "category": "Data & Security",
+      "question": "Can browser sync expose my data?",
+      "answer": "If browser sync is enabled, localStorage may sync across your devices. This is generally secure if you use browser passwords properly."
+    },
+    {
+      "id": 166,
+      "category": "Troubleshooting",
+      "question": "Why is the page stuck on loading?",
+      "answer": "Check if JSON data files are accessible. Verify all files are in correct folders. Look for 404 errors in browser console."
+    },
+    {
+      "id": 167,
+      "category": "Troubleshooting",
+      "question": "Animations are choppy or laggy",
+      "answer": "Close other programs to free resources. Try a different browser. Disable browser extensions that might interfere."
+    },
+    {
+      "id": 168,
+      "category": "Troubleshooting",
+      "question": "Text is overlapping or misaligned",
+      "answer": "Try zooming to 100% (Ctrl+0). Clear browser cache. Check if custom browser fonts are interfering."
+    },
+    {
+      "id": 169,
+      "category": "Troubleshooting",
+      "question": "Cannot see the Send button",
+      "answer": "The input area is at the bottom of the page. Scroll down or maximize your window. Check browser zoom level."
+    },
+    {
+      "id": 170,
+      "category": "Troubleshooting",
+      "question": "Dropdown menu won't open",
+      "answer": "Check if JavaScript errors are present in console. Try clicking directly on the dropdown text. Refresh the page."
+    },
+    {
+      "id": 171,
+      "category": "Advanced Features",
+      "question": "Can I run Navi AI offline completely?",
+      "answer": "Yes, after first load, all files are cached. You can use file:// protocol to open index.html without a web server."
+    },
+    {
+      "id": 172,
+      "category": "Advanced Features",
+      "question": "How do I create a desktop shortcut?",
+      "answer": "Drag the login/index.html file to your desktop (Windows), or create a shortcut/alias pointing to it."
+    },
+    {
+      "id": 173,
+      "category": "Advanced Features",
+      "question": "Can I package Navi AI as an app?",
+      "answer": "Yes, use Electron, NW.js, or PWA manifest to create a standalone desktop or mobile app from the web files."
+    },
+    {
+      "id": 174,
+      "category": "Advanced Features",
+      "question": "How do I minify the code for production?",
+      "answer": "Use tools like UglifyJS for JavaScript, CSSNano for CSS, and HTMLMinifier for HTML to reduce file sizes."
+    },
+    {
+      "id": 175,
+      "category": "Advanced Features",
+      "question": "Can I add a dark mode toggle?",
+      "answer": "Yes, create CSS variables for colors, add a toggle button, and use JavaScript to switch between light/dark themes."
+    },
+    {
+      "id": 176,
+      "category": "Tips & Tricks",
+      "question": "How do I search within my chat history?",
+      "answer": "Use Ctrl+F (or Cmd+F on Mac) to search the page. For better searching, export as TXT and use a text editor."
+    },
+    {
+      "id": 177,
+      "category": "Tips & Tricks",
+      "question": "Can I customize the chat bubble colors?",
+      "answer": "Yes, edit the CSS classes .user-message and .ai-message in css/style.css to change colors and styling."
+    },
+    {
+      "id": 178,
+      "category": "Tips & Tricks",
+      "question": "How do I make text larger?",
+      "answer": "Use browser zoom (Ctrl+ or Ctrl-) or edit font-size values in css/style.css for permanent changes."
+    },
+    {
+      "id": 179,
+      "category": "Tips & Tricks",
+      "question": "What's the best subject for general questions?",
+      "answer": "Use 'General Conversation' for everyday questions or 'Daily Life' for practical life topics."
+    },
+    {
+      "id": 180,
+      "category": "Tips & Tricks",
+      "question": "How do I avoid redundant exports?",
+      "answer": "Name exports with dates (e.g., naviAI_2026-01-23.txt) and keep only recent ones. Delete old exports after verification."
+    },
+    {
+      "id": 181,
+      "category": "Getting Started",
+      "question": "What makes Navi AI different from other chatbots?",
+      "answer": "Navi AI is 100% local, needs no internet after initial load, has built-in authentication, uses no external APIs, and gives you complete data ownership."
+    },
+    {
+      "id": 182,
+      "category": "Getting Started",
+      "question": "Can I contribute to Navi AI development?",
+      "answer": "Yes! You can add Q&A content, improve styling, fix bugs, or suggest features. Check with the developer about contribution guidelines."
+    },
+    {
+      "id": 183,
+      "category": "Getting Started",
+      "question": "How often is Navi AI updated?",
+      "answer": "Updates depend on the developer's schedule. Check version numbers and lastUpdated fields in JSON files for latest changes."
+    },
+    {
+      "id": 184,
+      "category": "Getting Started",
+      "question": "Where are the source files located?",
+      "answer": "Main app: index.html, js/app.js, css/style.css. Login: login/index.html, login/auth.js, login/styles.css. Data: data/*.json files."
+    },
+    {
+      "id": 185,
+      "category": "Getting Started",
+      "question": "Can I rename files or folders?",
+      "answer": "Yes, but update all references in HTML and JavaScript files. The structure is: modal/index.html, modal/login/, modal/js/, modal/css/, modal/data/."
+    },
+    {
+      "id": 186,
+      "category": "Login & Authentication",
+      "question": "Why doesn't Navi AI use passwords?",
+      "answer": "Since everything is local with no server, passwords wouldn't add security. Physical device security is more important than login passwords."
+    },
+    {
+      "id": 187,
+      "category": "Login & Authentication",
+      "question": "Can I add password protection?",
+      "answer": "Yes, modify login/auth.js to add a password field, hash it, and verify on login. Consider using bcrypt.js or similar for hashing."
+    },
+    {
+      "id": 188,
+      "category": "Login & Authentication",
+      "question": "What if I accidentally use guest mode?",
+      "answer": "Logout and login properly with your username. If you made chats as guest, export them first, then import after proper login."
+    },
+    {
+      "id": 189,
+      "category": "Login & Authentication",
+      "question": "Can I merge guest data with my account?",
+      "answer": "Export guest data, logout, login with your account, then import the guest data. It will merge with your account's history."
+    },
+    {
+      "id": 190,
+      "category": "Login & Authentication",
+      "question": "How do I know which account I'm logged into?",
+      "answer": "Your username is displayed in the header next to the logout link. Check there to confirm your current account."
+    },
+    {
+      "id": 191,
+      "category": "Session Management",
+      "question": "Can I customize which activities reset the timer?",
+      "answer": "Yes, edit the setupActivityListeners() function in js/app.js to add or remove event types like 'mousemove', 'keypress', etc."
+    },
+    {
+      "id": 192,
+      "category": "Session Management",
+      "question": "Does scrolling with a scroll wheel reset the timer?",
+      "answer": "Yes, scroll events (both mouse wheel and touchpad scrolling) reset the inactivity timer."
+    },
+    {
+      "id": 193,
+      "category": "Session Management",
+      "question": "What if I'm reading and not interacting?",
+      "answer": "If you're just reading for over 2 minutes without any movement, you'll be logged out. Move your mouse occasionally."
+    },
+    {
+      "id": 194,
+      "category": "Session Management",
+      "question": "Can I increase the timeout to 5 or 10 minutes?",
+      "answer": "Yes, edit INACTIVITY_TIMEOUT in js/app.js. Change '2 * 60 * 1000' to '5 * 60 * 1000' for 5 minutes or '10 * 60 * 1000' for 10 minutes."
+    },
+    {
+      "id": 195,
+      "category": "Session Management",
+      "question": "Why was I logged out even though I was active?",
+      "answer": "Check if you were active in a different tab/window. Each tab has independent timers. Activity in one doesn't affect others."
+    },
+    {
+      "id": 196,
+      "category": "Chat Features",
+      "question": "Can I format my messages with bold or italics?",
+      "answer": "Messages are displayed as plain text. Formatting isn't supported in the input, but you can add markdown-like syntax for readability."
+    },
+    {
+      "id": 197,
+      "category": "Chat Features",
+      "question": "Can I include code snippets in my questions?",
+      "answer": "Yes, you can paste code in your questions. The text will be preserved, though syntax highlighting isn't available."
+    },
+    {
+      "id": 198,
+      "category": "Chat Features",
+      "question": "Does Navi AI support emojis?",
+      "answer": "Yes, you can use emojis in your questions and they'll be displayed correctly in the chat history."
+    },
+    {
+      "id": 199,
+      "category": "Chat Features",
+      "question": "Can I attach images or files to messages?",
+      "answer": "No, Navi AI only supports text-based conversations. Images and file attachments aren't supported."
+    },
+    {
+      "id": 200,
+      "category": "Chat Features",
+      "question": "What's the character limit per message?",
+      "answer": "There's no enforced limit, but very long messages (thousands of characters) may slow down the interface."
+    },
+    {
+      "id": 201,
+      "category": "Chat Features",
+      "question": "Can I see message timestamps?",
+      "answer": "Timestamps are included in exports but not displayed in the chat interface by default. You can modify the display code to show them."
+    },
+    {
+      "id": 202,
+      "category": "Chat Features",
+      "question": "How do I retry a question if I don't like the answer?",
+      "answer": "Simply rephrase your question and send it again. Try using different keywords or selecting a different subject."
+    },
+    {
+      "id": 203,
+      "category": "Chat Features",
+      "question": "Can Navi AI handle follow-up questions?",
+      "answer": "Each question is processed independently. Include context in follow-up questions for better results."
+    },
+    {
+      "id": 204,
+      "category": "Chat Features",
+      "question": "What happens if I send an empty message?",
+      "answer": "The send button won't work with an empty message. Type something before clicking send or pressing Enter."
+    },
+    {
+      "id": 205,
+      "category": "Chat Features",
+      "question": "Can I cancel a message after sending?",
+      "answer": "No, once sent, messages are processed immediately and added to history. You can clear history if needed."
+    },
+    {
+      "id": 206,
+      "category": "Import & Export",
+      "question": "What's the maximum file size I can import?",
+      "answer": "Limited by browser memory and localStorage size (typically 5-10MB). Very large files may cause performance issues or fail to load."
+    },
+    {
+      "id": 207,
+      "category": "Import & Export",
+      "question": "Can I import chats from ChatGPT or other AIs?",
+      "answer": "Not directly. You'd need to reformat those exports to match Navi AI's format (YOU: / NAVI AI: prefixes)."
+    },
+    {
+      "id": 208,
+      "category": "Import & Export",
+      "question": "How do I batch export multiple accounts?",
+      "answer": "Login to each account separately, export, then logout and login to the next. No batch export across accounts exists."
+    },
+    {
+      "id": 209,
+      "category": "Import & Export",
+      "question": "Can exports include timestamps?",
+      "answer": "Yes, exports include an export timestamp in the header showing when the file was generated."
+    },
+    {
+      "id": 210,
+      "category": "Import & Export",
+      "question": "How do I verify an import was successful?",
+      "answer": "After import, scroll through your chat history to verify messages appear correctly. The success alert also confirms completion."
+    },
+    {
+      "id": 211,
+      "category": "Import & Export",
+      "question": "What if import shows an error?",
+      "answer": "Check that you're importing a valid TXT file from Navi AI. Verify the file isn't corrupted and has the correct format."
+    },
+    {
+      "id": 212,
+      "category": "Import & Export",
+      "question": "Can I export only today's conversations?",
+      "answer": "Export includes all history. To get only today's, you'd need to manually edit the exported file or clear old messages before exporting."
+    },
+    {
+      "id": 213,
+      "category": "Import & Export",
+      "question": "Does export preserve message order?",
+      "answer": "Yes, messages are exported in the same order they appear in your chat history, maintaining chronological sequence."
+    },
+    {
+      "id": 214,
+      "category": "Import & Export",
+      "question": "Can I import to multiple accounts at once?",
+      "answer": "No, import only affects the currently logged-in account. Switch accounts and import separately for each."
+    },
+    {
+      "id": 215,
+      "category": "Import & Export",
+      "question": "What's the recommended export frequency?",
+      "answer": "Export after important conversations or weekly if you use Navi AI daily. Monthly exports work for occasional users."
+    },
+    {
+      "id": 216,
+      "category": "Data & Security",
+      "question": "Can I change the encryption algorithm?",
+      "answer": "Yes, modify the encryptData() and decryptData() functions in login/auth.js to implement different encryption like AES."
+    },
+    {
+      "id": 217,
+      "category": "Data & Security",
+      "question": "Is localStorage vulnerable to XSS attacks?",
+      "answer": "Yes, XSS can access localStorage. Navi AI doesn't execute user input as code, reducing XSS risk, but use trusted sources only."
+    },
+    {
+      "id": 218,
+      "category": "Data & Security",
+      "question": "Should I use Navi AI on public computers?",
+      "answer": "Not recommended. Public computers may have keyloggers or malware. If necessary, use guest mode and export/delete data before leaving."
+    },
+    {
+      "id": 219,
+      "category": "Data & Security",
+      "question": "Can browser history reveal my Navi AI usage?",
+      "answer": "Browser history will show you visited the Navi AI pages, but not your conversation content. Use incognito if privacy is critical."
+    },
+    {
+      "id": 220,
+      "category": "Data & Security",
+      "question": "What data remains after I clear history?",
+      "answer": "Clearing chat history removes messages but keeps your user credentials. Logout and localStorage.clear() removes everything."
+    },
+    {
+      "id": 221,
+      "category": "Data & Security",
+      "question": "Can antivirus software access my Navi AI data?",
+      "answer": "Antivirus can scan browser storage if configured to do so. The data is encrypted but the key is in the code."
+    },
+    {
+      "id": 222,
+      "category": "Data & Security",
+      "question": "Is sessionStorage safer than localStorage?",
+      "answer": "sessionStorage is cleared when tab closes, making it more temporary. Navi AI uses both: sessionStorage for session, localStorage for persistence."
+    },
+    {
+      "id": 223,
+      "category": "Data & Security",
+      "question": "Can I audit what data Navi AI stores?",
+      "answer": "Yes, open DevTools (F12) > Application > localStorage. You'll see all keys: naviAI_user, naviAI_session, naviAI_chatHistory_*, etc."
+    },
+    {
+      "id": 224,
+      "category": "Data & Security",
+      "question": "Does Navi AI comply with data regulations?",
+      "answer": "Since all data is local and not transmitted, most data regulations don't apply. You have full control and ownership of your data."
+    },
+    {
+      "id": 225,
+      "category": "Data & Security",
+      "question": "What if my device is stolen?",
+      "answer": "If device is stolen, encrypted Navi AI data is there but the encryption key is in the code. Use device encryption and screen locks."
+    },
+    {
+      "id": 226,
+      "category": "Troubleshooting",
+      "question": "Error: Cannot read property of undefined",
+      "answer": "This JavaScript error suggests corrupted data or code issue. Try clearing localStorage, refreshing, or checking browser console for details."
+    },
+    {
+      "id": 227,
+      "category": "Troubleshooting",
+      "question": "Logout button doesn't work",
+      "answer": "Check browser console for JavaScript errors. Try refreshing the page. If persists, manually clear localStorage and navigate to login page."
+    },
+    {
+      "id": 228,
+      "category": "Troubleshooting",
+      "question": "Repeated login prompts",
+      "answer": "Clear the 'naviAI_manualLogout' flag from localStorage or check if session data is being corrupted. Try a different browser."
+    },
+    {
+      "id": 229,
+      "category": "Troubleshooting",
+      "question": "Chat messages appear twice",
+      "answer": "This shouldn't happen. Try exporting, clearing history, and reimporting. If persists, check for duplicate event listeners in the code."
+    },
+    {
+      "id": 230,
+      "category": "Troubleshooting",
+      "question": "Browser freezes when using Navi AI",
+      "answer": "Likely due to very large chat history. Export and clear history. Check if other browser tabs are consuming memory."
+    },
+    {
+      "id": 231,
+      "category": "Troubleshooting",
+      "question": "Colors look wrong or washed out",
+      "answer": "Check browser color settings and monitor calibration. Ensure hardware acceleration is enabled in browser settings."
+    },
+    {
+      "id": 232,
+      "category": "Troubleshooting",
+      "question": "Cannot paste text into input field",
+      "answer": "Check browser permissions for clipboard access. Try using Ctrl+V or right-click paste. Some browser extensions block pasting."
+    },
+    {
+      "id": 233,
+      "category": "Troubleshooting",
+      "question": "Mobile keyboard covers input area",
+      "answer": "Scroll down manually after keyboard appears, or rotate device to landscape. Some mobile browsers have better keyboard handling."
+    },
+    {
+      "id": 234,
+      "category": "Troubleshooting",
+      "question": "Answers are incorrect or random",
+      "answer": "Verify you selected the right subject. Check if data files loaded properly. Question may not match available knowledge base entries."
+    },
+    {
+      "id": 235,
+      "category": "Troubleshooting",
+      "question": "JavaScript disabled error",
+      "answer": "Enable JavaScript in browser settings. Check if browser extensions are blocking scripts. Try disabling NoScript or similar extensions."
+    },
+    {
+      "id": 236,
+      "category": "Advanced Features",
+      "question": "How do I implement multi-language support?",
+      "answer": "Create JSON files for each language, add language selector to UI, and load appropriate data file based on selection."
+    },
+    {
+      "id": 237,
+      "category": "Advanced Features",
+      "question": "Can I add voice output (text-to-speech)?",
+      "answer": "Yes, use the Web Speech API's SpeechSynthesis to read AI responses aloud. Add a speaker button to trigger it."
+    },
+    {
+      "id": 238,
+      "category": "Advanced Features",
+      "question": "How do I implement search within chat history?",
+      "answer": "Add a search input, filter chatHistory array by matching query text, and display only matching messages."
+    },
+    {
+      "id": 239,
+      "category": "Advanced Features",
+      "question": "Can I add image responses from AI?",
+      "answer": "Yes, extend the JSON format to include image URLs, then modify displayAIMessage() to render img tags for those entries."
+    },
+    {
+      "id": 240,
+      "category": "Advanced Features",
+      "question": "How do I add user avatars?",
+      "answer": "Store avatar URLs in user data, then modify message display functions to include avatar images alongside messages."
+    },
+    {
+      "id": 241,
+      "category": "Advanced Features",
+      "question": "Can I implement chat rooms or channels?",
+      "answer": "Yes, extend the data structure to include room/channel IDs, and filter messages by selected room in the UI."
+    },
+    {
+      "id": 242,
+      "category": "Advanced Features",
+      "question": "How do I add message reactions?",
+      "answer": "Store reaction data (emoji, count) with each message, add reaction buttons to message elements, and update on click."
+    },
+    {
+      "id": 243,
+      "category": "Advanced Features",
+      "question": "Can I implement message threading?",
+      "answer": "Yes, add parent message ID to message structure, then display child messages indented under their parent."
+    },
+    {
+      "id": 244,
+      "category": "Advanced Features",
+      "question": "How do I add notification sounds?",
+      "answer": "Use HTML5 Audio API to play sound files when new AI responses arrive. Include audio files and trigger on message display."
+    },
+    {
+      "id": 245,
+      "category": "Advanced Features",
+      "question": "Can I add rich text editing?",
+      "answer": "Yes, replace the textarea with a contenteditable div or integrate libraries like Quill.js or TinyMCE for WYSIWYG editing."
+    },
+    {
+      "id": 246,
+      "category": "Advanced Features",
+      "question": "How do I implement auto-save drafts?",
+      "answer": "Add an event listener on input field that saves content to localStorage on every change. Restore on page load."
+    },
+    {
+      "id": 247,
+      "category": "Advanced Features",
+      "question": "Can I add message statistics?",
+      "answer": "Yes, calculate stats like total messages, words, characters from chatHistory array and display in a stats panel."
+    },
+    {
+      "id": 248,
+      "category": "Advanced Features",
+      "question": "How do I implement chat tagging?",
+      "answer": "Add tags array to each message, create tag input UI, store tags with messages, and filter by tags in search."
+    },
+    {
+      "id": 249,
+      "category": "Advanced Features",
+      "question": "Can I add message bookmarks?",
+      "answer": "Yes, add a bookmark flag to message structure, create bookmark button in UI, and filter to show only bookmarked messages."
+    },
+    {
+      "id": 250,
+      "category": "Advanced Features",
+      "question": "How do I implement chat backups to cloud?",
+      "answer": "Use APIs like Google Drive, Dropbox, or OneDrive SDK to upload export files automatically to cloud storage."
+    },
+    {
+      "id": 251,
+      "category": "Tips & Tricks",
+      "question": "How do I use Navi AI for homework help?",
+      "answer": "Select the appropriate subject (Math, Science, etc.), ask specific questions, and verify answers with textbooks. Use as a study aid, not replacement."
+    },
+    {
+      "id": 252,
+      "category": "Tips & Tricks",
+      "question": "Can I use Navi AI for research?",
+      "answer": "Navi AI is great for quick reference and concept understanding, but always verify critical information with authoritative sources."
+    },
+    {
+      "id": 253,
+      "category": "Tips & Tricks",
+      "question": "How do I organize conversations by topic?",
+      "answer": "Unfortunately, there's no built-in organization. Manually prefix questions with [TOPIC] or export/clear after each topic."
+    },
+    {
+      "id": 254,
+      "category": "Tips & Tricks",
+      "question": "What's the best way to ask complex questions?",
+      "answer": "Break complex questions into smaller parts. Ask one aspect at a time for more focused and accurate answers."
+    },
+    {
+      "id": 255,
+      "category": "Tips & Tricks",
+      "question": "How do I avoid losing work during browser crashes?",
+      "answer": "Chat is auto-saved after each message. Browser crashes won't lose data as long as localStorage isn't corrupted."
+    },
+    {
+      "id": 256,
+      "category": "Tips & Tricks",
+      "question": "Can I use Navi AI as a personal knowledge base?",
+      "answer": "While it has preset Q&A, you can export your conversations as a searchable personal knowledge archive of questions you've asked."
+    },
+    {
+      "id": 257,
+      "category": "Tips & Tricks",
+      "question": "How do I improve my search keywords?",
+      "answer": "Use specific terms from the topic area. Include key concept names. Rephrase using synonyms if first attempt doesn't work."
+    },
+    {
+      "id": 258,
+      "category": "Tips & Tricks",
+      "question": "What if I need step-by-step instructions?",
+      "answer": "Ask for specific steps or procedures. Questions like 'How to...' or 'Steps to...' often return instructional answers."
+    },
+    {
+      "id": 259,
+      "category": "Tips & Tricks",
+      "question": "Can I use Navi AI for coding help?",
+      "answer": "Yes, select Computer Science subject. Ask specific programming questions. Include language name in your question for better results."
+    },
+    {
+      "id": 260,
+      "category": "Tips & Tricks",
+      "question": "How do I learn shortcuts faster?",
+      "answer": "Practice common actions: Enter to send, Ctrl+F to search, Ctrl+P for PDF save. Keep a cheat sheet until memorized."
+    },
+    {
+      "id": 261,
+      "category": "Getting Started",
+      "question": "What's the file structure of Navi AI?",
+      "answer": "Root: index.html, login/ folder (auth), js/ folder (app logic), css/ folder (styles), data/ folder (JSON knowledge bases)."
+    },
+    {
+      "id": 262,
+      "category": "Getting Started",
+      "question": "How large is Navi AI?",
+      "answer": "The entire application is typically under 5MB including all JSON data files, making it very lightweight."
+    },
+    {
+      "id": 263,
+      "category": "Getting Started",
+      "question": "Can I redistribute Navi AI?",
+      "answer": "Check with the creator about licensing. If open source, follow the license terms for distribution and modification."
+    },
+    {
+      "id": 264,
+      "category": "Getting Started",
+      "question": "Does Navi AI require Node.js?",
+      "answer": "No, Navi AI is pure client-side HTML/CSS/JavaScript. No build process or server-side runtime required."
+    },
+    {
+      "id": 265,
+      "category": "Getting Started",
+      "question": "Can I use Navi AI commercially?",
+      "answer": "Check the license terms. If permissive license (MIT, Apache), commercial use may be allowed. Contact creator for clarity."
+    },
+    {
+      "id": 266,
+      "category": "Login & Authentication",
+      "question": "What happens if two users have same username?",
+      "answer": "Since it's local per device, same username on different devices creates separate accounts. On same device, they'd share data."
+    },
+    {
+      "id": 267,
+      "category": "Login & Authentication",
+      "question": "Can I import/export user credentials?",
+      "answer": "User credentials are encrypted in localStorage. You can manually export the 'naviAI_user' key, but this exposes your info."
+    },
+    {
+      "id": 268,
+      "category": "Login & Authentication",
+      "question": "Why does auto-login fail sometimes?",
+      "answer": "Check if 'naviAI_manualLogout' flag is set. Clear it or logout manually wasn't recent. Verify localStorage isn't corrupted."
+    },
+    {
+      "id": 269,
+      "category": "Login & Authentication",
+      "question": "Can I force re-authentication?",
+      "answer": "Yes, set localStorage.setItem('naviAI_manualLogout', 'true'), then refresh the page. You'll be required to login."
+    },
+    {
+      "id": 270,
+      "category": "Login & Authentication",
+      "question": "How secure is the login system?",
+      "answer": "It's designed for local privacy, not multi-user security. Anyone with device access can see/modify localStorage."
+    },
+    {
+      "id": 271,
+      "category": "Session Management",
+      "question": "What's the technical implementation of the timer?",
+      "answer": "Uses setTimeout() with 2-minute duration. clearTimeout() and new setTimeout() on each tracked activity event."
+    },
+    {
+      "id": 272,
+      "category": "Session Management",
+      "question": "Can I see timer logs in console?",
+      "answer": "Not by default, but you can add console.log() statements in resetInactivityTimer() function for debugging."
+    },
+    {
+      "id": 273,
+      "category": "Session Management",
+      "question": "Does timer affect performance?",
+      "answer": "No, the timer is very lightweight. Activity listeners have minimal performance impact."
+    },
+    {
+      "id": 274,
+      "category": "Session Management",
+      "question": "Can I add a warning before auto-logout?",
+      "answer": "Yes, add setTimeout() for 1:50 that shows a warning, giving 10 seconds to interact before actual logout."
+    },
+    {
+      "id": 275,
+      "category": "Session Management",
+      "question": "What if I'm typing when timer expires?",
+      "answer": "Typing resets the timer, so you won't be logged out while actively typing. Only if you stop for 2 minutes."
+    },
+    {
+      "id": 276,
+      "category": "Chat Features",
+      "question": "Can I pin important messages?",
+      "answer": "Not built-in. You could modify code to add pinning feature with a pin button and filter for pinned messages."
+    },
+    {
+      "id": 277,
+      "category": "Chat Features",
+      "question": "Is there a way to star or favorite answers?",
+      "answer": "Not currently. You could export specific good answers manually or implement a favorites feature in the code."
+    },
+    {
+      "id": 278,
+      "category": "Chat Features",
+      "question": "Can I share individual messages?",
+      "answer": "Copy the message text manually, or implement a share button that copies text to clipboard or generates shareable link."
+    },
+    {
+      "id": 279,
+      "category": "Chat Features",
+      "question": "How many subjects can be loaded at once?",
+      "answer": "All subjects are available in the dropdown. Only the selected subject's data is used for answering current question."
+    },
+    {
+      "id": 280,
+      "category": "Chat Features",
+      "question": "Can I suggest new subjects to add?",
+      "answer": "Yes! Suggest to the developer. If you maintain your own copy, create new JSON files and add to subjects dropdown."
+    },
+    {
+      "id": 281,
+      "category": "Chat Features",
+      "question": "Does Navi AI support conversations or just Q&A?",
+      "answer": "Currently Q&A mode - each question is independent. Conversation context isn't maintained between questions."
+    },
+    {
+      "id": 282,
+      "category": "Chat Features",
+      "question": "Can I get sources or references with answers?",
+      "answer": "Not built-in. You could extend the JSON format to include source URLs and display them with answers."
+    },
+    {
+      "id": 283,
+      "category": "Chat Features",
+      "question": "How do I report incorrect answers?",
+      "answer": "Note the question and subject, then contact the developer or submit corrections via the project repository."
+    },
+    {
+      "id": 284,
+      "category": "Chat Features",
+      "question": "Can I rate answer quality?",
+      "answer": "Not built-in. You could add thumbs up/down buttons that store ratings with messages for future improvements."
+    },
+    {
+      "id": 285,
+      "category": "Chat Features",
+      "question": "What if multiple answers seem relevant?",
+      "answer": "Navi AI returns the best match based on text similarity. Try rephrasing for different perspectives."
+    },
+    {
+      "id": 286,
+      "category": "Import & Export",
+      "question": "Can I export to markdown format?",
+      "answer": "Not built-in, but you can modify exportAsText() function to format output as markdown instead of plain text."
+    },
+    {
+      "id": 287,
+      "category": "Import & Export",
+      "question": "How do I automate backups to USB drive?",
+      "answer": "No built-in automation. You could write a script using File System Access API or manually export and save to USB regularly."
+    },
+    {
+      "id": 288,
+      "category": "Import & Export",
+      "question": "Can I export as JSON for programmatic use?",
+      "answer": "Not currently, but you could add an exportAsJSON() function that creates downloadable JSON of chatHistory array."
+    },
+    {
+      "id": 289,
+      "category": "Import & Export",
+      "question": "What metadata is included in exports?",
+      "answer": "Exports include username, email, export date/time, and formatted conversation messages."
+    },
+    {
+      "id": 290,
+      "category": "Import & Export",
+      "question": "Can I password-protect exports?",
+      "answer": "Not built-in. Use external file encryption tools like 7-Zip, VeraCrypt, or GPG to encrypt export files."
+    },
+    {
+      "id": 291,
+      "category": "Import & Export",
+      "question": "How do I export from multiple browsers?",
+      "answer": "Each browser has separate localStorage. Login and export from each browser individually."
+    },
+    {
+      "id": 292,
+      "category": "Import & Export",
+      "question": "Can I import partial conversations?",
+      "answer": "Edit the TXT file before importing, keeping only desired messages in the proper format (YOU: / NAVI AI: prefixes)."
+    },
+    {
+      "id": 293,
+      "category": "Import & Export",
+      "question": "What if import file has wrong format?",
+      "answer": "Import will fail with error. Ensure file has 'YOU:' and 'NAVI AI:' prefixes. Check for proper line breaks."
+    },
+    {
+      "id": 294,
+      "category": "Import & Export",
+      "question": "Can I import while keeping current data?",
+      "answer": "Yes, when importing you'll get option to merge with current history or replace it completely."
+    },
+    {
+      "id": 295,
+      "category": "Import & Export",
+      "question": "How do I batch process exports?",
+      "answer": "No batch processing built-in. For multiple accounts, manually login to each and export separately."
+    },
+    {
+      "id": 296,
+      "category": "Data & Security",
+      "question": "Can I use stronger encryption?",
+      "answer": "Yes, replace XOR cipher with AES using CryptoJS library or Web Crypto API for cryptographically secure encryption."
+    },
+    {
+      "id": 297,
+      "category": "Data & Security",
+      "question": "How do I securely delete Navi AI data?",
+      "answer": "Run localStorage.clear() in console, clear browser cache, and if paranoid, use secure deletion tools for browser profile folder."
+    },
+    {
+      "id": 298,
+      "category": "Data & Security",
+      "question": "Is my data backed up anywhere?",
+      "answer": "No automatic backups. All data is only in your browser's localStorage. Manual exports are your only backup."
+    },
+    {
+      "id": 299,
+      "category": "Data & Security",
+      "question": "Can browser updates delete my data?",
+      "answer": "Browser updates typically don't clear localStorage, but major profile changes might. Always maintain export backups."
+    },
+    {
+      "id": 300,
+      "category": "Data & Security",
+      "question": "What's the encryption key used?",
+      "answer": "The key 'NaviAI_SecureAuth_2026' is hardcoded in both login/auth.js and js/app.js files."
+    },
+    {
+      "id": 301,
+      "category": "Data & Security",
+      "question": "Can I rotate the encryption key?",
+      "answer": "Yes, but you must decrypt all existing data with old key and re-encrypt with new key, or data will be unreadable."
+    },
+    {
+      "id": 302,
+      "category": "Data & Security",
+      "question": "Is localStorage data compressed?",
+      "answer": "No compression by default. You could implement compression using pako or lz-string libraries before encryption."
+    },
+    {
+      "id": 303,
+      "category": "Data & Security",
+      "question": "How do I prevent unauthorized access?",
+      "answer": "Use OS-level user accounts, lock computer when away, consider full-disk encryption, and use browser profiles with passwords."
+    },
+    {
+      "id": 304,
+      "category": "Data & Security",
+      "question": "Can employer see my Navi AI usage at work?",
+      "answer": "If on company computer, IT may monitor browser activity and access localStorage. Use personal devices for private conversations."
+    },
+    {
+      "id": 305,
+      "category": "Data & Security",
+      "question": "What about forensic data recovery?",
+      "answer": "Deleted localStorage may be recoverable from disk. For sensitive data, use secure deletion tools and encrypt disk."
+    },
+    {
+      "id": 306,
+      "category": "Troubleshooting",
+      "question": "White screen on startup",
+      "answer": "Check browser console for errors. Verify all files loaded. Try hard refresh (Ctrl+Shift+R). Check file paths in HTML."
+    },
+    {
+      "id": 307,
+      "category": "Troubleshooting",
+      "question": "Console shows 404 errors",
+      "answer": "Files are missing or paths are wrong. Check that data/*.json, js/app.js, css/style.css exist in correct locations."
+    },
+    {
+      "id": 308,
+      "category": "Troubleshooting",
+      "question": "Infinite redirect loop",
+      "answer": "Clear localStorage and sessionStorage. Check authentication logic in app.js. Disable browser extensions that might interfere."
+    },
+    {
+      "id": 309,
+      "category": "Troubleshooting",
+      "question": "Styles not applying correctly",
+      "answer": "Check CSS file loaded (Network tab). Try hard refresh. Verify no conflicting browser extensions or user stylesheets."
+    },
+    {
+      "id": 310,
+      "category": "Troubleshooting",
+      "question": "Input field not accepting text",
+      "answer": "Check if element is focused. Try clicking directly in input area. Disable browser extensions. Check console for errors."
+    },
+    {
+      "id": 311,
+      "category": "Troubleshooting",
+      "question": "Send button greyed out",
+      "answer": "Input field may be empty or disabled. Check if JavaScript loaded properly. Try typing something first."
+    },
+    {
+      "id": 312,
+      "category": "Troubleshooting",
+      "question": "Typing has lag or delay",
+      "answer": "Large chat history or low device memory. Try exporting and clearing history. Close other browser tabs."
+    },
+    {
+      "id": 313,
+      "category": "Troubleshooting",
+      "question": "Scrolling is jumpy or broken",
+      "answer": "May be performance issue. Clear history, close other tabs. Check if smooth scrolling is enabled/disabled in browser."
+    },
+    {
+      "id": 314,
+      "category": "Troubleshooting",
+      "question": "Cannot click links in messages",
+      "answer": "Links aren't automatically created. Copy URLs and paste in address bar, or modify code to parse and linkify URLs."
+    },
+    {
+      "id": 315,
+      "category": "Troubleshooting",
+      "question": "Time displays are wrong",
+      "answer": "Check system time settings. Browser uses system time for timestamps. Adjust timezone if needed."
+    },
+    {
+      "id": 316,
+      "category": "Advanced Features",
+      "question": "How do I implement plugins system?",
+      "answer": "Create plugin interface with hooks, load plugins from separate files, register callbacks for events like message send/receive."
+    },
+    {
+      "id": 317,
+      "category": "Advanced Features",
+      "question": "Can I add collaborative features?",
+      "answer": "Would require server backend. Consider using Firebase, WebSocket, or WebRTC for real-time multi-user collaboration."
+    },
+    {
+      "id": 318,
+      "category": "Advanced Features",
+      "question": "How do I add analytics?",
+      "answer": "Implement event tracking locally (messages sent, subjects used, session duration) and store in localStorage or export reports."
+    },
+    {
+      "id": 319,
+      "category": "Advanced Features",
+      "question": "Can I integrate with external APIs?",
+      "answer": "Yes, use fetch() to call external APIs. Be mindful of CORS restrictions. Consider using backend proxy for sensitive keys."
+    },
+    {
+      "id": 320,
+      "category": "Advanced Features",
+      "question": "How do I add machine learning?",
+      "answer": "Use TensorFlow.js or ml5.js in browser. Train models on Q&A data for better matching or sentiment analysis."
+    },
+    {
+      "id": 321,
+      "category": "Advanced Features",
+      "question": "Can I create mobile app version?",
+      "answer": "Yes, use Capacitor, Cordova, or React Native with WebView to package as native iOS/Android app."
+    },
+    {
+      "id": 322,
+      "category": "Advanced Features",
+      "question": "How do I add keyboard shortcuts?",
+      "answer": "Add document.addEventListener('keydown') with key combinations. Use Ctrl/Cmd+key for custom actions."
+    },
+    {
+      "id": 323,
+      "category": "Advanced Features",
+      "question": "Can I implement undo/redo?",
+      "answer": "Maintain history stack of actions (message send, clear, etc.). Implement undo() that reverts to previous state."
+    },
+    {
+      "id": 324,
+      "category": "Advanced Features",
+      "question": "How do I add custom themes?",
+      "answer": "Create CSS variables for colors, store theme preference in localStorage, swap CSS files or variables on theme change."
+    },
+    {
+      "id": 325,
+      "category": "Advanced Features",
+      "question": "Can I add spell checker?",
+      "answer": "Modern browsers have built-in spell check. For custom, use libraries like Typo.js or integrate Hunspell dictionary."
+    },
+    {
+      "id": 326,
+      "category": "Advanced Features",
+      "question": "How do I implement command system?",
+      "answer": "Parse input for commands starting with / or !, map commands to functions, execute when detected."
+    },
+    {
+      "id": 327,
+      "category": "Advanced Features",
+      "question": "Can I add image generation?",
+      "answer": "Integrate APIs like DALL-E, Stable Diffusion, or use canvas API for simple procedural graphics."
+    },
+    {
+      "id": 328,
+      "category": "Advanced Features",
+      "question": "How do I optimize for large datasets?",
+      "answer": "Implement pagination, lazy loading, virtual scrolling. Index Q&A data for faster searches. Consider IndexedDB for large data."
+    },
+    {
+      "id": 329,
+      "category": "Advanced Features",
+      "question": "Can I add code syntax highlighting?",
+      "answer": "Yes, use libraries like Prism.js or Highlight.js to detect and highlight code blocks in messages."
+    },
+    {
+      "id": 330,
+      "category": "Advanced Features",
+      "question": "How do I implement WebSocket support?",
+      "answer": "Add WebSocket client code, connect to server, handle real-time message events for live updates or multi-device sync."
+    },
+    {
+      "id": 331,
+      "category": "Tips & Tricks",
+      "question": "How do I make Navi AI load faster?",
+      "answer": "Minimize JSON files, enable browser caching, use CDN for libraries, minify CSS/JS, lazy load non-critical assets."
+    },
+    {
+      "id": 332,
+      "category": "Tips & Tricks",
+      "question": "Can I use Navi AI offline after first load?",
+      "answer": "Yes, add service worker for offline support. Once cached, works completely offline."
+    },
+    {
+      "id": 333,
+      "category": "Tips & Tricks",
+      "question": "How do I create better question templates?",
+      "answer": "Study successful questions. Include context, be specific, use proper terminology. Save templates for reuse."
+    },
+    {
+      "id": 334,
+      "category": "Tips & Tricks",
+      "question": "What's the most efficient workflow?",
+      "answer": "Keep Navi AI open in pinned tab, use keyboard shortcuts, export weekly, clear monthly, maintain organized exports."
+    },
+    {
+      "id": 335,
+      "category": "Tips & Tricks",
+      "question": "How do I memorize important answers?",
+      "answer": "Copy important answers to personal notes app. Create flashcards. Export and review periodically."
+    },
+    {
+      "id": 336,
+      "category": "Tips & Tricks",
+      "question": "Can I use Navi AI for exam preparation?",
+      "answer": "Yes, ask practice questions, review concepts, test knowledge. Export study sessions for later review."
+    },
+    {
+      "id": 337,
+      "category": "Tips & Tricks",
+      "question": "How do I track my learning progress?",
+      "answer": "Export regularly and review question history. Note recurring topics. Track subjects used most."
+    },
+    {
+      "id": 338,
+      "category": "Tips & Tricks",
+      "question": "What if I need to cite Navi AI answers?",
+      "answer": "Export conversation with timestamp. Cite as: 'Navi AI (created by Ashish Gupta). [Subject]. [Date]. Personal conversation.'"
+    },
+    {
+      "id": 339,
+      "category": "Tips & Tricks",
+      "question": "How do I avoid distractions while using Navi AI?",
+      "answer": "Use full-screen mode (F11), close other tabs, disable notifications, focus on one subject at a time."
+    },
+    {
+      "id": 340,
+      "category": "Tips & Tricks",
+      "question": "Can I use Navi AI for brainstorming?",
+      "answer": "Yes, ask open-ended questions, explore different angles, use various subjects for diverse perspectives."
+    },
+    {
+      "id": 341,
+      "category": "Getting Started",
+      "question": "What are the system requirements?",
+      "answer": "Modern browser (Chrome 90+, Firefox 88+, Edge 90+, Safari 14+), JavaScript enabled, localStorage enabled, 100MB free disk space."
+    },
+    {
+      "id": 342,
+      "category": "Getting Started",
+      "question": "Does Navi AI work on tablets?",
+      "answer": "Yes, works on iPad, Android tablets, and other tablet browsers with full functionality."
+    },
+    {
+      "id": 343,
+      "category": "Getting Started",
+      "question": "Can I customize the welcome screen?",
+      "answer": "Yes, edit the welcome message in index.html's initial AI message element."
+    },
+    {
+      "id": 344,
+      "category": "Getting Started",
+      "question": "What's the learning curve?",
+      "answer": "Very minimal. If you can use a chat app, you can use Navi AI. 5-10 minutes to learn all features."
+    },
+    {
+      "id": 345,
+      "category": "Getting Started",
+      "question": "Are there video tutorials?",
+      "answer": "Check project repository or website for tutorials. Otherwise, README files provide comprehensive text guides."
+    },
+    {
+      "id": 346,
+      "category": "Getting Started",
+      "question": "How do I stay updated on new features?",
+      "answer": "Check version numbers in JSON files, follow project repository, or contact developer for update notifications."
+    },
+    {
+      "id": 347,
+      "category": "Getting Started",
+      "question": "Can I request custom features?",
+      "answer": "Yes, submit feature requests via project repository issues or contact developer directly with your ideas."
+    },
+    {
+      "id": 348,
+      "category": "Getting Started",
+      "question": "Is there a community or forum?",
+      "answer": "Check project repository for discussion forums, GitHub Discussions, or Discord/Slack community links."
+    },
+    {
+      "id": 349,
+      "category": "Getting Started",
+      "question": "How do I report security issues?",
+      "answer": "Contact developer privately via email for security issues. Don't post publicly until fixed."
+    },
+    {
+      "id": 350,
+      "category": "Getting Started",
+      "question": "What's the roadmap for Navi AI?",
+      "answer": "Check project repository for roadmap, planned features, and upcoming releases information."
+    },
+    {
+      "id": 351,
+      "category": "Login & Authentication",
+      "question": "Can I use social login (Google, Facebook)?",
+      "answer": "Not built-in, but you could integrate OAuth libraries to add social authentication if desired."
+    },
+    {
+      "id": 352,
+      "category": "Login & Authentication",
+      "question": "What if I misspell my username?",
+      "answer": "Each spelling creates a separate account. If you want the correct username, export data, logout, login correctly, import."
+    },
+    {
+      "id": 353,
+      "category": "Login & Authentication",
+      "question": "Can I have different usernames on different devices?",
+      "answer": "Yes, each device's localStorage is independent. Different usernames on different devices work fine."
+    },
+    {
+      "id": 354,
+      "category": "Login & Authentication",
+      "question": "How do I transition from guest to registered?",
+      "answer": "Export guest data, logout, login with username/email, import the data. Guest data merges with new account."
+    },
+    {
+      "id": 355,
+      "category": "Login & Authentication",
+      "question": "Is there a character limit for email?",
+      "answer": "Standard email format validation applies. Very long emails may work but aren't recommended."
+    },
+    {
+      "id": 356,
+      "category": "Session Management",
+      "question": "Can I have different timeouts for different scenarios?",
+      "answer": "Yes, modify code to check conditions and set variable timeouts. E.g., shorter timeout for public computers."
+    },
+    {
+      "id": 357,
+      "category": "Session Management",
+      "question": "What if my mouse moves accidentally?",
+      "answer": "Any movement resets timer. If concerned, increase timeout duration or add minimum movement threshold in code."
+    },
+    {
+      "id": 358,
+      "category": "Session Management",
+      "question": "Can I disable timeout on specific devices?",
+      "answer": "Yes, detect device (using user agent or localStorage flag) and skip timer setup for trusted devices."
+    },
+    {
+      "id": 359,
+      "category": "Session Management",
+      "question": "Does closing laptop lid trigger timeout?",
+      "answer": "Timer continues running. If lid closed past 2 minutes, you'll be logged out when you reopen."
+    },
+    {
+      "id": 360,
+      "category": "Session Management",
+      "question": "Can I manually trigger logout without waiting?",
+      "answer": "Yes, click the Logout link in header anytime. No need to wait for automatic timeout."
+    },
+    {
+      "id": 361,
+      "category": "Chat Features",
+      "question": "Can I use hashtags in messages?",
+      "answer": "Yes, you can type hashtags. They're stored as text but not used for filtering or organization by default."
+    },
+    {
+      "id": 362,
+      "category": "Chat Features",
+      "question": "Is there a daily message limit?",
+      "answer": "No limits on number of messages. Only constraints are localStorage size and device performance."
+    },
+    {
+      "id": 363,
+      "category": "Chat Features",
+      "question": "Can I schedule messages?",
+      "answer": "Not built-in. Would require adding scheduler feature with stored queue and timer to send at specified times."
+    },
+    {
+      "id": 364,
+      "category": "Chat Features",
+      "question": "What happens if I spam questions?",
+      "answer": "No rate limiting. You can send as many questions as you want. Performance may degrade with very large history."
+    },
+    {
+      "id": 365,
+      "category": "Chat Features",
+      "question": "Can AI responses include HTML?",
+      "answer": "Responses are displayed as text. HTML would show as code, not rendered. Modify code to sanitize and render HTML if needed."
+    },
+    {
+      "id": 366,
+      "category": "Chat Features",
+      "question": "How do I copy entire conversation?",
+      "answer": "Export as TXT, or select all text in chat area (Ctrl+A) and copy (Ctrl+C)."
+    },
+    {
+      "id": 367,
+      "category": "Chat Features",
+      "question": "Can I change subject mid-conversation?",
+      "answer": "Yes, switch subject anytime using dropdown. Previous messages remain; new questions use new subject's knowledge base."
+    },
+    {
+      "id": 368,
+      "category": "Chat Features",
+      "question": "Is there a way to preview long answers?",
+      "answer": "All answers display in full. For very long answers, consider implementing collapsible sections or 'Read More' buttons."
+    },
+    {
+      "id": 369,
+      "category": "Chat Features",
+      "question": "Can I download answers as individual files?",
+      "answer": "Not built-in. You'd need to add feature to export single message as file with download button per message."
+    },
+    {
+      "id": 370,
+      "category": "Chat Features",
+      "question": "What's the difference between subjects?",
+      "answer": "Each subject uses different JSON knowledge base file with Q&A specific to that topic area."
+    },
+    {
+      "id": 371,
+      "category": "Import & Export",
+      "question": "Can I export in different fonts?",
+      "answer": "Text exports use system default font. For custom fonts, export as PDF and configure print settings."
+    },
+    {
+      "id": 372,
+      "category": "Import & Export",
+      "question": "How do I export to Google Docs?",
+      "answer": "Export as TXT, then upload to Google Drive and open with Google Docs for editing."
+    },
+    {
+      "id": 373,
+      "category": "Import & Export",
+      "question": "Can I export with custom formatting?",
+      "answer": "Modify exportAsText() function to include custom formatting, styling, or additional metadata."
+    },
+    {
+      "id": 374,
+      "category": "Import & Export",
+      "question": "What if export file is too large?",
+      "answer": "Clear old messages before exporting, or split history by exporting, clearing, continuing, then exporting again."
+    },
+    {
+      "id": 375,
+      "category": "Import & Export",
+      "question": "Can I auto-export on logout?",
+      "answer": "Not built-in. Modify logout function to trigger export automatically before clearing session."
+    },
+    {
+      "id": 376,
+      "category": "Import & Export",
+      "question": "How do I verify export integrity?",
+      "answer": "Check file size isn't 0, open in text editor, verify messages are readable, test import on clean session."
+    },
+    {
+      "id": 377,
+      "category": "Import & Export",
+      "question": "Can I export only new messages since last export?",
+      "answer": "Not built-in. Would need to track last export timestamp and filter messages by date for incremental exports."
+    },
+    {
+      "id": 378,
+      "category": "Import & Export",
+      "question": "What's the recommended backup strategy?",
+      "answer": "Weekly exports, keep 3 most recent, store in cloud (Google Drive, Dropbox), verify imports occasionally."
+    },
+    {
+      "id": 379,
+      "category": "Import & Export",
+      "question": "Can I import from command line?",
+      "answer": "No CLI support. Would need to create Node.js script that manipulates localStorage through browser automation."
+    },
+    {
+      "id": 380,
+      "category": "Import & Export",
+      "question": "How do I share exports securely?",
+      "answer": "Encrypt export file before sharing. Use secure file transfer (SFTP, encrypted email). Remove sensitive info first."
+    },
+    {
+      "id": 381,
+      "category": "Data & Security",
+      "question": "Can I audit who accessed my data?",
+      "answer": "No access logging built-in. Browser localStorage doesn't track access. Use OS-level audit tools if needed."
+    },
+    {
+      "id": 382,
+      "category": "Data & Security",
+      "question": "What if I suspect data breach?",
+      "answer": "Change encryption key, export data, clear localStorage, import with new key. Check device for malware."
+    },
+    {
+      "id": 383,
+      "category": "Data & Security",
+      "question": "Can I use two-factor authentication?",
+      "answer": "Not built-in. Would require server backend to implement 2FA properly with time-based codes."
+    },
+    {
+      "id": 384,
+      "category": "Data & Security",
+      "question": "How do I secure against keyloggers?",
+      "answer": "Use antivirus/antimalware, virtual keyboard, trusted devices. Navi AI can't protect against keyloggers itself."
+    },
+    {
+      "id": 385,
+      "category": "Data & Security",
+      "question": "Is data encrypted in transit?",
+      "answer": "No transit - everything is local. If hosting on web server, use HTTPS to encrypt page delivery."
+    },
+    {
+      "id": 386,
+      "category": "Data & Security",
+      "question": "Can I set data expiration?",
+      "answer": "Not built-in. Add timestamp check on load that clears old data after specified period (e.g., 30 days)."
+    },
+    {
+      "id": 387,
+      "category": "Data & Security",
+      "question": "What's the risk of localStorage injection?",
+      "answer": "If malicious scripts run, they can access/modify localStorage. Only use Navi AI from trusted sources."
+    },
+    {
+      "id": 388,
+      "category": "Data & Security",
+      "question": "Can I anonymize my data?",
+      "answer": "Don't include personal info in questions. Use generic username. Export without personally identifiable information."
+    },
+    {
+      "id": 389,
+      "category": "Data & Security",
+      "question": "How do I comply with data retention policies?",
+      "answer": "Set reminder to export and clear data per policy (e.g., monthly). Implement auto-deletion in code if needed."
+    },
+    {
+      "id": 390,
+      "category": "Data & Security",
+      "question": "What if my device is compromised?",
+      "answer": "Assume data is compromised. Use different device, don't reuse credentials, change encryption key in code."
+    },
+    {
+      "id": 391,
+      "category": "Troubleshooting",
+      "question": "Browser says JavaScript is disabled",
+      "answer": "Enable JavaScript in browser settings: Chrome (Settings > Privacy > Site Settings), Firefox (about:config > javascript.enabled)."
+    },
+    {
+      "id": 392,
+      "category": "Troubleshooting",
+      "question": "localStorage quota exceeded error",
+      "answer": "Clear old messages, export and remove large data, or upgrade browser. Typical limit is 5-10MB per domain."
+    },
+    {
+      "id": 393,
+      "category": "Troubleshooting",
+      "question": "CORS error loading JSON files",
+      "answer": "Use local web server (Live Server, http-server) instead of file:// protocol. Or configure CORS if hosting remotely."
+    },
+    {
+      "id": 394,
+      "category": "Troubleshooting",
+      "question": "Glassmorphism not working in Firefox",
+      "answer": "Firefox < 103 doesn't support backdrop-filter. Update Firefox or add -moz- prefix. Some effects may not work on older versions."
+    },
+    {
+      "id": 395,
+      "category": "Troubleshooting",
+      "question": "PDF export shows no content",
+      "answer": "Check if CSS loaded for print. Test print preview. Try different browser (Chrome/Edge work best)."
+    },
+    {
+      "id": 396,
+      "category": "Troubleshooting",
+      "question": "Characters display as boxes or symbols",
+      "answer": "Font doesn't support those characters. Install proper fonts or use web fonts that support international characters."
+    },
+    {
+      "id": 397,
+      "category": "Troubleshooting",
+      "question": "Page won't scroll to bottom automatically",
+      "answer": "Check if smooth scroll is working. Manually scroll down. Clear history if performance is issue."
+    },
+    {
+      "id": 398,
+      "category": "Troubleshooting",
+      "question": "Buttons have no hover effect",
+      "answer": "Check CSS loaded. Try different browser. If on touch device, hover effects don't work (use active states)."
+    },
+    {
+      "id": 399,
+      "category": "Troubleshooting",
+      "question": "Export button downloads .txt as .html",
+      "answer": "Browser may misidentify file type. Manually rename after download. Check download settings."
+    },
+    {
+      "id": 400,
+      "category": "Troubleshooting",
+      "question": "Can't open exported PDF",
+      "answer": "Ensure you used 'Save as PDF' in print dialog. If saved as .pdf but won't open, try different PDF reader."
+    },
+    {
+      "id": 401,
+      "category": "Advanced Features",
+      "question": "How do I implement version control for Q&A?",
+      "answer": "Add version fields to JSON, track changes in git, create migration scripts for data format updates."
+    },
+    {
+      "id": 402,
+      "category": "Advanced Features",
+      "question": "Can I create multiple knowledge bases?",
+      "answer": "Yes, create separate JSON files, add to subjects dropdown, load appropriate file based on selection."
+    },
+    {
+      "id": 403,
+      "category": "Advanced Features",
+      "question": "How do I implement fuzzy search tuning?",
+      "answer": "Adjust match thresholds, tweak scoring algorithms, add synonym matching, implement stemming for better matches."
+    },
+    {
+      "id": 404,
+      "category": "Advanced Features",
+      "question": "Can I add admin panel?",
+      "answer": "Yes, create separate admin.html with interface to edit Q&A, manage users, view analytics, configure settings."
+    },
+    {
+      "id": 405,
+      "category": "Advanced Features",
+      "question": "How do I implement rate limiting?",
+      "answer": "Track message timestamps, count messages in time window, block/warn if threshold exceeded."
+    },
+    {
+      "id": 406,
+      "category": "Advanced Features",
+      "question": "Can I add A/B testing?",
+      "answer": "Yes, randomly assign users to variants, track metrics for each, use localStorage to persist assignment."
+    },
+    {
+      "id": 407,
+      "category": "Advanced Features",
+      "question": "How do I implement progressive web app?",
+      "answer": "Add manifest.json, service worker for offline, proper meta tags, icons. Make installable on mobile."
+    },
+    {
+      "id": 408,
+      "category": "Advanced Features",
+      "question": "Can I add browser extension?",
+      "answer": "Yes, create Chrome/Firefox extension with content script that embeds Navi AI or communicates with it."
+    },
+    {
+      "id": 409,
+      "category": "Advanced Features",
+      "question": "How do I implement GraphQL API?",
+      "answer": "Add GraphQL server (Apollo, Express-GraphQL), define schema for Q&A queries, mutations for chat operations."
+    },
+    {
+      "id": 410,
+      "category": "Advanced Features",
+      "question": "Can I add natural language understanding?",
+      "answer": "Yes, integrate NLP libraries like compromise, natural, or cloud APIs like Google NLP, Amazon Comprehend."
+    },
+    {
+      "id": 411,
+      "category": "Advanced Features",
+      "question": "How do I implement caching strategy?",
+      "answer": "Cache frequently accessed Q&A in memory, use service worker for offline caching, implement LRU cache for searches."
+    },
+    {
+      "id": 412,
+      "category": "Advanced Features",
+      "question": "Can I add gamification?",
+      "answer": "Yes, add points for messages sent, badges for achievements, leaderboards, streaks for daily usage."
+    },
+    {
+      "id": 413,
+      "category": "Advanced Features",
+      "question": "How do I implement data migration?",
+      "answer": "Create migration functions that detect old format, transform to new format, update version number in localStorage."
+    },
+    {
+      "id": 414,
+      "category": "Advanced Features",
+      "question": "Can I add accessibility features?",
+      "answer": "Yes, add ARIA labels, keyboard navigation, screen reader support, high contrast mode, text scaling."
+    },
+    {
+      "id": 415,
+      "category": "Advanced Features",
+      "question": "How do I implement internationalization?",
+      "answer": "Create language files (en.json, es.json), detect browser language, load appropriate translations, support RTL."
+    },
+    {
+      "id": 416,
+      "category": "Tips & Tricks",
+      "question": "How do I master keyboard navigation?",
+      "answer": "Tab through elements, Enter to activate, Space for checkboxes, Arrow keys for dropdowns, Escape to cancel."
+    },
+    {
+      "id": 417,
+      "category": "Tips & Tricks",
+      "question": "What's the best way to learn subjects?",
+      "answer": "Ask progressively complex questions, take notes on answers, export sessions for review, test yourself later."
+    },
+    {
+      "id": 418,
+      "category": "Tips & Tricks",
+      "question": "Can I use Navi AI for quick facts?",
+      "answer": "Yes, perfect for quick lookups. Ask direct questions, get immediate answers, no need to search multiple sources."
+    },
+    {
+      "id": 419,
+      "category": "Tips & Tricks",
+      "question": "How do I maintain conversation context manually?",
+      "answer": "Include previous answer context in follow-up questions. E.g., 'About that algorithm, how do I implement it?'"
+    },
+    {
+      "id": 420,
+      "category": "Tips & Tricks",
+      "question": "What's the most underused feature?",
+      "answer": "Import feature! Many users don't realize they can transfer conversations between devices or restore from backups."
+    },
+    {
+      "id": 421,
+      "category": "Tips & Tricks",
+      "question": "How do I use Navi AI for team learning?",
+      "answer": "Share exports with team, discuss answers, create shared knowledge base, collaborate on questions."
+    },
+    {
+      "id": 422,
+      "category": "Tips & Tricks",
+      "question": "Can I use Navi AI as second brain?",
+      "answer": "Yes, ask questions you'd normally search, build personal knowledge repository through conversations, export archives."
+    },
+    {
+      "id": 423,
+      "category": "Tips & Tricks",
+      "question": "How do I avoid information overload?",
+      "answer": "Focus on one subject at a time, don't rush through answers, take breaks, export and reflect later."
+    },
+    {
+      "id": 424,
+      "category": "Tips & Tricks",
+      "question": "What's the best time to use Navi AI?",
+      "answer": "Whenever you have questions! Great for study sessions, work breaks, commute time, before bed reading."
+    },
+    {
+      "id": 425,
+      "category": "Tips & Tricks",
+      "question": "How do I integrate Navi AI into daily routine?",
+      "answer": "Set as homepage, pin browser tab, morning review session, evening Q&A, use for all factual lookups."
+    },
+    {
+      "id": 426,
+      "category": "Getting Started",
+      "question": "What inspired Navi AI's creation?",
+      "answer": "Created by Ashish Gupta to provide accessible, private, offline-capable AI assistance without cloud dependencies."
+    },
+    {
+      "id": 427,
+      "category": "Getting Started",
+      "question": "Why is it called Navi AI?",
+      "answer": "'Navi' suggests navigation and guidance, representing AI's role as intelligent assistant navigating knowledge with you."
+    },
+    {
+      "id": 428,
+      "category": "Getting Started",
+      "question": "What's the tech stack?",
+      "answer": "Vanilla JavaScript ES6+, HTML5, CSS3, localStorage API, no frameworks or external dependencies for core functionality."
+    },
+    {
+      "id": 429,
+      "category": "Getting Started",
+      "question": "Can students use Navi AI?",
+      "answer": "Absolutely! Great study tool for students. Use for homework help, concept clarification, exam prep, research starting point."
+    },
+    {
+      "id": 430,
+      "category": "Getting Started",
+      "question": "Can professionals use Navi AI?",
+      "answer": "Yes! Quick reference for work questions, onboarding tool, knowledge sharing, technical documentation alternative."
+    },
+    {
+      "id": 431,
+      "category": "Login & Authentication",
+      "question": "What's the session storage used for?",
+      "answer": "sessionStorage holds active session data temporarily. Cleared when tab closes. Used for current session state only."
+    },
+    {
+      "id": 432,
+      "category": "Login & Authentication",
+      "question": "Can I pre-fill login credentials?",
+      "answer": "Yes, if credentials exist in localStorage and manual logout flag isn't set, auto-login happens automatically."
+    },
+    {
+      "id": 433,
+      "category": "Login & Authentication",
+      "question": "What validates email format?",
+      "answer": "Basic regex pattern checks for user@domain.com format. No SMTP verification since no email is sent."
+    },
+    {
+      "id": 434,
+      "category": "Login & Authentication",
+      "question": "Can I add biometric authentication?",
+      "answer": "Yes, use WebAuthn API for fingerprint/face recognition. Requires HTTPS and modern browser support."
+    },
+    {
+      "id": 435,
+      "category": "Login & Authentication",
+      "question": "What happens on first visit?",
+      "answer": "Redirected to login page, prompted to login or use guest mode. No cookies or tracking on first visit."
+    },
+    {
+      "id": 436,
+      "category": "Session Management",
+      "question": "Can I see all active sessions?",
+      "answer": "Not built-in. Each tab is independent session. Could add feature to list and manage multiple tabs."
+    },
+    {
+      "id": 437,
+      "category": "Session Management",
+      "question": "What's stored in sessionStorage vs localStorage?",
+      "answer": "sessionStorage: current session flag. localStorage: user data, chat history, encryption, settings. Session is temporary."
+    },
+    {
+      "id": 438,
+      "category": "Session Management",
+      "question": "Can I force logout all sessions?",
+      "answer": "Each tab is independent. Would need to broadcast logout via BroadcastChannel API to sync across tabs."
+    },
+    {
+      "id": 439,
+      "category": "Session Management",
+      "question": "What if I'm logged in on multiple tabs?",
+      "answer": "Each tab has independent timer and session. Logout in one doesn't affect others unless you implement sync."
+    },
+    {
+      "id": 440,
+      "category": "Session Management",
+      "question": "Can I persist session across device restart?",
+      "answer": "Yes, localStorage persists across restarts. Auto-login happens if not manually logged out."
+    },
+    {
+      "id": 441,
+      "category": "Chat Features",
+      "question": "What's the maximum Q&A database size?",
+      "answer": "Limited by practical considerations. Thousands of Q&A work fine. Beyond 10k, consider database indexing."
+    },
+    {
+      "id": 442,
+      "category": "Chat Features",
+      "question": "Can I see question suggestions?",
+      "answer": "Not built-in. Could add autocomplete based on popular questions or previous queries."
+    },
+    {
+      "id": 443,
+      "category": "Chat Features",
+      "question": "How does fuzzy matching work?",
+      "answer": "Compares question to all Q&A entries, scores similarity using text algorithms, returns best match above threshold."
+    },
+    {
+      "id": 444,
+      "category": "Chat Features",
+      "question": "Can I see alternative answers?",
+      "answer": "Not currently. Could modify to show top 3 matches and let user choose most relevant."
+    },
+    {
+      "id": 445,
+      "category": "Chat Features",
+      "question": "What if question matches multiple subjects?",
+      "answer": "Only selected subject is searched. To check multiple subjects, ask same question after switching subjects."
+    },
+    {
+      "id": 446,
+      "category": "Chat Features",
+      "question": "Can I report missing answers?",
+      "answer": "Note the question and subject, contact developer or submit issue to add missing Q&A to knowledge base."
+    },
+    {
+      "id": 447,
+      "category": "Chat Features",
+      "question": "How often is Q&A database updated?",
+      "answer": "Depends on maintainer's schedule. Check lastUpdated field in JSON files for most recent update date."
+    },
+    {
+      "id": 448,
+      "category": "Chat Features",
+      "question": "Can I contribute Q&A content?",
+      "answer": "Yes! Submit questions and answers to developer via pull requests or issues. Follow existing JSON format."
+    },
+    {
+      "id": 449,
+      "category": "Chat Features",
+      "question": "What makes a good question?",
+      "answer": "Specific, clear, uses proper terminology, one concept per question, right subject selected, correct spelling."
+    },
+    {
+      "id": 450,
+      "category": "Chat Features",
+      "question": "What makes a good answer?",
+      "answer": "Accurate, concise, well-explained, includes examples when helpful, addresses question directly, easy to understand."
+    },
+    {
+      "id": 451,
+      "category": "Import & Export",
+      "question": "Can I export as HTML?",
+      "answer": "Not built-in. Could modify export function to generate formatted HTML with styles for browser viewing."
+    },
+    {
+      "id": 452,
+      "category": "Import & Export",
+      "question": "How do I export to Notion?",
+      "answer": "Export as TXT or MD, then copy-paste into Notion, or use Notion's import feature for markdown files."
+    },
+    {
+      "id": 453,
+      "category": "Import & Export",
+      "question": "Can I export to database?",
+      "answer": "Not directly. Export as JSON (modify code), then import JSON into database using migration script."
+    },
+    {
+      "id": 454,
+      "category": "Import & Export",
+      "question": "What's the export file naming convention?",
+      "answer": "Default: navi_ai_export_[username]_[timestamp].txt. Customize in exportAsText() function if needed."
+    },
+    {
+      "id": 455,
+      "category": "Import & Export",
+      "question": "Can I include metadata in exports?",
+      "answer": "Yes, exports include username, email, timestamp. Modify function to add more metadata like subject distribution."
+    },
+    {
+      "id": 456,
+      "category": "Import & Export",
+      "question": "How do I export for printing?",
+      "answer": "Use Export PDF button, or export TXT and format in word processor before printing."
+    },
+    {
+      "id": 457,
+      "category": "Import & Export",
+      "question": "Can I email exports directly?",
+      "answer": "Not built-in. Export file first, then attach to email manually. Could integrate email API for direct sending."
+    },
+    {
+      "id": 458,
+      "category": "Import & Export",
+      "question": "What if import file has encoding issues?",
+      "answer": "Ensure file is UTF-8 encoded. Open in text editor, save as UTF-8, then try importing again."
+    },
+    {
+      "id": 459,
+      "category": "Import & Export",
+      "question": "Can I import from clipboard?",
+      "answer": "Not built-in. Could add feature to paste conversation text directly instead of file upload."
+    },
+    {
+      "id": 460,
+      "category": "Import & Export",
+      "question": "How do I validate export format before import?",
+      "answer": "Check for 'YOU:' and 'NAVI AI:' prefixes. Verify proper line breaks. Test import on copy first."
+    },
+    {
+      "id": 461,
+      "category": "Data & Security",
+      "question": "Can I use hardware security module?",
+      "answer": "Overkill for client-side app. If needed, implement server backend with HSM for key storage and encryption."
+    },
+    {
+      "id": 462,
+      "category": "Data & Security",
+      "question": "What's the threat model?",
+      "answer": "Protects against casual localStorage browsing. Not secure against determined attacker with device access or decompiling code."
+    },
+    {
+      "id": 463,
+      "category": "Data & Security",
+      "question": "Can I add security audit logging?",
+      "answer": "Yes, add timestamps for all operations (login, logout, export, clear) and store in separate localStorage key."
+    },
+    {
+      "id": 464,
+      "category": "Data & Security",
+      "question": "What if localStorage is disabled?",
+      "answer": "Navi AI won't work without localStorage. Display error message and instructions to enable it."
+    },
+    {
+      "id": 465,
+      "category": "Data & Security",
+      "question": "Can I use IndexedDB instead of localStorage?",
+      "answer": "Yes, refactor storage layer to use IndexedDB. Provides more storage space and better performance for large data."
+    },
+    {
+      "id": 466,
+      "category": "Data & Security",
+      "question": "?",
+      "answer": "Use DOMPurify or similar library to sanitize user input before storing. Prevent XSS attacks."
+    },
+    {
+      "id": 467,
+      "category": "Data & Security",
+      "question": "Can I add content security policy?",
+      "answer": "Yes, add CSP headers to prevent inline scripts, limit resource loading. Important for security hardening."
+    },
+    {
+      "id": 468,
+      "category": "Data & Security",
+      "question": "What about SQL injection?",
+      "answer": "Not applicable - no SQL database. All data in localStorage as JSON. Still validate/sanitize all inputs."
+    },
+    {
+      "id": 469,
+      "category": "Data & Security",
+      "question": "Can I implement zero-knowledge architecture?",
+      "answer": "Yes, encrypt data with user-provided password never stored. Only encrypted data in localStorage."
+    },
+    {
+      "id": 470,
+      "category": "Data & Security",
+      "question": "How do I handle GDPR right to erasure?",
+      "answer": "Clear button deletes all data. For complete erasure, run localStorage.clear() and confirm data removal."
+    },
+    {
+      "id": 471,
+      "category": "Troubleshooting",
+      "question": "DevTools console shows warnings",
+      "answer": "Warnings usually non-critical. Check specific warning message. May be browser-specific or extension-related."
+    },
+    {
+      "id": 472,
+      "category": "Troubleshooting",
+      "question": "Memory leak over long usage",
+      "answer": "Export and clear history periodically. Close and reopen tab. Check browser task manager for memory usage."
+    },
+    {
+      "id": 473,
+      "category": "Troubleshooting",
+      "question": "Slow performance on mobile",
+      "answer": "Clear history, close other apps, use lighter browser. Mobile has limited resources compared to desktop."
+    },
+    {
+      "id": 474,
+      "category": "Troubleshooting",
+      "question": "Theme colors look different on mobile",
+      "answer": "Different screens have different color profiles. Adjust device brightness/color settings for consistency."
+    },
+    {
+      "id": 475,
+      "category": "Troubleshooting",
+      "question": "Touch gestures don't work",
+      "answer": "Ensure touch events enabled in code. Update to latest browser. Some gestures may not be implemented."
+    },
+    {
+      "id": 476,
+      "category": "Troubleshooting",
+      "question": "Auto-complete interferes with typing",
+      "answer": "Disable browser auto-complete in input settings. Add autocomplete='off' to input elements in HTML."
+    },
+    {
+      "id": 477,
+      "category": "Troubleshooting",
+      "question": "Text-to-speech not working",
+      "answer": "Navi AI doesn't include TTS by default. If you added it, check browser TTS API support and permissions."
+    },
+    {
+      "id": 478,
+      "category": "Troubleshooting",
+      "question": "Notifications not showing",
+      "answer": "If you added notifications, check browser notification permissions. May be blocked in settings."
+    },
+    {
+      "id": 479,
+      "category": "Troubleshooting",
+      "question": "Service worker not caching",
+      "answer": "If you added PWA, check service worker registration. HTTPS required for service workers."
+    },
+    {
+      "id": 480,
+      "category": "Troubleshooting",
+      "question": "App not installable as PWA",
+      "answer": "Verify manifest.json exists, icons are correct sizes, HTTPS enabled, service worker registered."
+    },
+    {
+      "id": 481,
+      "category": "Advanced Features",
+      "question": "How do I implement real-time collaboration?",
+      "answer": "Add WebSocket server, sync messages across clients, handle conflicts, implement operational transformation or CRDT."
+    },
+    {
+      "id": 482,
+      "category": "Advanced Features",
+      "question": "Can I add video chat integration?",
+      "answer": "Yes, integrate WebRTC for peer-to-peer video, or use services like Agora, Twilio Video."
+    },
+    {
+      "id": 483,
+      "category": "Advanced Features",
+      "question": "How do I implement smart suggestions?",
+      "answer": "Analyze past questions, identify patterns, use ML to predict relevant questions, show as chips/buttons."
+    },
+    {
+      "id": 484,
+      "category": "Advanced Features",
+      "question": "Can I add sentiment analysis?",
+      "answer": "Yes, use libraries like sentiment.js or cloud APIs to analyze emotional tone of questions/answers."
+    },
+    {
+      "id": 485,
+      "category": "Advanced Features",
+      "question": "How do I implement semantic search?",
+      "answer": "Use embeddings (word2vec, BERT), calculate semantic similarity, rank results by meaning not just keywords."
+    },
+    {
+      "id": 486,
+      "category": "Advanced Features",
+      "question": "Can I add entity extraction?",
+      "answer": "Yes, use NER (Named Entity Recognition) libraries to extract people, places, dates from conversations."
+    },
+    {
+      "id": 487,
+      "category": "Advanced Features",
+      "question": "How do I implement topic modeling?",
+      "answer": "Use LDA or NMF algorithms to automatically discover topics from conversation history."
+    },
+    {
+      "id": 488,
+      "category": "Advanced Features",
+      "question": "Can I add conversation summaries?",
+      "answer": "Yes, implement extractive or abstractive summarization to create concise summaries of long chats."
+    },
+    {
+      "id": 489,
+      "category": "Advanced Features",
+      "question": "How do I implement question rewording?",
+      "answer": "Use paraphrase detection, synonym replacement, or ML models to automatically improve question phrasing."
+    },
+    {
+      "id": 490,
+      "category": "Advanced Features",
+      "question": "Can I add knowledge graph?",
+      "answer": "Yes, structure Q&A as graph with entities as nodes, relationships as edges. Query using graph traversal."
+    },
+    {
+      "id": 491,
+      "category": "Advanced Features",
+      "question": "How do I implement context awareness?",
+      "answer": "Store conversation context, reference previous messages, maintain topic thread across multiple questions."
+    },
+    {
+      "id": 492,
+      "category": "Advanced Features",
+      "question": "Can I add voice commands?",
+      "answer": "Yes, use Web Speech API's recognition for voice input, parse commands, execute actions."
+    },
+    {
+      "id": 493,
+      "category": "Advanced Features",
+      "question": "How do I implement smart notifications?",
+      "answer": "Track user patterns, send reminders at optimal times, notify about relevant new Q&A content."
+    },
+    {
+      "id": 494,
+      "category": "Advanced Features",
+      "question": "Can I add predictive typing?",
+      "answer": "Yes, analyze past questions, build n-gram model, suggest completions as user types."
+    },
+    {
+      "id": 495,
+      "category": "Advanced Features",
+      "question": "How do I implement question clustering?",
+      "answer": "Use k-means or hierarchical clustering on question embeddings to group similar questions."
+    },
+    {
+      "id": 496,
+      "category": "Tips & Tricks",
+      "question": "How do I use Navi AI for project planning?",
+      "answer": "Ask about methodologies, best practices, technical requirements. Export discussions for project documentation."
+    },
+    {
+      "id": 497,
+      "category": "Tips & Tricks",
+      "question": "Can I use it for meeting notes?",
+      "answer": "Ask questions during meetings, capture key points as conversations, export as meeting minutes."
+    },
+    {
+      "id": 498,
+      "category": "Tips & Tricks",
+      "question": "How do I use it for troubleshooting?",
+      "answer": "Describe issues as questions, work through solutions systematically, document successful fixes."
+    },
+    {
+      "id": 499,
+      "category": "Tips & Tricks",
+      "question": "Can I use it for writing assistance?",
+      "answer": "Ask about grammar, writing techniques, structure. Use English subject for language help."
+    },
+    {
+      "id": 500,
+      "category": "Tips & Tricks",
+      "question": "How do I make it my default reference?",
+      "answer": "Set as browser homepage, add bookmark toolbar button, make keyboard shortcut, pin tab permanently."
+    }
+  ]
+}
