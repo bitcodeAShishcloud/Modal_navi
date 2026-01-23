@@ -20,7 +20,7 @@ const subjects = {
     Relationship: "data/relationship.json",
     Technology: "data/technology.json",
     Daily_life: "data/daily_life.json",
-    Web_Tech_1:"data/Web_Technologies_1.json",
+    Web_Technologies: "data/Web_Technologies_1.json",
     Cyber_threat_intelligence_unit1: "data/cyber_threat_intelligence_unit1.json"
 };
 
@@ -543,4 +543,5 @@ if (document.readyState === 'loading') {
 } else {
     init();
 }
+
 
